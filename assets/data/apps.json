@@ -1,540 +1,556 @@
 {
-  "apps": [
-    {
-      "category": "gaming",
-      "developer": "Level Infinite",
-      "features": [
-        "100-player battle royale matches",
-        "Multiple maps: Erangel, Miramar, Sanhok",
-        "Ranked seasons and clan system"
-      ],
-      "name": "PUBG Mobile",
-      "package": "com.tencent.ig",
-      "review": "The battle royale that defined mobile gaming. PUBG Mobile still sets the standard for gunplay and tactical depth on phones, with regular map and mode updates keeping it fresh.",
-      "slug": "pubg-mobile"
-    },
-    {
-      "category": "gaming",
-      "developer": "Garena",
-      "features": [
-        "Fast 10-minute matches",
-        "4v4 Clash Squad mode",
-        "Frequent character and pet updates"
-      ],
-      "name": "Free Fire",
-      "package": "com.dts.freefireth",
-      "review": "Built for quick sessions and low-end phones. Free Fire runs smoothly where heavier shooters stutter, which is exactly why it dominates budget devices in Pakistan.",
-      "slug": "free-fire"
-    },
-    {
-      "category": "gaming",
-      "developer": "Activision",
-      "features": [
-        "Console-quality multiplayer maps",
-        "Battle royale and zombies modes",
-        "Controller support"
-      ],
-      "name": "Call of Duty: Mobile",
-      "package": "com.activision.callofduty.shooter",
-      "review": "The most polished shooter on mobile. COD Mobile brings classic maps and tight controls, though it demands a mid-range phone or better for high frame rates.",
-      "slug": "cod-mobile"
-    },
-    {
-      "category": "gaming",
-      "developer": "Roblox Corporation",
-      "features": [
-        "Millions of user-made games",
-        "Cross-platform play",
-        "Avatar and world customization"
-      ],
-      "name": "Roblox",
-      "package": "com.roblox.client",
-      "review": "Less a game, more a universe of games. Roblox is huge with younger players and runs on almost any Android phone.",
-      "slug": "roblox"
-    },
-    {
-      "category": "creativity",
-      "developer": "Bytedance",
-      "features": [
-        "Auto-captions and templates",
-        "Keyframe animation",
-        "Direct TikTok export"
-      ],
-      "name": "CapCut",
-      "package": "com.lemon.lvoverseas",
-      "review": "The go-to free video editor for reels and TikTok. CapCut packs pro tools like keyframes and auto-captions without a watermark on exports.",
-      "slug": "capcut"
-    },
-    {
-      "category": "creativity",
-      "developer": "TikTok Pte. Ltd.",
-      "features": [
-        "Short-form video feed",
-        "Built-in editor and effects",
-        "Live streaming"
-      ],
-      "name": "TikTok",
-      "package": "com.zhiliaoapp.musically",
-      "review": "The short-video giant. Beyond entertainment, it is now a serious discovery and earning platform for Pakistani creators.",
-      "slug": "tiktok"
-    },
-    {
-      "category": "social",
-      "developer": "Meta",
-      "features": [
-        "End-to-end encrypted chats",
-        "Channels and communities",
-        "Voice and video calls"
-      ],
-      "name": "WhatsApp",
-      "package": "com.whatsapp",
-      "review": "Pakistan's default messenger. Channels and communities have turned it into much more than a chat app.",
-      "slug": "whatsapp"
-    },
-    {
-      "category": "social",
-      "developer": "Meta",
-      "features": [
-        "Reels and Stories",
-        "DMs and broadcast channels",
-        "Shopping tags"
-      ],
-      "name": "Instagram",
-      "package": "com.instagram.android",
-      "review": "Home of reels and visual creators. Instagram remains the platform where Pakistani brands and influencers grow fastest.",
-      "slug": "instagram"
-    },
-    {
-      "category": "finance",
-      "developer": "Telenor Pakistan",
-      "features": [
-        "Money transfer and bill payments",
-        "QR payments at shops",
-        "Savings and insurance options"
-      ],
-      "name": "Easypaisa",
-      "package": "pk.com.telenor.phoenix",
-      "review": "Pakistan's pioneering mobile wallet. Easypaisa covers transfers, bills, and merchant payments, and works even on basic accounts.",
-      "slug": "easypaisa"
-    },
-    {
-      "category": "finance",
-      "developer": "Jazz",
-      "features": [
-        "Mobile account and transfers",
-        "Utility bill payments",
-        "Debit card linking"
-      ],
-      "name": "JazzCash",
-      "package": "com.techlogix.mobilinkcustomer",
-      "review": "Jazz's mobile wallet and a daily driver for millions. Bill payments and transfers are quick; always download the official app only.",
-      "slug": "jazzcash"
-    },
-    {
-      "category": "finance",
-      "developer": "Alibaba Group",
-      "features": [
-        "Online shopping across Pakistan",
-        "Flash sales and vouchers",
-        "Daraz Mall for genuine brands"
-      ],
-      "name": "Daraz",
-      "package": "com.daraz.android",
-      "review": "Pakistan's biggest online marketplace. The app's flash sales and vouchers make it worth installing for deal hunters.",
-      "slug": "daraz"
-    },
-    {
-      "category": "photography",
-      "developer": "Google",
-      "features": [
-        "29+ filters and tools",
-        "RAW editing support",
-        "Selective adjustments"
-      ],
-      "name": "Snapseed",
-      "package": "com.niksoftware.snapseed",
-      "review": "Google's free photo editor is still the best no-cost option. Selective edits and healing are genuinely pro-grade.",
-      "slug": "snapseed"
-    },
-    {
-      "category": "photography",
-      "developer": "Picsart",
-      "features": [
-        "AI photo effects",
-        "Collage and sticker maker",
-        "Replays: one-tap edit recipes"
-      ],
-      "name": "Picsart",
-      "package": "com.picsart.studio",
-      "review": "The creative all-rounder for photo edits, collages, and social posts. Free tier is generous; gold unlocks AI tools.",
-      "slug": "picsart"
-    },
-    {
-      "slug": "youtube",
-      "name": "YouTube",
-      "developer": "Google LLC",
-      "package": "com.google.android.youtube",
-      "category": "social",
-      "review": "The world's biggest video platform, pre-installed on almost every Android phone in Pakistan. From drama OSTs to cricket highlights and tech reviews, it is where Pakistan watches. Best for anyone who wants free, endless video — just watch your mobile data, because HD streaming eats gigabytes fast.",
-      "features": [
-        "Watch and upload videos in up to 4K",
-        "YouTube Shorts for quick vertical videos",
-        "Offline downloads with Premium",
-        "Live streams, premieres and community posts",
-        "Background play and Picture-in-Picture (Premium)"
-      ]
-    },
-    {
-      "slug": "facebook",
-      "name": "Facebook",
-      "developer": "Meta Platforms, Inc.",
-      "package": "com.facebook.katana",
-      "category": "social",
-      "review": "Still the social network with the widest reach in Pakistan, especially for family groups, buy-and-sell communities and local business pages. Marketplace alone makes it worth keeping for deals on used phones and furniture. The app is heavy and ad-filled, so Lite users on slow phones may prefer Facebook Lite instead.",
-      "features": [
-        "News feed, groups and events",
-        "Facebook Marketplace for local buying and selling",
-        "Reels for short videos",
-        "Messenger integration for chats",
-        "Live video and watch parties"
-      ]
-    },
-    {
-      "slug": "telegram",
-      "name": "Telegram",
-      "developer": "Telegram FZ-LLC",
-      "package": "org.telegram.messenger",
-      "category": "social",
-      "review": "The messaging app of choice for Pakistan's students, movie groups and file sharers. Cloud chats sync across all your devices, and the 2GB file limit makes it the easiest way to send long videos. Ideal if WhatsApp's storage limits and single-device history frustrate you — though fewer relatives use it, so it won't replace WhatsApp for family.",
-      "features": [
-        "Cloud-synced chats across phone, tablet and PC",
-        "Send files up to 2GB each",
-        "Channels and large groups up to 200,000 members",
-        "Secret chats with end-to-end encryption",
-        "Bots, stickers and custom themes"
-      ]
-    },
-    {
-      "slug": "snapchat",
-      "name": "Snapchat",
-      "developer": "Snap Inc.",
-      "package": "com.snapchat.android",
-      "category": "social",
-      "review": "Hugely popular with Pakistan's younger crowd for streaks, filters and disappearing snaps. The camera filters are still unmatched, and Spotlight gives local creators a shot at going viral. It is a battery and data hog though, and the friend-finding works best if your circle already uses it.",
-      "features": [
-        "Snaps that disappear after viewing",
-        "Hundreds of AR lenses and filters",
-        "Streaks with friends",
-        "Spotlight short videos with creator rewards",
-        "Snap Map to see friends' locations"
-      ]
-    },
-    {
-      "slug": "vn-video-editor",
-      "name": "VN Video Editor",
-      "developer": "Ubiquiti Labs, LLC",
-      "package": "com.frontrow.vlog",
-      "category": "creativity",
-      "review": "A favourite of Pakistani YouTubers and TikTokers who want pro-level editing without a watermark. Multi-track timeline, keyframe animation and ready-made templates cover most reel and vlog needs. The learning curve is steeper than CapCut's, but patient beginners end up with cleaner, more original-looking videos.",
-      "features": [
-        "Multi-track timeline with keyframe animation",
-        "No watermark on exported videos",
-        "Ready-made templates and transitions",
-        "Music beats markers for sync edits",
-        "4K export and custom frame rates"
-      ]
-    },
-    {
-      "slug": "inshot",
-      "name": "InShot",
-      "developer": "InShot Inc.",
-      "package": "com.camerasideas.instashot",
-      "category": "creativity",
-      "review": "The quickest way to trim, caption and polish a video for WhatsApp status or Instagram. Its text styles and music library are made for short-form content, and the interface is simple enough for first-timers. Power users will hit the free version's limits fast, but for everyday edits it is the fastest tool on this list.",
-      "features": [
-        "Trim, merge and speed-control clips",
-        "Stylish text, stickers and emoji overlays",
-        "Built-in music and sound effects",
-        "Photo collage and blur-background tools",
-        "Direct export sized for Instagram and TikTok"
-      ]
-    },
-    {
-      "slug": "8-ball-pool",
-      "name": "8 Ball Pool",
-      "developer": "Miniclip.com",
-      "package": "com.miniclip.eightballpool",
-      "category": "gaming",
-      "review": "The online pool game Pakistan never put down — quick matches, simple controls and a ranking system that keeps you coming back. It runs fine on low-end phones and even patchy 4G. Best for casual competitive play with friends; just know the coin economy nudges you toward in-app purchases at higher levels.",
-      "features": [
-        "Real-time 1v1 pool matches worldwide",
-        "Play with friends in private rooms",
-        "Tournaments and seasonal events",
-        "Customizable cues and tables",
-        "Runs smoothly on low-end phones"
-      ]
-    },
-    {
-      "slug": "subway-surfers",
-      "name": "Subway Surfers",
-      "developer": "SYBO Games",
-      "package": "com.kiloo.subwaysurf",
-      "category": "gaming",
-      "review": "The endless runner every Pakistani kid — and plenty of adults — has installed at some point. One-thumb controls, constant world-tour updates and zero learning curve make it perfect for killing time. It is pure arcade fun with no depth, and ads pop up often unless you play offline.",
-      "features": [
-        "Endless runner with swipe controls",
-        "World Tour cities with themed updates",
-        "Hoverboards, jetpacks and power-ups",
-        "Daily challenges and leaderboards",
-        "Playable fully offline"
-      ]
-    },
-    {
-      "slug": "nayapay",
-      "name": "NayaPay",
-      "developer": "NayaPay",
-      "package": "com.nayapay.app",
-      "category": "finance",
-      "review": "Pakistan's slickest digital wallet, aimed at young users who want banking without visiting a branch. The free Visa debit card — virtual instantly, physical delivered home — works for online shopping and international payments. Great for freelancers receiving payments, though merchant acceptance is still catching up to JazzCash and Easypaisa agents on the street.",
-      "features": [
-        "Free Visa debit card (virtual + physical)",
-        "Instant free transfers to any bank via Raast",
-        "Pay utility bills with reminders",
-        "Receive international remittances",
-        "In-app chat and payment requests"
-      ]
-    },
-    {
-      "slug": "aliexpress",
-      "name": "AliExpress",
-      "developer": "Alibaba Mobile",
-      "package": "com.alibaba.aliexpresshd",
-      "category": "shopping",
-      "review": "The go-to app for Pakistanis hunting phone accessories, gadgets and odd finds at China-direct prices. Choice items with faster shipping made it far more practical than the old 60-day waits. Best for patient bargain hunters — always check seller ratings and expect 2-4 weeks delivery, plus possible customs duty on pricier items.",
-      "features": [
-        "Millions of products at factory prices",
-        "Choice items with faster delivery",
-        "Buyer protection and easy disputes",
-        "Coins, coupons and flash sales",
-        "Order tracking in the app"
-      ]
-    },
-    {
-      "slug": "foodpanda",
-      "name": "foodpanda",
-      "developer": "foodpanda",
-      "package": "com.global.foodpanda.android",
-      "category": "food",
-      "review": "Pakistan's dominant food delivery app — if you order food online in Lahore, Karachi or Islamabad, this is probably how. Beyond restaurants, pandamart covers groceries in under an hour. Essential for city dwellers; delivery fees and minimum orders add up, so the pandapro subscription pays for itself if you order weekly.",
-      "features": [
-        "Food delivery from thousands of restaurants",
-        "pandamart for groceries in minutes",
-        "Live order tracking with rider chat",
-        "pandapro subscription for free delivery",
-        "Deals, vouchers and pickup discounts"
-      ]
-    },
-    {
-      "slug": "files-by-google",
-      "name": "Files by Google",
-      "developer": "Google LLC",
-      "package": "com.google.android.apps.nbu.files",
-      "category": "utilities",
-      "review": "Google's lightweight file manager that doubles as a storage cleaner — perfect for phones constantly crying about full storage. It finds duplicate photos, old memes and unused apps, then clears them in taps. A must-have utility for 64GB phones; it won't replace a full gallery or music app, but for cleanup duty nothing is simpler.",
-      "features": [
-        "Smart cleanup suggestions for junk files",
-        "Find and delete duplicate photos",
-        "Browse files by category",
-        "Offline file sharing with nearby phones",
-        "Lightweight — under 15MB"
-      ]
-    },
-    {
-      "slug": "warp-1111",
-      "name": "1.1.1.1 + WARP",
-      "developer": "Cloudflare, Inc.",
-      "package": "com.cloudflare.onedotonedotonedotone",
-      "category": "utilities",
-      "review": "Cloudflare's free app that encrypts your connection and can speed up slow DNS on Pakistani networks. The one-tap WARP mode is the simplest free privacy boost on public Wi-Fi. Ideal for basic protection and unblocking sluggish browsing — but it is not a full VPN: it won't change your virtual location for region-locked content.",
-      "features": [
-        "One-tap VPN-style encryption (WARP)",
-        "Faster private DNS (1.1.1.1)",
-        "Free with no data caps on basic mode",
-        "Works on mobile data and Wi-Fi",
-        "No account or sign-up needed"
-      ]
-    },
-    {
-      "slug": "zarchiver",
-      "name": "ZArchiver",
-      "developer": "ZDevs",
-      "package": "ru.zdevs.zarchiver",
-      "category": "utilities",
-      "review": "The tiny archiver app every Pakistani Android power user keeps installed for opening ZIP and RAR files from WhatsApp and downloads. It handles password-protected archives and split files without fuss. Perfect for anyone who downloads compressed files — just don't expect a pretty interface, it is function over form.",
-      "features": [
-        "Open ZIP, RAR, 7z and dozens more formats",
-        "Create password-protected archives",
-        "Extract split and multi-part archives",
-        "No internet permission — fully offline",
-        "Tiny size, no ads"
-      ]
-    },
-    {
-      "slug": "duolingo",
-      "name": "Duolingo",
-      "developer": "Duolingo",
-      "package": "com.duolingo",
-      "category": "education",
-      "review": "The most fun way for Pakistanis to build English skills — or pick up Arabic, French or Turkish — in ten minutes a day. Game-style lessons with streaks genuinely keep learners coming back. Great for beginners and intermediate learners; advanced students will outgrow it and the free tier has ads and a hearts limit.",
-      "features": [
-        "Bite-size game-like lessons",
-        "English courses from Urdu",
-        "Streaks, leagues and XP challenges",
-        "Speaking and listening practice",
-        "Offline lessons with Super"
-      ]
-    },
-    {
-      "slug": "khan-academy",
-      "name": "Khan Academy",
-      "developer": "Khan Academy",
-      "package": "org.khanacademy.android",
-      "category": "education",
-      "review": "Completely free world-class lessons — maths, science and more — that Pakistani students use to survive board exams and entry tests. Videos plus practice exercises beat rote memorization for actually understanding concepts. Best for matric, FSc and CSS aspirants; the syllabus isn't tailored to Pakistani boards, so use it alongside your textbooks.",
-      "features": [
-        "Thousands of free video lessons",
-        "Practice exercises with instant feedback",
-        "Maths, science, computing and humanities",
-        "Download lessons for offline study",
-        "Progress tracking and mastery goals"
-      ]
-    },
-    {
-      "slug": "spotify",
-      "name": "Spotify",
-      "developer": "Spotify AB",
-      "package": "com.spotify.music",
-      "category": "music",
-      "review": "The music streamer of choice for Pakistan's cities, with solid playlists of Coke Studio, Atif Aslam and Bollywood alongside global hits. The free tier works fine for casual listening with shuffle play. Audiophiles and offline listeners will want Premium — free users get ads and no offline downloads.",
-      "features": [
-        "Millions of songs including Pakistani artists",
-        "Curated playlists and Daily Mixes",
-        "Podcasts built into the app",
-        "Offline downloads (Premium)",
-        "Works on phone, PC and smart devices"
-      ]
-    }
-  ],
-  "categories": [
-    {
-      "description": "Battle royale, shooters and universes that run great on Pakistani networks.",
-      "icon": "🎮",
-      "name": "Gaming",
-      "slug": "gaming"
-    },
-    {
-      "description": "Edit reels, photos and videos like a pro — free.",
-      "icon": "🎨",
-      "name": "Video & Creativity",
-      "slug": "creativity"
-    },
-    {
-      "description": "Chat, share and grow your audience.",
-      "icon": "💬",
-      "name": "Social",
-      "slug": "social"
-    },
-    {
-      "description": "Pay bills, transfer money and shop online in Pakistan.",
-      "icon": "💳",
-      "name": "Finance",
-      "slug": "finance"
-    },
-    {
-      "description": "Turn phone photos into portfolio shots.",
-      "icon": "📷",
-      "name": "Photography",
-      "slug": "photography"
-    },
-    {
-      "slug": "shopping",
-      "name": "Shopping",
-      "icon": "🛒",
-      "description": "Online shopping apps that deliver to Pakistan."
-    },
-    {
-      "slug": "food",
-      "name": "Food & Delivery",
-      "icon": "🍔",
-      "description": "Food delivery and groceries, ordered in minutes."
-    },
-    {
-      "slug": "utilities",
-      "name": "Utilities",
-      "icon": "🔧",
-      "description": "Everyday tools — file managers, VPNs and system cleaners."
-    },
-    {
-      "slug": "education",
-      "name": "Education",
-      "icon": "📚",
-      "description": "Learn English, school subjects and new skills — free."
-    },
-    {
-      "slug": "music",
-      "name": "Music",
-      "icon": "🎵",
-      "description": "Stream music and podcasts on your phone."
-    }
-  ],
-  "guides": [
-    {
-      "content": "1. Open the Google Play Store app on your phone.\n2. Search the exact app name and check the developer name matches the official publisher.\n3. Check ratings and review count — clones usually have very few.\n4. Tap Install and wait for Play Protect verification.\n5. Never install APK files from random websites — most Android malware in Pakistan spreads through fake APKs.",
-      "excerpt": "Five steps to install any app without risking malware.",
-      "slug": "download-apps-safely",
-      "title": "How to Download Apps Safely on Android"
-    },
-    {
-      "content": "Gaming needs three things: a strong chipset, a high-refresh display, and a big battery.\n1. Chipset first — look for Snapdragon 7-series or Dimensity 8000-series and above.\n2. Display — 90Hz or 120Hz makes shooters feel far smoother.\n3. Battery — 5000mAh minimum for long PUBG sessions.\n4. Check Mobile Ustaad phone pages for the Gaming verdict on any model before buying.\nTop picks right now: Poco X7 Pro, Infinix GT 30 Pro, Redmi Note 14 Pro.",
-      "excerpt": "Chipset, display and battery — what actually matters for PUBG and Free Fire.",
-      "slug": "best-gaming-phones-budget",
-      "title": "Best Gaming Phones Under Rs 50,000 in Pakistan"
-    },
-    {
-      "content": "1. Clear app caches: Settings > Storage > Cached data.\n2. Uninstall pre-installed bloatware you never open.\n3. Move photos and videos to Google Photos cloud backup, then free up space.\n4. Use 'Lite' versions of apps (Facebook Lite, TikTok Lite) on 64GB phones.\n5. Check Settings > Storage to find which apps eat the most space.",
-      "excerpt": "Free gigabytes without deleting your photos.",
-      "slug": "free-up-storage",
-      "title": "How to Free Up Storage for New Apps"
-    },
-    {
-      "slug": "best-video-editing-apps-pakistan",
-      "title": "Best Video Editing Apps in Pakistan 2026",
-      "excerpt": "CapCut, VN and InShot compared — pick the right editor for reels, vlogs and TikToks.",
-      "content": "1. CapCut — the all-rounder. Templates, auto-captions and effects make it the fastest route from raw clip to viral reel.\n2. VN Video Editor — the pro pick. Multi-track timeline and keyframes with no watermark; best for YouTubers who want full control.\n3. InShot — the quick fix. Trim, add text and music in minutes; ideal for WhatsApp status and everyday edits.\n4. KineMaster — the veteran. Powerful layer-based editing, though the free version stamps a watermark.\n5. Pick by goal: reels = CapCut, serious vlogs = VN, quick trims = InShot.\n6. Always export in 1080p, 30fps for the best size-to-quality balance on Pakistani networks.\n7. Download only from the official Play Store links on our app pages — modded editors often hide malware."
-    },
-    {
-      "slug": "best-free-vpn-apps-pakistan",
-      "title": "Best Free VPN Apps for Pakistan",
-      "excerpt": "Which free VPNs are actually safe? Honest picks plus what free VPNs can't do.",
-      "content": "1. 1.1.1.1 + WARP by Cloudflare — free, unlimited and trustworthy. Encrypts your connection in one tap; best first choice.\n2. Proton VPN free tier — from the makers of ProtonMail, with a strict no-logs policy and no data caps.\n3. What free VPNs can't do: reliably unblock region-locked streaming or change your virtual country.\n4. Avoid random free VPNs with few downloads — many log and sell your browsing data; that is how they stay free.\n5. Never use a free VPN for banking or JazzCash/Easypaisa logins; disconnect first.\n6. If a VPN slows your Jazz or Zong data to a crawl, switch server or use WARP's DNS-only mode.\n7. Paid VPNs (NordVPN, ExpressVPN) are the only real option for streaming libraries and heavy use."
-    },
-    {
-      "slug": "top-food-delivery-apps-pakistan",
-      "title": "Top Food Delivery Apps in Pakistan",
-      "excerpt": "Who delivers your biryani fastest? The honest state of food delivery apps in 2026.",
-      "content": "1. foodpanda — the undisputed leader. Thousands of restaurants plus pandamart groceries in major cities.\n2. pandapro subscription pays for itself if you order even twice a week — free delivery adds up fast.\n3. Hunt vouchers: the app's Deals section and bank card promos routinely cut 20-30% off.\n4. For groceries in a hurry, pandamart beats a market trip and often matches shop prices.\n5. Pickup orders skip delivery fees entirely — order ahead and grab it yourself.\n6. In smaller cities, coverage is thin; call the restaurant directly if the app shows nothing nearby.\n7. Always check the rider's live location before calling — most delays are traffic, not the rider's fault."
-    },
-    {
-      "slug": "jazzcash-vs-easypaisa",
-      "title": "JazzCash vs Easypaisa: Which Mobile Wallet Is Best?",
-      "excerpt": "Pakistan's two big wallets compared — fees, agents, cards and app experience.",
-      "content": "1. Agent network: Easypaisa has the edge in villages and small towns; JazzCash is stronger in cities. Check your area first.\n2. Bank transfers: both support free transfers via Raast up to monthly limits — beyond that, small fees apply.\n3. Debit cards: both offer them; compare annual fees in the app before ordering, as charges change.\n4. Bill payments: both cover electricity, gas and internet bills — set reminders so you never miss a due date.\n5. App experience: JazzCash's app feels more modern; Easypaisa's is simpler for first-time users.\n6. International: neither is a PayPal replacement; pair with NayaPay's Visa card for online dollar payments.\n7. Verdict: use the one whose agents are nearest to you — most Pakistanis end up keeping both."
-    },
-    {
-      "slug": "best-apps-learn-english-pakistan",
-      "title": "Best Apps to Learn English in Pakistan",
-      "excerpt": "From spoken English to CSS prep — the apps that actually work, and how to use them.",
-      "content": "1. Duolingo — start here. Ten minutes daily of game-like lessons builds real vocabulary; enable the Urdu-to-English course.\n2. Khan Academy — for academic English and comprehension; free lessons that help with exams too.\n3. BBC Learning English (website + app) — short daily videos on real-world English, free forever.\n4. Practice speaking: record yourself daily and compare — apps teach words, only speaking builds fluency.\n5. Watch English content with English subtitles, not Urdu — dramas and documentaries both work.\n6. Read one Dawn editorial a week and note five new words; apps alone won't build reading stamina.\n7. Consistency beats intensity: 15 focused minutes daily outperforms a 3-hour weekend cram."
-    }
-  ]
+ "apps": [
+  {
+   "category": "gaming",
+   "developer": "Level Infinite",
+   "features": [
+    "100-player battle royale matches",
+    "Multiple maps: Erangel, Miramar, Sanhok",
+    "Ranked seasons and clan system"
+   ],
+   "name": "PUBG Mobile",
+   "package": "com.tencent.ig",
+   "review": "The battle royale that defined mobile gaming. PUBG Mobile still sets the standard for gunplay and tactical depth on phones, with regular map and mode updates keeping it fresh.",
+   "slug": "pubg-mobile"
+  },
+  {
+   "category": "gaming",
+   "developer": "Garena",
+   "features": [
+    "Fast 10-minute matches",
+    "4v4 Clash Squad mode",
+    "Frequent character and pet updates"
+   ],
+   "name": "Free Fire",
+   "package": "com.dts.freefireth",
+   "review": "Built for quick sessions and low-end phones. Free Fire runs smoothly where heavier shooters stutter, which is exactly why it dominates budget devices in Pakistan.",
+   "slug": "free-fire"
+  },
+  {
+   "category": "gaming",
+   "developer": "Activision",
+   "features": [
+    "Console-quality multiplayer maps",
+    "Battle royale and zombies modes",
+    "Controller support"
+   ],
+   "name": "Call of Duty: Mobile",
+   "package": "com.activision.callofduty.shooter",
+   "review": "The most polished shooter on mobile. COD Mobile brings classic maps and tight controls, though it demands a mid-range phone or better for high frame rates.",
+   "slug": "cod-mobile"
+  },
+  {
+   "category": "gaming",
+   "developer": "Roblox Corporation",
+   "features": [
+    "Millions of user-made games",
+    "Cross-platform play",
+    "Avatar and world customization"
+   ],
+   "name": "Roblox",
+   "package": "com.roblox.client",
+   "review": "Less a game, more a universe of games. Roblox is huge with younger players and runs on almost any Android phone.",
+   "slug": "roblox"
+  },
+  {
+   "category": "creativity",
+   "developer": "Bytedance",
+   "features": [
+    "Auto-captions and templates",
+    "Keyframe animation",
+    "Direct TikTok export"
+   ],
+   "name": "CapCut",
+   "package": "com.lemon.lvoverseas",
+   "review": "The go-to free video editor for reels and TikTok. CapCut packs pro tools like keyframes and auto-captions without a watermark on exports.",
+   "slug": "capcut"
+  },
+  {
+   "category": "creativity",
+   "developer": "TikTok Pte. Ltd.",
+   "features": [
+    "Short-form video feed",
+    "Built-in editor and effects",
+    "Live streaming"
+   ],
+   "name": "TikTok",
+   "package": "com.zhiliaoapp.musically",
+   "review": "The short-video giant. Beyond entertainment, it is now a serious discovery and earning platform for Pakistani creators.",
+   "slug": "tiktok"
+  },
+  {
+   "category": "social",
+   "developer": "Meta",
+   "features": [
+    "End-to-end encrypted chats",
+    "Channels and communities",
+    "Voice and video calls"
+   ],
+   "name": "WhatsApp",
+   "package": "com.whatsapp",
+   "review": "Pakistan's default messenger. Channels and communities have turned it into much more than a chat app.",
+   "slug": "whatsapp"
+  },
+  {
+   "category": "social",
+   "developer": "Meta",
+   "features": [
+    "Reels and Stories",
+    "DMs and broadcast channels",
+    "Shopping tags"
+   ],
+   "name": "Instagram",
+   "package": "com.instagram.android",
+   "review": "Home of reels and visual creators. Instagram remains the platform where Pakistani brands and influencers grow fastest.",
+   "slug": "instagram"
+  },
+  {
+   "category": "finance",
+   "developer": "Telenor Pakistan",
+   "features": [
+    "Money transfer and bill payments",
+    "QR payments at shops",
+    "Savings and insurance options"
+   ],
+   "name": "Easypaisa",
+   "package": "pk.com.telenor.phoenix",
+   "review": "Pakistan's pioneering mobile wallet. Easypaisa covers transfers, bills, and merchant payments, and works even on basic accounts.",
+   "slug": "easypaisa"
+  },
+  {
+   "category": "finance",
+   "developer": "Jazz",
+   "features": [
+    "Mobile account and transfers",
+    "Utility bill payments",
+    "Debit card linking"
+   ],
+   "name": "JazzCash",
+   "package": "com.techlogix.mobilinkcustomer",
+   "review": "Jazz's mobile wallet and a daily driver for millions. Bill payments and transfers are quick; always download the official app only.",
+   "slug": "jazzcash"
+  },
+  {
+   "category": "finance",
+   "developer": "Alibaba Group",
+   "features": [
+    "Online shopping across Pakistan",
+    "Flash sales and vouchers",
+    "Daraz Mall for genuine brands"
+   ],
+   "name": "Daraz",
+   "package": "com.daraz.android",
+   "review": "Pakistan's biggest online marketplace. The app's flash sales and vouchers make it worth installing for deal hunters.",
+   "slug": "daraz"
+  },
+  {
+   "category": "photography",
+   "developer": "Google",
+   "features": [
+    "29+ filters and tools",
+    "RAW editing support",
+    "Selective adjustments"
+   ],
+   "name": "Snapseed",
+   "package": "com.niksoftware.snapseed",
+   "review": "Google's free photo editor is still the best no-cost option. Selective edits and healing are genuinely pro-grade.",
+   "slug": "snapseed"
+  },
+  {
+   "category": "photography",
+   "developer": "Picsart",
+   "features": [
+    "AI photo effects",
+    "Collage and sticker maker",
+    "Replays: one-tap edit recipes"
+   ],
+   "name": "Picsart",
+   "package": "com.picsart.studio",
+   "review": "The creative all-rounder for photo edits, collages, and social posts. Free tier is generous; gold unlocks AI tools.",
+   "slug": "picsart"
+  },
+  {
+   "slug": "youtube",
+   "name": "YouTube",
+   "developer": "Google LLC",
+   "package": "com.google.android.youtube",
+   "category": "social",
+   "review": "The world's biggest video platform, pre-installed on almost every Android phone in Pakistan. From drama OSTs to cricket highlights and tech reviews, it is where Pakistan watches. Best for anyone who wants free, endless video — just watch your mobile data, because HD streaming eats gigabytes fast.",
+   "features": [
+    "Watch and upload videos in up to 4K",
+    "YouTube Shorts for quick vertical videos",
+    "Offline downloads with Premium",
+    "Live streams, premieres and community posts",
+    "Background play and Picture-in-Picture (Premium)"
+   ]
+  },
+  {
+   "slug": "facebook",
+   "name": "Facebook",
+   "developer": "Meta Platforms, Inc.",
+   "package": "com.facebook.katana",
+   "category": "social",
+   "review": "Still the social network with the widest reach in Pakistan, especially for family groups, buy-and-sell communities and local business pages. Marketplace alone makes it worth keeping for deals on used phones and furniture. The app is heavy and ad-filled, so Lite users on slow phones may prefer Facebook Lite instead.",
+   "features": [
+    "News feed, groups and events",
+    "Facebook Marketplace for local buying and selling",
+    "Reels for short videos",
+    "Messenger integration for chats",
+    "Live video and watch parties"
+   ]
+  },
+  {
+   "slug": "telegram",
+   "name": "Telegram",
+   "developer": "Telegram FZ-LLC",
+   "package": "org.telegram.messenger",
+   "category": "social",
+   "review": "The messaging app of choice for Pakistan's students, movie groups and file sharers. Cloud chats sync across all your devices, and the 2GB file limit makes it the easiest way to send long videos. Ideal if WhatsApp's storage limits and single-device history frustrate you — though fewer relatives use it, so it won't replace WhatsApp for family.",
+   "features": [
+    "Cloud-synced chats across phone, tablet and PC",
+    "Send files up to 2GB each",
+    "Channels and large groups up to 200,000 members",
+    "Secret chats with end-to-end encryption",
+    "Bots, stickers and custom themes"
+   ]
+  },
+  {
+   "slug": "snapchat",
+   "name": "Snapchat",
+   "developer": "Snap Inc.",
+   "package": "com.snapchat.android",
+   "category": "social",
+   "review": "Hugely popular with Pakistan's younger crowd for streaks, filters and disappearing snaps. The camera filters are still unmatched, and Spotlight gives local creators a shot at going viral. It is a battery and data hog though, and the friend-finding works best if your circle already uses it.",
+   "features": [
+    "Snaps that disappear after viewing",
+    "Hundreds of AR lenses and filters",
+    "Streaks with friends",
+    "Spotlight short videos with creator rewards",
+    "Snap Map to see friends' locations"
+   ]
+  },
+  {
+   "slug": "vn-video-editor",
+   "name": "VN Video Editor",
+   "developer": "Ubiquiti Labs, LLC",
+   "package": "com.frontrow.vlog",
+   "category": "creativity",
+   "review": "A favourite of Pakistani YouTubers and TikTokers who want pro-level editing without a watermark. Multi-track timeline, keyframe animation and ready-made templates cover most reel and vlog needs. The learning curve is steeper than CapCut's, but patient beginners end up with cleaner, more original-looking videos.",
+   "features": [
+    "Multi-track timeline with keyframe animation",
+    "No watermark on exported videos",
+    "Ready-made templates and transitions",
+    "Music beats markers for sync edits",
+    "4K export and custom frame rates"
+   ]
+  },
+  {
+   "slug": "inshot",
+   "name": "InShot",
+   "developer": "InShot Inc.",
+   "package": "com.camerasideas.instashot",
+   "category": "creativity",
+   "review": "The quickest way to trim, caption and polish a video for WhatsApp status or Instagram. Its text styles and music library are made for short-form content, and the interface is simple enough for first-timers. Power users will hit the free version's limits fast, but for everyday edits it is the fastest tool on this list.",
+   "features": [
+    "Trim, merge and speed-control clips",
+    "Stylish text, stickers and emoji overlays",
+    "Built-in music and sound effects",
+    "Photo collage and blur-background tools",
+    "Direct export sized for Instagram and TikTok"
+   ]
+  },
+  {
+   "slug": "8-ball-pool",
+   "name": "8 Ball Pool",
+   "developer": "Miniclip.com",
+   "package": "com.miniclip.eightballpool",
+   "category": "gaming",
+   "review": "The online pool game Pakistan never put down — quick matches, simple controls and a ranking system that keeps you coming back. It runs fine on low-end phones and even patchy 4G. Best for casual competitive play with friends; just know the coin economy nudges you toward in-app purchases at higher levels.",
+   "features": [
+    "Real-time 1v1 pool matches worldwide",
+    "Play with friends in private rooms",
+    "Tournaments and seasonal events",
+    "Customizable cues and tables",
+    "Runs smoothly on low-end phones"
+   ]
+  },
+  {
+   "slug": "subway-surfers",
+   "name": "Subway Surfers",
+   "developer": "SYBO Games",
+   "package": "com.kiloo.subwaysurf",
+   "category": "gaming",
+   "review": "The endless runner every Pakistani kid — and plenty of adults — has installed at some point. One-thumb controls, constant world-tour updates and zero learning curve make it perfect for killing time. It is pure arcade fun with no depth, and ads pop up often unless you play offline.",
+   "features": [
+    "Endless runner with swipe controls",
+    "World Tour cities with themed updates",
+    "Hoverboards, jetpacks and power-ups",
+    "Daily challenges and leaderboards",
+    "Playable fully offline"
+   ]
+  },
+  {
+   "slug": "nayapay",
+   "name": "NayaPay",
+   "developer": "NayaPay",
+   "package": "com.nayapay.app",
+   "category": "finance",
+   "review": "Pakistan's slickest digital wallet, aimed at young users who want banking without visiting a branch. The free Visa debit card — virtual instantly, physical delivered home — works for online shopping and international payments. Great for freelancers receiving payments, though merchant acceptance is still catching up to JazzCash and Easypaisa agents on the street.",
+   "features": [
+    "Free Visa debit card (virtual + physical)",
+    "Instant free transfers to any bank via Raast",
+    "Pay utility bills with reminders",
+    "Receive international remittances",
+    "In-app chat and payment requests"
+   ]
+  },
+  {
+   "slug": "aliexpress",
+   "name": "AliExpress",
+   "developer": "Alibaba Mobile",
+   "package": "com.alibaba.aliexpresshd",
+   "category": "shopping",
+   "review": "The go-to app for Pakistanis hunting phone accessories, gadgets and odd finds at China-direct prices. Choice items with faster shipping made it far more practical than the old 60-day waits. Best for patient bargain hunters — always check seller ratings and expect 2-4 weeks delivery, plus possible customs duty on pricier items.",
+   "features": [
+    "Millions of products at factory prices",
+    "Choice items with faster delivery",
+    "Buyer protection and easy disputes",
+    "Coins, coupons and flash sales",
+    "Order tracking in the app"
+   ]
+  },
+  {
+   "slug": "foodpanda",
+   "name": "foodpanda",
+   "developer": "foodpanda",
+   "package": "com.global.foodpanda.android",
+   "category": "food",
+   "review": "Pakistan's dominant food delivery app — if you order food online in Lahore, Karachi or Islamabad, this is probably how. Beyond restaurants, pandamart covers groceries in under an hour. Essential for city dwellers; delivery fees and minimum orders add up, so the pandapro subscription pays for itself if you order weekly.",
+   "features": [
+    "Food delivery from thousands of restaurants",
+    "pandamart for groceries in minutes",
+    "Live order tracking with rider chat",
+    "pandapro subscription for free delivery",
+    "Deals, vouchers and pickup discounts"
+   ]
+  },
+  {
+   "slug": "files-by-google",
+   "name": "Files by Google",
+   "developer": "Google LLC",
+   "package": "com.google.android.apps.nbu.files",
+   "category": "utilities",
+   "review": "Google's lightweight file manager that doubles as a storage cleaner — perfect for phones constantly crying about full storage. It finds duplicate photos, old memes and unused apps, then clears them in taps. A must-have utility for 64GB phones; it won't replace a full gallery or music app, but for cleanup duty nothing is simpler.",
+   "features": [
+    "Smart cleanup suggestions for junk files",
+    "Find and delete duplicate photos",
+    "Browse files by category",
+    "Offline file sharing with nearby phones",
+    "Lightweight — under 15MB"
+   ]
+  },
+  {
+   "slug": "warp-1111",
+   "name": "1.1.1.1 + WARP",
+   "developer": "Cloudflare, Inc.",
+   "package": "com.cloudflare.onedotonedotonedotone",
+   "category": "utilities",
+   "review": "Cloudflare's free app that encrypts your connection and can speed up slow DNS on Pakistani networks. The one-tap WARP mode is the simplest free privacy boost on public Wi-Fi. Ideal for basic protection and unblocking sluggish browsing — but it is not a full VPN: it won't change your virtual location for region-locked content.",
+   "features": [
+    "One-tap VPN-style encryption (WARP)",
+    "Faster private DNS (1.1.1.1)",
+    "Free with no data caps on basic mode",
+    "Works on mobile data and Wi-Fi",
+    "No account or sign-up needed"
+   ]
+  },
+  {
+   "slug": "zarchiver",
+   "name": "ZArchiver",
+   "developer": "ZDevs",
+   "package": "ru.zdevs.zarchiver",
+   "category": "utilities",
+   "review": "The tiny archiver app every Pakistani Android power user keeps installed for opening ZIP and RAR files from WhatsApp and downloads. It handles password-protected archives and split files without fuss. Perfect for anyone who downloads compressed files — just don't expect a pretty interface, it is function over form.",
+   "features": [
+    "Open ZIP, RAR, 7z and dozens more formats",
+    "Create password-protected archives",
+    "Extract split and multi-part archives",
+    "No internet permission — fully offline",
+    "Tiny size, no ads"
+   ]
+  },
+  {
+   "slug": "duolingo",
+   "name": "Duolingo",
+   "developer": "Duolingo",
+   "package": "com.duolingo",
+   "category": "education",
+   "review": "The most fun way for Pakistanis to build English skills — or pick up Arabic, French or Turkish — in ten minutes a day. Game-style lessons with streaks genuinely keep learners coming back. Great for beginners and intermediate learners; advanced students will outgrow it and the free tier has ads and a hearts limit.",
+   "features": [
+    "Bite-size game-like lessons",
+    "English courses from Urdu",
+    "Streaks, leagues and XP challenges",
+    "Speaking and listening practice",
+    "Offline lessons with Super"
+   ]
+  },
+  {
+   "slug": "khan-academy",
+   "name": "Khan Academy",
+   "developer": "Khan Academy",
+   "package": "org.khanacademy.android",
+   "category": "education",
+   "review": "Completely free world-class lessons — maths, science and more — that Pakistani students use to survive board exams and entry tests. Videos plus practice exercises beat rote memorization for actually understanding concepts. Best for matric, FSc and CSS aspirants; the syllabus isn't tailored to Pakistani boards, so use it alongside your textbooks.",
+   "features": [
+    "Thousands of free video lessons",
+    "Practice exercises with instant feedback",
+    "Maths, science, computing and humanities",
+    "Download lessons for offline study",
+    "Progress tracking and mastery goals"
+   ]
+  },
+  {
+   "slug": "spotify",
+   "name": "Spotify",
+   "developer": "Spotify AB",
+   "package": "com.spotify.music",
+   "category": "music",
+   "review": "The music streamer of choice for Pakistan's cities, with solid playlists of Coke Studio, Atif Aslam and Bollywood alongside global hits. The free tier works fine for casual listening with shuffle play. Audiophiles and offline listeners will want Premium — free users get ads and no offline downloads.",
+   "features": [
+    "Millions of songs including Pakistani artists",
+    "Curated playlists and Daily Mixes",
+    "Podcasts built into the app",
+    "Offline downloads (Premium)",
+    "Works on phone, PC and smart devices"
+   ]
+  },
+  {
+   "slug": "bitchat",
+   "name": "Bitchat",
+   "category": "social",
+   "developer": "Jack Dorsey (open source)",
+   "package": "com.bitchat.droid",
+   "review": "WhatsApp-style messaging that works with no internet at all. Bitchat connects phones directly over Bluetooth mesh networking — messages hop from device to device, so you can chat even during internet shutdowns or in areas with no signal. No SIM, no phone number and no account needed; private chats are end-to-end encrypted and the code is fully open source. Note: removed from app stores in India in Oct 2026 under a government order — availability varies by country.",
+   "features": [
+    "Offline messaging via Bluetooth mesh — no internet or mobile network needed",
+    "No SIM card, phone number or account required",
+    "End-to-end encrypted private chats",
+    "Public channels and location-based chat rooms",
+    "Panic wipe: instantly clear all stored data",
+    "Free and open source by Jack Dorsey (Twitter/X co-founder)"
+   ]
+  }
+ ],
+ "categories": [
+  {
+   "description": "Battle royale, shooters and universes that run great on Pakistani networks.",
+   "icon": "🎮",
+   "name": "Gaming",
+   "slug": "gaming"
+  },
+  {
+   "description": "Edit reels, photos and videos like a pro — free.",
+   "icon": "🎨",
+   "name": "Video & Creativity",
+   "slug": "creativity"
+  },
+  {
+   "description": "Chat, share and grow your audience.",
+   "icon": "💬",
+   "name": "Social",
+   "slug": "social"
+  },
+  {
+   "description": "Pay bills, transfer money and shop online in Pakistan.",
+   "icon": "💳",
+   "name": "Finance",
+   "slug": "finance"
+  },
+  {
+   "description": "Turn phone photos into portfolio shots.",
+   "icon": "📷",
+   "name": "Photography",
+   "slug": "photography"
+  },
+  {
+   "slug": "shopping",
+   "name": "Shopping",
+   "icon": "🛒",
+   "description": "Online shopping apps that deliver to Pakistan."
+  },
+  {
+   "slug": "food",
+   "name": "Food & Delivery",
+   "icon": "🍔",
+   "description": "Food delivery and groceries, ordered in minutes."
+  },
+  {
+   "slug": "utilities",
+   "name": "Utilities",
+   "icon": "🔧",
+   "description": "Everyday tools — file managers, VPNs and system cleaners."
+  },
+  {
+   "slug": "education",
+   "name": "Education",
+   "icon": "📚",
+   "description": "Learn English, school subjects and new skills — free."
+  },
+  {
+   "slug": "music",
+   "name": "Music",
+   "icon": "🎵",
+   "description": "Stream music and podcasts on your phone."
+  }
+ ],
+ "guides": [
+  {
+   "content": "1. Open the Google Play Store app on your phone.\n2. Search the exact app name and check the developer name matches the official publisher.\n3. Check ratings and review count — clones usually have very few.\n4. Tap Install and wait for Play Protect verification.\n5. Never install APK files from random websites — most Android malware in Pakistan spreads through fake APKs.",
+   "excerpt": "Five steps to install any app without risking malware.",
+   "slug": "download-apps-safely",
+   "title": "How to Download Apps Safely on Android"
+  },
+  {
+   "content": "Gaming needs three things: a strong chipset, a high-refresh display, and a big battery.\n1. Chipset first — look for Snapdragon 7-series or Dimensity 8000-series and above.\n2. Display — 90Hz or 120Hz makes shooters feel far smoother.\n3. Battery — 5000mAh minimum for long PUBG sessions.\n4. Check Mobile Ustaad phone pages for the Gaming verdict on any model before buying.\nTop picks right now: Poco X7 Pro, Infinix GT 30 Pro, Redmi Note 14 Pro.",
+   "excerpt": "Chipset, display and battery — what actually matters for PUBG and Free Fire.",
+   "slug": "best-gaming-phones-budget",
+   "title": "Best Gaming Phones Under Rs 50,000 in Pakistan"
+  },
+  {
+   "content": "1. Clear app caches: Settings > Storage > Cached data.\n2. Uninstall pre-installed bloatware you never open.\n3. Move photos and videos to Google Photos cloud backup, then free up space.\n4. Use 'Lite' versions of apps (Facebook Lite, TikTok Lite) on 64GB phones.\n5. Check Settings > Storage to find which apps eat the most space.",
+   "excerpt": "Free gigabytes without deleting your photos.",
+   "slug": "free-up-storage",
+   "title": "How to Free Up Storage for New Apps"
+  },
+  {
+   "slug": "best-video-editing-apps-pakistan",
+   "title": "Best Video Editing Apps in Pakistan 2026",
+   "excerpt": "CapCut, VN and InShot compared — pick the right editor for reels, vlogs and TikToks.",
+   "content": "1. CapCut — the all-rounder. Templates, auto-captions and effects make it the fastest route from raw clip to viral reel.\n2. VN Video Editor — the pro pick. Multi-track timeline and keyframes with no watermark; best for YouTubers who want full control.\n3. InShot — the quick fix. Trim, add text and music in minutes; ideal for WhatsApp status and everyday edits.\n4. KineMaster — the veteran. Powerful layer-based editing, though the free version stamps a watermark.\n5. Pick by goal: reels = CapCut, serious vlogs = VN, quick trims = InShot.\n6. Always export in 1080p, 30fps for the best size-to-quality balance on Pakistani networks.\n7. Download only from the official Play Store links on our app pages — modded editors often hide malware."
+  },
+  {
+   "slug": "best-free-vpn-apps-pakistan",
+   "title": "Best Free VPN Apps for Pakistan",
+   "excerpt": "Which free VPNs are actually safe? Honest picks plus what free VPNs can't do.",
+   "content": "1. 1.1.1.1 + WARP by Cloudflare — free, unlimited and trustworthy. Encrypts your connection in one tap; best first choice.\n2. Proton VPN free tier — from the makers of ProtonMail, with a strict no-logs policy and no data caps.\n3. What free VPNs can't do: reliably unblock region-locked streaming or change your virtual country.\n4. Avoid random free VPNs with few downloads — many log and sell your browsing data; that is how they stay free.\n5. Never use a free VPN for banking or JazzCash/Easypaisa logins; disconnect first.\n6. If a VPN slows your Jazz or Zong data to a crawl, switch server or use WARP's DNS-only mode.\n7. Paid VPNs (NordVPN, ExpressVPN) are the only real option for streaming libraries and heavy use."
+  },
+  {
+   "slug": "top-food-delivery-apps-pakistan",
+   "title": "Top Food Delivery Apps in Pakistan",
+   "excerpt": "Who delivers your biryani fastest? The honest state of food delivery apps in 2026.",
+   "content": "1. foodpanda — the undisputed leader. Thousands of restaurants plus pandamart groceries in major cities.\n2. pandapro subscription pays for itself if you order even twice a week — free delivery adds up fast.\n3. Hunt vouchers: the app's Deals section and bank card promos routinely cut 20-30% off.\n4. For groceries in a hurry, pandamart beats a market trip and often matches shop prices.\n5. Pickup orders skip delivery fees entirely — order ahead and grab it yourself.\n6. In smaller cities, coverage is thin; call the restaurant directly if the app shows nothing nearby.\n7. Always check the rider's live location before calling — most delays are traffic, not the rider's fault."
+  },
+  {
+   "slug": "jazzcash-vs-easypaisa",
+   "title": "JazzCash vs Easypaisa: Which Mobile Wallet Is Best?",
+   "excerpt": "Pakistan's two big wallets compared — fees, agents, cards and app experience.",
+   "content": "1. Agent network: Easypaisa has the edge in villages and small towns; JazzCash is stronger in cities. Check your area first.\n2. Bank transfers: both support free transfers via Raast up to monthly limits — beyond that, small fees apply.\n3. Debit cards: both offer them; compare annual fees in the app before ordering, as charges change.\n4. Bill payments: both cover electricity, gas and internet bills — set reminders so you never miss a due date.\n5. App experience: JazzCash's app feels more modern; Easypaisa's is simpler for first-time users.\n6. International: neither is a PayPal replacement; pair with NayaPay's Visa card for online dollar payments.\n7. Verdict: use the one whose agents are nearest to you — most Pakistanis end up keeping both."
+  },
+  {
+   "slug": "best-apps-learn-english-pakistan",
+   "title": "Best Apps to Learn English in Pakistan",
+   "excerpt": "From spoken English to CSS prep — the apps that actually work, and how to use them.",
+   "content": "1. Duolingo — start here. Ten minutes daily of game-like lessons builds real vocabulary; enable the Urdu-to-English course.\n2. Khan Academy — for academic English and comprehension; free lessons that help with exams too.\n3. BBC Learning English (website + app) — short daily videos on real-world English, free forever.\n4. Practice speaking: record yourself daily and compare — apps teach words, only speaking builds fluency.\n5. Watch English content with English subtitles, not Urdu — dramas and documentaries both work.\n6. Read one Dawn editorial a week and note five new words; apps alone won't build reading stamina.\n7. Consistency beats intensity: 15 focused minutes daily outperforms a 3-hour weekend cram."
+  }
+ ]
 }
