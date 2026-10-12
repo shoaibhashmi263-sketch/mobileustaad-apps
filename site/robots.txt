@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apps.mobileustaad.com/sitemap.xml
