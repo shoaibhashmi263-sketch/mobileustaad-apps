@@ -12,6 +12,7 @@
   <url><loc>https://apps.mobileustaad.com/categories/education/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://apps.mobileustaad.com/categories/music/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://apps.mobileustaad.com/categories/ai/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/categories/transport/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://apps.mobileustaad.com/apps/pubg-mobile/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://apps.mobileustaad.com/apps/free-fire/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://apps.mobileustaad.com/apps/cod-mobile/</loc><changefreq>weekly</changefreq></url>
@@ -47,6 +48,53 @@
   <url><loc>https://apps.mobileustaad.com/apps/claude/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://apps.mobileustaad.com/apps/gemini/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://apps.mobileustaad.com/apps/grok/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/gmail/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/chrome/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/zoom/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/microsoft-word/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/microsoft-excel/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/messenger/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/imo/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/signal/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/discord/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/reddit/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/x-twitter/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/linkedin/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/pinterest/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/kwai/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/snackvideo/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/likee/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/bigo-live/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/olx-pakistan/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/pakwheels/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/zameen/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/careem/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/indrive/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/bykea/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/hbl-mobile/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/meezan-bank/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/ubl-digital/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/mcb-live/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/sadapay/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/my-jazz/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/my-zong/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/my-telenor/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/my-ufone/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/ludo-star/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/clash-of-clans/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/among-us/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/temple-run-2/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/hill-climb-racing/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/candy-crush-saga/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/mx-player/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/vlc/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/truecaller/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/gboard/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/swiftkey/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/google-maps/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/google-translate/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/google-photos/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://apps.mobileustaad.com/apps/google-drive/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://apps.mobileustaad.com/guides/download-apps-safely/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://apps.mobileustaad.com/guides/best-gaming-phones-budget/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://apps.mobileustaad.com/guides/free-up-storage/</loc><changefreq>weekly</changefreq></url>
