@@ -439,6 +439,66 @@
     "Panic wipe: instantly clear all stored data",
     "Free and open source by Jack Dorsey (Twitter/X co-founder)"
    ]
+  },
+  {
+   "slug": "chatgpt",
+   "name": "ChatGPT",
+   "developer": "OpenAI",
+   "package": "com.openai.chatgpt",
+   "category": "ai",
+   "review": "OpenAI's official app — and one of the most downloaded apps in Pakistan right now, with a 4.8 Play Store rating and 500M+ downloads. It is the go-to AI assistant for Pakistani students, freelancers and creators who use it for assignments, client work, business plans and content ideas. Pros: the most capable all-round chatbot, a generous free tier, and Advanced Voice Mode for real-time conversation on the go. Cons: heavy users need Plus (priced in dollars, so it is costly on a Pakistani budget) and the app needs stable internet — slow PTCL or load-shedding disconnects ruin voice chats. Best for students, freelancers and anyone who wants one AI app that does almost everything.",
+   "features": [
+    "Chat with the latest GPT models for answers, writing and ideas",
+    "Advanced Voice Mode for real-time spoken conversations",
+    "Generate and edit images from text descriptions",
+    "Photo upload — ask about handwritten notes, bills or landmarks",
+    "Sync chat history across phone, tablet and PC"
+   ]
+  },
+  {
+   "slug": "claude",
+   "name": "Claude by Anthropic",
+   "developer": "Anthropic PBC",
+   "package": "com.anthropic.claude",
+   "category": "ai",
+   "review": "The AI assistant from Anthropic, known for thoughtful, well-structured answers — especially strong for long writing and coding help. With a 4.6 Play Store rating, it is the favourite of developers and writers who find it more careful with nuance than its rivals. Pros: excellent long-form writing and code debugging, web search with citations, and a generous free tier. Cons: fewer Pakistan-specific integrations than Google's tools, and the paid Pro plan is dollar-priced. Best for writers, developers, researchers and students who need careful, in-depth help rather than quick gimmicks.",
+   "features": [
+    "AI writing assistant for essays, emails and reports",
+    "Coding help across Python, JavaScript and dozens of languages",
+    "Web research with cited sources",
+    "Photo and document analysis",
+    "Sync conversations across web, iOS and Android"
+   ]
+  },
+  {
+   "slug": "gemini",
+   "name": "Gemini",
+   "developer": "Google LLC",
+   "package": "com.google.android.apps.bard",
+   "category": "ai",
+   "review": "Google's own AI assistant, deeply woven into the apps already on your Android phone — Gmail, Drive, Maps and YouTube. It can replace Google Assistant as the default helper (you can switch back anytime) and summarises your emails or documents on request. Pros: free with your Google account, smartest at anything involving your Google data, and responds to 'Hey Google'. Cons: privacy-conscious users may dislike how much Google data it touches, and a few classic Assistant routines are still missing. Best for Android users already living in the Google ecosystem — students, office workers and anyone who wants AI inside their inbox and calendar.",
+   "features": [
+    "Chat, voice and photo-based help from Google's AI models",
+    "Summarise Gmail threads and Google Drive documents",
+    "Generate images on the fly",
+    "Plan trips with Google Maps and Flights integration",
+    "Replaces Google Assistant as the default phone assistant"
+   ]
+  },
+  {
+   "slug": "grok",
+   "name": "Grok",
+   "developer": "xAI",
+   "package": "ai.x.grok",
+   "category": "ai",
+   "review": "xAI's chatbot, built with a bold personality and plugged into real-time conversation from X (Twitter) — so it knows what is trending right now, not just what was true at training time. It answers questions, generates images and videos, and runs in voice mode. Pros: freshest answers on current events and trends, built-in image and video generation, and a free tier to try it. Cons: the real-time edge matters most if you follow X; power features sit behind paid tiers, and heavy users will hit limits fast. Best for X users, news followers and creators who want a chatbot with personality plus fast media generation.",
+   "features": [
+    "Real-time answers informed by live X conversation",
+    "Generate striking images and videos from text",
+    "Voice mode for natural spoken chats",
+    "Upload photos for analysis and understanding",
+    "Customisable personality and conversation styles"
+   ]
   }
  ],
  "categories": [
@@ -501,6 +561,12 @@
    "name": "Music",
    "icon": "🎵",
    "description": "Stream music and podcasts on your phone."
+  },
+  {
+   "slug": "ai",
+   "name": "AI & Assistants",
+   "icon": "🤖",
+   "description": "AI chatbots and assistants — ChatGPT, Gemini, Claude and more."
   }
  ],
  "guides": [
@@ -551,6 +617,12 @@
    "title": "Best Apps to Learn English in Pakistan",
    "excerpt": "From spoken English to CSS prep — the apps that actually work, and how to use them.",
    "content": "1. Duolingo — start here. Ten minutes daily of game-like lessons builds real vocabulary; enable the Urdu-to-English course.\n2. Khan Academy — for academic English and comprehension; free lessons that help with exams too.\n3. BBC Learning English (website + app) — short daily videos on real-world English, free forever.\n4. Practice speaking: record yourself daily and compare — apps teach words, only speaking builds fluency.\n5. Watch English content with English subtitles, not Urdu — dramas and documentaries both work.\n6. Read one Dawn editorial a week and note five new words; apps alone won't build reading stamina.\n7. Consistency beats intensity: 15 focused minutes daily outperforms a 3-hour weekend cram."
+  },
+  {
+   "slug": "best-ai-chatbot-apps-pakistan",
+   "title": "Best AI Chatbot Apps in Pakistan 2026",
+   "excerpt": "ChatGPT, Gemini, Claude or Grok? The honest pick for students, freelancers and creators.",
+   "content": "1. ChatGPT — the all-rounder. Best free experience, strongest at almost everything; start here if you install only one AI app.\n2. Gemini — the Google user’s pick. Summarises your Gmail, works with Drive and Maps, and replaces your phone’s default assistant.\n3. Claude — the writer’s and coder’s pick. Most careful long-form answers; great for essays, reports and debugging.\n4. Grok — the current-events pick. Real-time answers from X plus fast image and video generation, with a witty personality.\n5. Pick by need: homework and general use = ChatGPT, Google inbox = Gemini, writing and code = Claude, trends and media = Grok.\n6. Watch the cost: free tiers are generous, but Plus/Pro plans are dollar-priced — expensive for a Pakistani budget, so exhaust the free tier first.\n7. Download only from the official Play Store links on our app pages — fake 'AI pro unlock' apps are a top source of malware in Pakistan."
   }
  ]
 }
