@@ -175,7 +175,7 @@
    "developer": "Google LLC",
    "package": "com.google.android.youtube",
    "category": "social",
-   "review": "The world's biggest video platform, pre-installed on almost every Android phone in Pakistan. From drama OSTs to cricket highlights and tech reviews, it is where Pakistan watches. Best for anyone who wants free, endless video \u2014 just watch your mobile data, because HD streaming eats gigabytes fast.",
+   "review": "The world's biggest video platform, pre-installed on almost every Android phone in Pakistan. From drama OSTs to cricket highlights and tech reviews, it is where Pakistan watches. Best for anyone who wants free, endless video — just watch your mobile data, because HD streaming eats gigabytes fast.",
    "features": [
     "Watch and upload videos in up to 4K",
     "YouTube Shorts for quick vertical videos",
@@ -205,7 +205,7 @@
    "developer": "Telegram FZ-LLC",
    "package": "org.telegram.messenger",
    "category": "social",
-   "review": "The messaging app of choice for Pakistan's students, movie groups and file sharers. Cloud chats sync across all your devices, and the 2GB file limit makes it the easiest way to send long videos. Ideal if WhatsApp's storage limits and single-device history frustrate you \u2014 though fewer relatives use it, so it won't replace WhatsApp for family.",
+   "review": "The messaging app of choice for Pakistan's students, movie groups and file sharers. Cloud chats sync across all your devices, and the 2GB file limit makes it the easiest way to send long videos. Ideal if WhatsApp's storage limits and single-device history frustrate you — though fewer relatives use it, so it won't replace WhatsApp for family.",
    "features": [
     "Cloud-synced chats across phone, tablet and PC",
     "Send files up to 2GB each",
@@ -265,7 +265,7 @@
    "developer": "Miniclip.com",
    "package": "com.miniclip.eightballpool",
    "category": "gaming",
-   "review": "The online pool game Pakistan never put down \u2014 quick matches, simple controls and a ranking system that keeps you coming back. It runs fine on low-end phones and even patchy 4G. Best for casual competitive play with friends; just know the coin economy nudges you toward in-app purchases at higher levels.",
+   "review": "The online pool game Pakistan never put down — quick matches, simple controls and a ranking system that keeps you coming back. It runs fine on low-end phones and even patchy 4G. Best for casual competitive play with friends; just know the coin economy nudges you toward in-app purchases at higher levels.",
    "features": [
     "Real-time 1v1 pool matches worldwide",
     "Play with friends in private rooms",
@@ -280,7 +280,7 @@
    "developer": "SYBO Games",
    "package": "com.kiloo.subwaysurf",
    "category": "gaming",
-   "review": "The endless runner every Pakistani kid \u2014 and plenty of adults \u2014 has installed at some point. One-thumb controls, constant world-tour updates and zero learning curve make it perfect for killing time. It is pure arcade fun with no depth, and ads pop up often unless you play offline.",
+   "review": "The endless runner every Pakistani kid — and plenty of adults — has installed at some point. One-thumb controls, constant world-tour updates and zero learning curve make it perfect for killing time. It is pure arcade fun with no depth, and ads pop up often unless you play offline.",
    "features": [
     "Endless runner with swipe controls",
     "World Tour cities with themed updates",
@@ -295,7 +295,7 @@
    "developer": "NayaPay",
    "package": "com.nayapay.app",
    "category": "finance",
-   "review": "Pakistan's slickest digital wallet, aimed at young users who want banking without visiting a branch. The free Visa debit card \u2014 virtual instantly, physical delivered home \u2014 works for online shopping and international payments. Great for freelancers receiving payments, though merchant acceptance is still catching up to JazzCash and Easypaisa agents on the street.",
+   "review": "Pakistan's slickest digital wallet, aimed at young users who want banking without visiting a branch. The free Visa debit card — virtual instantly, physical delivered home — works for online shopping and international payments. Great for freelancers receiving payments, though merchant acceptance is still catching up to JazzCash and Easypaisa agents on the street.",
    "features": [
     "Free Visa debit card (virtual + physical)",
     "Instant free transfers to any bank via Raast",
@@ -310,7 +310,7 @@
    "developer": "Alibaba Mobile",
    "package": "com.alibaba.aliexpresshd",
    "category": "shopping",
-   "review": "The go-to app for Pakistanis hunting phone accessories, gadgets and odd finds at China-direct prices. Choice items with faster shipping made it far more practical than the old 60-day waits. Best for patient bargain hunters \u2014 always check seller ratings and expect 2-4 weeks delivery, plus possible customs duty on pricier items.",
+   "review": "The go-to app for Pakistanis hunting phone accessories, gadgets and odd finds at China-direct prices. Choice items with faster shipping made it far more practical than the old 60-day waits. Best for patient bargain hunters — always check seller ratings and expect 2-4 weeks delivery, plus possible customs duty on pricier items.",
    "features": [
     "Millions of products at factory prices",
     "Choice items with faster delivery",
@@ -325,7 +325,7 @@
    "developer": "foodpanda",
    "package": "com.global.foodpanda.android",
    "category": "food",
-   "review": "Pakistan's dominant food delivery app \u2014 if you order food online in Lahore, Karachi or Islamabad, this is probably how. Beyond restaurants, pandamart covers groceries in under an hour. Essential for city dwellers; delivery fees and minimum orders add up, so the pandapro subscription pays for itself if you order weekly.",
+   "review": "Pakistan's dominant food delivery app — if you order food online in Lahore, Karachi or Islamabad, this is probably how. Beyond restaurants, pandamart covers groceries in under an hour. Essential for city dwellers; delivery fees and minimum orders add up, so the pandapro subscription pays for itself if you order weekly.",
    "features": [
     "Food delivery from thousands of restaurants",
     "pandamart for groceries in minutes",
@@ -340,13 +340,13 @@
    "developer": "Google LLC",
    "package": "com.google.android.apps.nbu.files",
    "category": "utilities",
-   "review": "Google's lightweight file manager that doubles as a storage cleaner \u2014 perfect for phones constantly crying about full storage. It finds duplicate photos, old memes and unused apps, then clears them in taps. A must-have utility for 64GB phones; it won't replace a full gallery or music app, but for cleanup duty nothing is simpler.",
+   "review": "Google's lightweight file manager that doubles as a storage cleaner — perfect for phones constantly crying about full storage. It finds duplicate photos, old memes and unused apps, then clears them in taps. A must-have utility for 64GB phones; it won't replace a full gallery or music app, but for cleanup duty nothing is simpler.",
    "features": [
     "Smart cleanup suggestions for junk files",
     "Find and delete duplicate photos",
     "Browse files by category",
     "Offline file sharing with nearby phones",
-    "Lightweight \u2014 under 15MB"
+    "Lightweight — under 15MB"
    ]
   },
   {
@@ -355,7 +355,7 @@
    "developer": "Cloudflare, Inc.",
    "package": "com.cloudflare.onedotonedotonedotone",
    "category": "utilities",
-   "review": "Cloudflare's free app that encrypts your connection and can speed up slow DNS on Pakistani networks. The one-tap WARP mode is the simplest free privacy boost on public Wi-Fi. Ideal for basic protection and unblocking sluggish browsing \u2014 but it is not a full VPN: it won't change your virtual location for region-locked content.",
+   "review": "Cloudflare's free app that encrypts your connection and can speed up slow DNS on Pakistani networks. The one-tap WARP mode is the simplest free privacy boost on public Wi-Fi. Ideal for basic protection and unblocking sluggish browsing — but it is not a full VPN: it won't change your virtual location for region-locked content.",
    "features": [
     "One-tap VPN-style encryption (WARP)",
     "Faster private DNS (1.1.1.1)",
@@ -370,12 +370,12 @@
    "developer": "ZDevs",
    "package": "ru.zdevs.zarchiver",
    "category": "utilities",
-   "review": "The tiny archiver app every Pakistani Android power user keeps installed for opening ZIP and RAR files from WhatsApp and downloads. It handles password-protected archives and split files without fuss. Perfect for anyone who downloads compressed files \u2014 just don't expect a pretty interface, it is function over form.",
+   "review": "The tiny archiver app every Pakistani Android power user keeps installed for opening ZIP and RAR files from WhatsApp and downloads. It handles password-protected archives and split files without fuss. Perfect for anyone who downloads compressed files — just don't expect a pretty interface, it is function over form.",
    "features": [
     "Open ZIP, RAR, 7z and dozens more formats",
     "Create password-protected archives",
     "Extract split and multi-part archives",
-    "No internet permission \u2014 fully offline",
+    "No internet permission — fully offline",
     "Tiny size, no ads"
    ]
   },
@@ -385,7 +385,7 @@
    "developer": "Duolingo",
    "package": "com.duolingo",
    "category": "education",
-   "review": "The most fun way for Pakistanis to build English skills \u2014 or pick up Arabic, French or Turkish \u2014 in ten minutes a day. Game-style lessons with streaks genuinely keep learners coming back. Great for beginners and intermediate learners; advanced students will outgrow it and the free tier has ads and a hearts limit.",
+   "review": "The most fun way for Pakistanis to build English skills — or pick up Arabic, French or Turkish — in ten minutes a day. Game-style lessons with streaks genuinely keep learners coming back. Great for beginners and intermediate learners; advanced students will outgrow it and the free tier has ads and a hearts limit.",
    "features": [
     "Bite-size game-like lessons",
     "English courses from Urdu",
@@ -400,7 +400,7 @@
    "developer": "Khan Academy",
    "package": "org.khanacademy.android",
    "category": "education",
-   "review": "Completely free world-class lessons \u2014 maths, science and more \u2014 that Pakistani students use to survive board exams and entry tests. Videos plus practice exercises beat rote memorization for actually understanding concepts. Best for matric, FSc and CSS aspirants; the syllabus isn't tailored to Pakistani boards, so use it alongside your textbooks.",
+   "review": "Completely free world-class lessons — maths, science and more — that Pakistani students use to survive board exams and entry tests. Videos plus practice exercises beat rote memorization for actually understanding concepts. Best for matric, FSc and CSS aspirants; the syllabus isn't tailored to Pakistani boards, so use it alongside your textbooks.",
    "features": [
     "Thousands of free video lessons",
     "Practice exercises with instant feedback",
@@ -415,7 +415,7 @@
    "developer": "Spotify AB",
    "package": "com.spotify.music",
    "category": "music",
-   "review": "The music streamer of choice for Pakistan's cities, with solid playlists of Coke Studio, Atif Aslam and Bollywood alongside global hits. The free tier works fine for casual listening with shuffle play. Audiophiles and offline listeners will want Premium \u2014 free users get ads and no offline downloads.",
+   "review": "The music streamer of choice for Pakistan's cities, with solid playlists of Coke Studio, Atif Aslam and Bollywood alongside global hits. The free tier works fine for casual listening with shuffle play. Audiophiles and offline listeners will want Premium — free users get ads and no offline downloads.",
    "features": [
     "Millions of songs including Pakistani artists",
     "Curated playlists and Daily Mixes",
@@ -430,9 +430,9 @@
    "category": "social",
    "developer": "Jack Dorsey (open source)",
    "package": "com.bitchat.droid",
-   "review": "WhatsApp-style messaging that works with no internet at all. Bitchat connects phones directly over Bluetooth mesh networking \u2014 messages hop from device to device, so you can chat even during internet shutdowns or in areas with no signal. No SIM, no phone number and no account needed; private chats are end-to-end encrypted and the code is fully open source. Note: removed from app stores in India in Oct 2026 under a government order \u2014 availability varies by country.",
+   "review": "WhatsApp-style messaging that works with no internet at all. Bitchat connects phones directly over Bluetooth mesh networking — messages hop from device to device, so you can chat even during internet shutdowns or in areas with no signal. No SIM, no phone number and no account needed; private chats are end-to-end encrypted and the code is fully open source. Note: removed from app stores in India in Oct 2026 under a government order — availability varies by country.",
    "features": [
-    "Offline messaging via Bluetooth mesh \u2014 no internet or mobile network needed",
+    "Offline messaging via Bluetooth mesh — no internet or mobile network needed",
     "No SIM card, phone number or account required",
     "End-to-end encrypted private chats",
     "Public channels and location-based chat rooms",
@@ -446,12 +446,12 @@
    "developer": "OpenAI",
    "package": "com.openai.chatgpt",
    "category": "ai",
-   "review": "OpenAI's official app \u2014 and one of the most downloaded apps in Pakistan right now, with a 4.8 Play Store rating and 500M+ downloads. It is the go-to AI assistant for Pakistani students, freelancers and creators who use it for assignments, client work, business plans and content ideas. Pros: the most capable all-round chatbot, a generous free tier, and Advanced Voice Mode for real-time conversation on the go. Cons: heavy users need Plus (priced in dollars, so it is costly on a Pakistani budget) and the app needs stable internet \u2014 slow PTCL or load-shedding disconnects ruin voice chats. Best for students, freelancers and anyone who wants one AI app that does almost everything.",
+   "review": "OpenAI's official app — and one of the most downloaded apps in Pakistan right now, with a 4.8 Play Store rating and 500M+ downloads. It is the go-to AI assistant for Pakistani students, freelancers and creators who use it for assignments, client work, business plans and content ideas. Pros: the most capable all-round chatbot, a generous free tier, and Advanced Voice Mode for real-time conversation on the go. Cons: heavy users need Plus (priced in dollars, so it is costly on a Pakistani budget) and the app needs stable internet — slow PTCL or load-shedding disconnects ruin voice chats. Best for students, freelancers and anyone who wants one AI app that does almost everything.",
    "features": [
     "Chat with the latest GPT models for answers, writing and ideas",
     "Advanced Voice Mode for real-time spoken conversations",
     "Generate and edit images from text descriptions",
-    "Photo upload \u2014 ask about handwritten notes, bills or landmarks",
+    "Photo upload — ask about handwritten notes, bills or landmarks",
     "Sync chat history across phone, tablet and PC"
    ]
   },
@@ -461,7 +461,7 @@
    "developer": "Anthropic PBC",
    "package": "com.anthropic.claude",
    "category": "ai",
-   "review": "The AI assistant from Anthropic, known for thoughtful, well-structured answers \u2014 especially strong for long writing and coding help. With a 4.6 Play Store rating, it is the favourite of developers and writers who find it more careful with nuance than its rivals. Pros: excellent long-form writing and code debugging, web search with citations, and a generous free tier. Cons: fewer Pakistan-specific integrations than Google's tools, and the paid Pro plan is dollar-priced. Best for writers, developers, researchers and students who need careful, in-depth help rather than quick gimmicks.",
+   "review": "The AI assistant from Anthropic, known for thoughtful, well-structured answers — especially strong for long writing and coding help. With a 4.6 Play Store rating, it is the favourite of developers and writers who find it more careful with nuance than its rivals. Pros: excellent long-form writing and code debugging, web search with citations, and a generous free tier. Cons: fewer Pakistan-specific integrations than Google's tools, and the paid Pro plan is dollar-priced. Best for writers, developers, researchers and students who need careful, in-depth help rather than quick gimmicks.",
    "features": [
     "AI writing assistant for essays, emails and reports",
     "Coding help across Python, JavaScript and dozens of languages",
@@ -476,7 +476,7 @@
    "developer": "Google LLC",
    "package": "com.google.android.apps.bard",
    "category": "ai",
-   "review": "Google's own AI assistant, deeply woven into the apps already on your Android phone \u2014 Gmail, Drive, Maps and YouTube. It can replace Google Assistant as the default helper (you can switch back anytime) and summarises your emails or documents on request. Pros: free with your Google account, smartest at anything involving your Google data, and responds to 'Hey Google'. Cons: privacy-conscious users may dislike how much Google data it touches, and a few classic Assistant routines are still missing. Best for Android users already living in the Google ecosystem \u2014 students, office workers and anyone who wants AI inside their inbox and calendar.",
+   "review": "Google's own AI assistant, deeply woven into the apps already on your Android phone — Gmail, Drive, Maps and YouTube. It can replace Google Assistant as the default helper (you can switch back anytime) and summarises your emails or documents on request. Pros: free with your Google account, smartest at anything involving your Google data, and responds to 'Hey Google'. Cons: privacy-conscious users may dislike how much Google data it touches, and a few classic Assistant routines are still missing. Best for Android users already living in the Google ecosystem — students, office workers and anyone who wants AI inside their inbox and calendar.",
    "features": [
     "Chat, voice and photo-based help from Google's AI models",
     "Summarise Gmail threads and Google Drive documents",
@@ -491,7 +491,7 @@
    "developer": "xAI",
    "package": "ai.x.grok",
    "category": "ai",
-   "review": "xAI's chatbot, built with a bold personality and plugged into real-time conversation from X (Twitter) \u2014 so it knows what is trending right now, not just what was true at training time. It answers questions, generates images and videos, and runs in voice mode. Pros: freshest answers on current events and trends, built-in image and video generation, and a free tier to try it. Cons: the real-time edge matters most if you follow X; power features sit behind paid tiers, and heavy users will hit limits fast. Best for X users, news followers and creators who want a chatbot with personality plus fast media generation.",
+   "review": "xAI's chatbot, built with a bold personality and plugged into real-time conversation from X (Twitter) — so it knows what is trending right now, not just what was true at training time. It answers questions, generates images and videos, and runs in voice mode. Pros: freshest answers on current events and trends, built-in image and video generation, and a free tier to try it. Cons: the real-time edge matters most if you follow X; power features sit behind paid tiers, and heavy users will hit limits fast. Best for X users, news followers and creators who want a chatbot with personality plus fast media generation.",
    "features": [
     "Real-time answers informed by live X conversation",
     "Generate striking images and videos from text",
@@ -593,7 +593,7 @@
    ],
    "name": "Messenger",
    "package": "com.facebook.orca",
-   "review": "Messenger remains the default chat companion for millions of Pakistanis who already use Facebook \u2014 no phone number needed, so you can message anyone with a Facebook profile from Karachi to Khyber. Voice and video calls hold up well on typical 4G, and features like HD photo sharing, large file transfers and disappearing messages make it genuinely useful for students and small businesses. Pros: free calls without sharing your number, HD photo sharing and 100MB file transfers, end-to-end encrypted secret chats. Cons: heavy on battery and storage, Meta AI prompts and ads can clutter the interface. Best for Facebook users in Pakistan who want calls, chats and groups in one app.",
+   "review": "Messenger remains the default chat companion for millions of Pakistanis who already use Facebook — no phone number needed, so you can message anyone with a Facebook profile from Karachi to Khyber. Voice and video calls hold up well on typical 4G, and features like HD photo sharing, large file transfers and disappearing messages make it genuinely useful for students and small businesses. Pros: free calls without sharing your number, HD photo sharing and 100MB file transfers, end-to-end encrypted secret chats. Cons: heavy on battery and storage, Meta AI prompts and ads can clutter the interface. Best for Facebook users in Pakistan who want calls, chats and groups in one app.",
    "slug": "messenger"
   },
   {
@@ -625,7 +625,7 @@
    ],
    "name": "Signal",
    "package": "org.thoughtcrime.securesms",
-   "review": "Signal is the privacy-first messenger for Pakistanis who care about encrypted conversations \u2014 journalists, activists and professionals increasingly rely on it for sensitive discussions. Messages, calls and media are end-to-end encrypted by default, and the nonprofit behind it runs no ads and collects almost no metadata. Pros: strongest-in-class default encryption, no ads or data-hungry tracking, independent nonprofit ownership. Cons: fewer people in Pakistan use it, so getting contacts to switch is hard; backup and migration tools are limited. Best for privacy-conscious users who want maximum security.",
+   "review": "Signal is the privacy-first messenger for Pakistanis who care about encrypted conversations — journalists, activists and professionals increasingly rely on it for sensitive discussions. Messages, calls and media are end-to-end encrypted by default, and the nonprofit behind it runs no ads and collects almost no metadata. Pros: strongest-in-class default encryption, no ads or data-hungry tracking, independent nonprofit ownership. Cons: fewer people in Pakistan use it, so getting contacts to switch is hard; backup and migration tools are limited. Best for privacy-conscious users who want maximum security.",
    "slug": "signal"
   },
   {
@@ -641,7 +641,7 @@
    ],
    "name": "Discord",
    "package": "com.discord",
-   "review": "Discord has moved well beyond gaming in Pakistan \u2014 university study groups, esports communities and online coaching circles run their servers on it. Voice channels let you drop in and talk without dialling, and screen sharing plus bots make it a surprisingly capable hangout and collaboration tool on budget Android phones. Pros: free persistent voice channels with no call setup, powerful community servers and bots, works across phone, PC and console. Cons: interface is overwhelming for newcomers, notifications get chaotic in busy servers. Best for gamers, students and online communities.",
+   "review": "Discord has moved well beyond gaming in Pakistan — university study groups, esports communities and online coaching circles run their servers on it. Voice channels let you drop in and talk without dialling, and screen sharing plus bots make it a surprisingly capable hangout and collaboration tool on budget Android phones. Pros: free persistent voice channels with no call setup, powerful community servers and bots, works across phone, PC and console. Cons: interface is overwhelming for newcomers, notifications get chaotic in busy servers. Best for gamers, students and online communities.",
    "slug": "discord"
   },
   {
@@ -657,7 +657,7 @@
    ],
    "name": "Reddit",
    "package": "com.reddit.frontpage",
-   "review": "Reddit is where Pakistanis go for honest, unfiltered discussions \u2014 from r/pakistan debates to tech support, university admissions advice and meme breaks. The community-voting system surfaces genuinely useful answers, and anonymous profiles encourage frank conversations you won't find on polished social feeds. Pros: huge range of communities for almost any interest, authentic crowd-sourced advice and news, free with optional premium. Cons: app updates sometimes introduce bugs, moderation and karma rules confuse new users. Best for curious readers and anyone seeking real-world opinions.",
+   "review": "Reddit is where Pakistanis go for honest, unfiltered discussions — from r/pakistan debates to tech support, university admissions advice and meme breaks. The community-voting system surfaces genuinely useful answers, and anonymous profiles encourage frank conversations you won't find on polished social feeds. Pros: huge range of communities for almost any interest, authentic crowd-sourced advice and news, free with optional premium. Cons: app updates sometimes introduce bugs, moderation and karma rules confuse new users. Best for curious readers and anyone seeking real-world opinions.",
    "slug": "reddit"
   },
   {
@@ -673,7 +673,7 @@
    ],
    "name": "X",
    "package": "com.twitter.android",
-   "review": "X is Pakistan's loudest digital town square \u2014 breaking news, cricket debates, political commentary and trending hashtags land here before they hit TV channels. Pakistani journalists, politicians and creators post directly, and Grok's AI summaries help make sense of fast-moving threads. Pros: real-time news and trends from primary sources, Spaces for live audio discussions, direct access to public figures. Cons: feed can feel overwhelming and toxic, ad load is noticeable. Best for news junkies and people who live-tweet cricket.",
+   "review": "X is Pakistan's loudest digital town square — breaking news, cricket debates, political commentary and trending hashtags land here before they hit TV channels. Pakistani journalists, politicians and creators post directly, and Grok's AI summaries help make sense of fast-moving threads. Pros: real-time news and trends from primary sources, Spaces for live audio discussions, direct access to public figures. Cons: feed can feel overwhelming and toxic, ad load is noticeable. Best for news junkies and people who live-tweet cricket.",
    "slug": "x-twitter"
   },
   {
@@ -689,7 +689,7 @@
    ],
    "name": "LinkedIn",
    "package": "com.linkedin.android",
-   "review": "LinkedIn is the job-hunting backbone for Pakistan's growing white-collar workforce \u2014 fresh graduates in Lahore and Karachi use it to find openings, connect with recruiters and build a credible professional profile. Job alerts, skill endorsements and industry posts keep you visible to employers, while the verified network adds weight to applications. Pros: large pool of Pakistani job listings and recruiters, professional networking without a Facebook-style feed, useful learning content. Cons: best features locked behind expensive Premium, feed can feel like a self-promotion contest. Best for job seekers, freelancers and professionals.",
+   "review": "LinkedIn is the job-hunting backbone for Pakistan's growing white-collar workforce — fresh graduates in Lahore and Karachi use it to find openings, connect with recruiters and build a credible professional profile. Job alerts, skill endorsements and industry posts keep you visible to employers, while the verified network adds weight to applications. Pros: large pool of Pakistani job listings and recruiters, professional networking without a Facebook-style feed, useful learning content. Cons: best features locked behind expensive Premium, feed can feel like a self-promotion contest. Best for job seekers, freelancers and professionals.",
    "slug": "linkedin"
   },
   {
@@ -705,7 +705,7 @@
    ],
    "name": "Pinterest",
    "package": "com.pinterest",
-   "review": "Pinterest is Pakistan's go-to mood board for wedding planning, home decor, fashion and food ideas \u2014 desi users pin shadi outfits, mehndi designs and room layouts by the million. Visual search helps you find a picture of anything, from lehenga styles to interior design, and boards keep your ideas neatly organized. Pros: endless visual inspiration for weddings, fashion and crafts, boards make planning easy, mostly free to use. Cons: heavy ad and shopping content crowds out organic pins, many linked products aren't available in Pakistan. Best for designers, brides-to-be and hobbyists.",
+   "review": "Pinterest is Pakistan's go-to mood board for wedding planning, home decor, fashion and food ideas — desi users pin shadi outfits, mehndi designs and room layouts by the million. Visual search helps you find a picture of anything, from lehenga styles to interior design, and boards keep your ideas neatly organized. Pros: endless visual inspiration for weddings, fashion and crafts, boards make planning easy, mostly free to use. Cons: heavy ad and shopping content crowds out organic pins, many linked products aren't available in Pakistan. Best for designers, brides-to-be and hobbyists.",
    "slug": "pinterest"
   },
   {
@@ -769,7 +769,7 @@
    ],
    "name": "Bigo Live",
    "package": "sg.bigo.live",
-   "review": "Bigo Live is one of Pakistan's biggest live-streaming platforms, with local hosts running music, gaming and chat broadcasts that pull large desi audiences. Viewers send virtual gifts, hosts climb rankings and PK battles add competition \u2014 a real micro-economy for streamers with a phone and personality. Pros: huge Pakistani host and viewer community, gift-based earning for broadcasters, interactive PK battles and events. Cons: pressure to spend on gifts can be addictive, sign-in and account recovery issues frustrate users. Best for live-streaming fans and hosts who want an audience.",
+   "review": "Bigo Live is one of Pakistan's biggest live-streaming platforms, with local hosts running music, gaming and chat broadcasts that pull large desi audiences. Viewers send virtual gifts, hosts climb rankings and PK battles add competition — a real micro-economy for streamers with a phone and personality. Pros: huge Pakistani host and viewer community, gift-based earning for broadcasters, interactive PK battles and events. Cons: pressure to spend on gifts can be addictive, sign-in and account recovery issues frustrate users. Best for live-streaming fans and hosts who want an audience.",
    "slug": "bigo-live"
   },
   {
@@ -1251,92 +1251,156 @@
    "package": "com.google.android.apps.docs",
    "review": "Google Drive gives 15GB of free cloud storage shared across Google services, widely used in Pakistan by students and freelancers for documents, CVs and project files. Files sync across phone and PC with easy sharing links. Pros: generous free 15GB storage, seamless sharing with permission controls, scans paper documents with your camera. Cons: 15GB is shared with Gmail and Photos so it fills quickly, the app can feel slow with large folders. Best for students, freelancers and small teams needing simple file sharing.",
    "slug": "google-drive"
+  },
+  {
+   "slug": "tamasha",
+   "name": "Tamasha",
+   "package": "com.spbtv.mobilinktv",
+   "developer": "Jazz Pakistan",
+   "category": "creativity",
+   "features": [
+    "75+ live Pakistani TV channels",
+    "Live cricket: PSL, ICC events and Pakistan's 2026-27 home season (rights secured Oct 2026)",
+    "On-demand Pakistani dramas, movies and reality shows",
+    "Free plan with ads, plus Tamasha Pro for HD ad-free streaming",
+    "7-day rewind on live channels and offline downloads",
+    "Cast support for smart TVs"
+   ],
+   "review": "Jazz's own streaming platform and arguably the most useful entertainment app made in Pakistan. Tamasha bundles live TV channels, dramas, movies and — most importantly — legal live cricket, including the PCB home-season rights it secured in October 2026. A free tier with ads means anyone can start watching immediately, while cheap daily/weekly/monthly bundles keep full access affordable on local data budgets. Pros: fully legal licensed content with no piracy risk, unmatched live cricket coverage for Pakistani fans, cheap streaming bundles for Jazz users. Cons: premium channels and Pro features sit behind paid packages, free tier carries ads, some bundles and offers are limited to Jazz numbers. Best for cricket fans, drama binge-watchers and anyone wanting a legal Netflix alternative priced for Pakistan."
+  },
+  {
+   "slug": "toloka-earn-online",
+   "name": "Toloka: Earn online",
+   "package": "com.yandex.toloka.androidapp",
+   "developer": "Yandex",
+   "category": "finance",
+   "features": [
+    "Microtasks: image tagging, surveys, data and search-result verification",
+    "Payment shown upfront before accepting any task",
+    "Short training and exams unlock higher-paying task categories",
+    "Cashout from just $1 via PayPal or Payoneer",
+    "Skills, earnings and task history tracked in-app",
+    "Urdu among supported interface languages"
+   ],
+   "review": "A crowdsourcing app from Yandex that pays you small amounts for simple microtasks — rating search results, labelling images, answering surveys. It needs no investment and shows the exact payout before you accept a task, which makes it one of the more honest earning apps on the Play Store, with over 10 million installs. Pros: legit company behind it with real payouts, zero deposit or fees to start, transparent per-task pay with a tiny $1 minimum cashout. Cons: payouts land via PayPal or Payoneer — Payoneer works for Pakistan but PayPal does not, individual tasks pay only cents, task availability for Pakistani users can be thin. Best for students or freelancers with spare pockets of time who want real micro-income without falling for deposit scams."
+  },
+  {
+   "slug": "hd-video-downloader",
+   "name": "HD Video Downloader",
+   "package": "instaplus.app.lee",
+   "developer": "Bitmatic Technologies",
+   "category": "utilities",
+   "features": [
+    "Auto-detects videos while browsing in the built-in web browser",
+    "HD and SD quality options for every download",
+    "Fast background downloading with a built-in manager",
+    "Save videos directly to the external SD card",
+    "Share downloads straight to WhatsApp, Bluetooth or Instagram",
+    "Lightweight app under 30MB"
+   ],
+   "review": "A browser-based downloader that spots videos on web pages and social feeds and saves them to your phone in HD or SD. It fills a real need in Pakistan, where patchy internet and limited data bundles make offline viewing genuinely practical, and it has crossed 10 million installs on the Play Store. Pros: dead-simple one-tap workflow, works across many websites, small footprint for budget phones. Cons: contains ads, some platforms block or restrict downloading, user reports show reliability varies after updates. Best for anyone with slow or expensive data who wants dramas and clips saved for offline watching — always with the video owner's permission."
+  },
+  {
+   "slug": "remini",
+   "name": "Remini - AI Photo Enhancer",
+   "package": "com.bigwinepot.nwdn.international",
+   "developer": "Bending Spoons",
+   "category": "photography",
+   "features": [
+    "One-tap AI enhancement of blurry or low-resolution photos",
+    "Restoration of old, faded or damaged family photos",
+    "AI-generated professional-style portraits of yourself",
+    "Face refinement and background improvement tools",
+    "Multi-language support including Urdu",
+    "Frequent model updates from a large development team"
+   ],
+   "review": "The most downloaded AI photo enhancer in the world, with over 500 million installs, Remini uses AI to turn blurry or faded photos into sharp HD images. Its standout use in Pakistan is reviving old family photographs — wedding pictures from the 80s and 90s, scanned documents, grainy childhood snaps — often with striking results. Pros: genuinely impressive restoration on old and low-quality photos, massive user base means constant improvement, easy one-tap operation. Cons: generous use requires in-app purchases, AI results on faces can look slightly artificial, the app is large at around 187MB. Best for families digitising old photo albums and anyone fixing blurry shots from budget phones."
   }
  ],
  "categories": [
   {
    "description": "Battle royale, shooters and universes that run great on Pakistani networks.",
-   "icon": "\ud83c\udfae",
+   "icon": "🎮",
    "name": "Gaming",
    "slug": "gaming"
   },
   {
-   "description": "Edit reels, photos and videos like a pro \u2014 free.",
-   "icon": "\ud83c\udfa8",
+   "description": "Edit reels, photos and videos like a pro — free.",
+   "icon": "🎨",
    "name": "Video & Creativity",
    "slug": "creativity"
   },
   {
    "description": "Chat, share and grow your audience.",
-   "icon": "\ud83d\udcac",
+   "icon": "💬",
    "name": "Social",
    "slug": "social"
   },
   {
    "description": "Pay bills, transfer money and shop online in Pakistan.",
-   "icon": "\ud83d\udcb3",
+   "icon": "💳",
    "name": "Finance",
    "slug": "finance"
   },
   {
    "description": "Turn phone photos into portfolio shots.",
-   "icon": "\ud83d\udcf7",
+   "icon": "📷",
    "name": "Photography",
    "slug": "photography"
   },
   {
    "slug": "shopping",
    "name": "Shopping",
-   "icon": "\ud83d\uded2",
+   "icon": "🛒",
    "description": "Online shopping apps that deliver to Pakistan."
   },
   {
    "slug": "food",
    "name": "Food & Delivery",
-   "icon": "\ud83c\udf54",
+   "icon": "🍔",
    "description": "Food delivery and groceries, ordered in minutes."
   },
   {
    "slug": "utilities",
    "name": "Utilities",
-   "icon": "\ud83d\udd27",
-   "description": "Everyday tools \u2014 file managers, VPNs and system cleaners."
+   "icon": "🔧",
+   "description": "Everyday tools — file managers, VPNs and system cleaners."
   },
   {
    "slug": "education",
    "name": "Education",
-   "icon": "\ud83d\udcda",
-   "description": "Learn English, school subjects and new skills \u2014 free."
+   "icon": "📚",
+   "description": "Learn English, school subjects and new skills — free."
   },
   {
    "slug": "music",
    "name": "Music",
-   "icon": "\ud83c\udfb5",
+   "icon": "🎵",
    "description": "Stream music and podcasts on your phone."
   },
   {
    "slug": "ai",
    "name": "AI & Assistants",
-   "icon": "\ud83e\udd16",
-   "description": "AI chatbots and assistants \u2014 ChatGPT, Gemini, Claude and more."
+   "icon": "🤖",
+   "description": "AI chatbots and assistants — ChatGPT, Gemini, Claude and more."
   },
   {
    "slug": "transport",
    "name": "Travel & Transport",
-   "icon": "\ud83d\ude97",
+   "icon": "🚗",
    "description": "Ride-hailing, travel and transport apps that keep Pakistan moving."
   }
  ],
  "guides": [
   {
-   "content": "1. Open the Google Play Store app on your phone.\n2. Search the exact app name and check the developer name matches the official publisher.\n3. Check ratings and review count \u2014 clones usually have very few.\n4. Tap Install and wait for Play Protect verification.\n5. Never install APK files from random websites \u2014 most Android malware in Pakistan spreads through fake APKs.",
+   "content": "1. Open the Google Play Store app on your phone.\n2. Search the exact app name and check the developer name matches the official publisher.\n3. Check ratings and review count — clones usually have very few.\n4. Tap Install and wait for Play Protect verification.\n5. Never install APK files from random websites — most Android malware in Pakistan spreads through fake APKs.",
    "excerpt": "Five steps to install any app without risking malware.",
    "slug": "download-apps-safely",
    "title": "How to Download Apps Safely on Android"
   },
   {
-   "content": "Gaming needs three things: a strong chipset, a high-refresh display, and a big battery.\n1. Chipset first \u2014 look for Snapdragon 7-series or Dimensity 8000-series and above.\n2. Display \u2014 90Hz or 120Hz makes shooters feel far smoother.\n3. Battery \u2014 5000mAh minimum for long PUBG sessions.\n4. Check Mobile Ustaad phone pages for the Gaming verdict on any model before buying.\nTop picks right now: Poco X7 Pro, Infinix GT 30 Pro, Redmi Note 14 Pro.",
-   "excerpt": "Chipset, display and battery \u2014 what actually matters for PUBG and Free Fire.",
+   "content": "Gaming needs three things: a strong chipset, a high-refresh display, and a big battery.\n1. Chipset first — look for Snapdragon 7-series or Dimensity 8000-series and above.\n2. Display — 90Hz or 120Hz makes shooters feel far smoother.\n3. Battery — 5000mAh minimum for long PUBG sessions.\n4. Check Mobile Ustaad phone pages for the Gaming verdict on any model before buying.\nTop picks right now: Poco X7 Pro, Infinix GT 30 Pro, Redmi Note 14 Pro.",
+   "excerpt": "Chipset, display and battery — what actually matters for PUBG and Free Fire.",
    "slug": "best-gaming-phones-budget",
    "title": "Best Gaming Phones Under Rs 50,000 in Pakistan"
   },
@@ -1349,38 +1413,38 @@
   {
    "slug": "best-video-editing-apps-pakistan",
    "title": "Best Video Editing Apps in Pakistan 2026",
-   "excerpt": "CapCut, VN and InShot compared \u2014 pick the right editor for reels, vlogs and TikToks.",
-   "content": "1. CapCut \u2014 the all-rounder. Templates, auto-captions and effects make it the fastest route from raw clip to viral reel.\n2. VN Video Editor \u2014 the pro pick. Multi-track timeline and keyframes with no watermark; best for YouTubers who want full control.\n3. InShot \u2014 the quick fix. Trim, add text and music in minutes; ideal for WhatsApp status and everyday edits.\n4. KineMaster \u2014 the veteran. Powerful layer-based editing, though the free version stamps a watermark.\n5. Pick by goal: reels = CapCut, serious vlogs = VN, quick trims = InShot.\n6. Always export in 1080p, 30fps for the best size-to-quality balance on Pakistani networks.\n7. Download only from the official Play Store links on our app pages \u2014 modded editors often hide malware."
+   "excerpt": "CapCut, VN and InShot compared — pick the right editor for reels, vlogs and TikToks.",
+   "content": "1. CapCut — the all-rounder. Templates, auto-captions and effects make it the fastest route from raw clip to viral reel.\n2. VN Video Editor — the pro pick. Multi-track timeline and keyframes with no watermark; best for YouTubers who want full control.\n3. InShot — the quick fix. Trim, add text and music in minutes; ideal for WhatsApp status and everyday edits.\n4. KineMaster — the veteran. Powerful layer-based editing, though the free version stamps a watermark.\n5. Pick by goal: reels = CapCut, serious vlogs = VN, quick trims = InShot.\n6. Always export in 1080p, 30fps for the best size-to-quality balance on Pakistani networks.\n7. Download only from the official Play Store links on our app pages — modded editors often hide malware."
   },
   {
    "slug": "best-free-vpn-apps-pakistan",
    "title": "Best Free VPN Apps for Pakistan",
    "excerpt": "Which free VPNs are actually safe? Honest picks plus what free VPNs can't do.",
-   "content": "1. 1.1.1.1 + WARP by Cloudflare \u2014 free, unlimited and trustworthy. Encrypts your connection in one tap; best first choice.\n2. Proton VPN free tier \u2014 from the makers of ProtonMail, with a strict no-logs policy and no data caps.\n3. What free VPNs can't do: reliably unblock region-locked streaming or change your virtual country.\n4. Avoid random free VPNs with few downloads \u2014 many log and sell your browsing data; that is how they stay free.\n5. Never use a free VPN for banking or JazzCash/Easypaisa logins; disconnect first.\n6. If a VPN slows your Jazz or Zong data to a crawl, switch server or use WARP's DNS-only mode.\n7. Paid VPNs (NordVPN, ExpressVPN) are the only real option for streaming libraries and heavy use."
+   "content": "1. 1.1.1.1 + WARP by Cloudflare — free, unlimited and trustworthy. Encrypts your connection in one tap; best first choice.\n2. Proton VPN free tier — from the makers of ProtonMail, with a strict no-logs policy and no data caps.\n3. What free VPNs can't do: reliably unblock region-locked streaming or change your virtual country.\n4. Avoid random free VPNs with few downloads — many log and sell your browsing data; that is how they stay free.\n5. Never use a free VPN for banking or JazzCash/Easypaisa logins; disconnect first.\n6. If a VPN slows your Jazz or Zong data to a crawl, switch server or use WARP's DNS-only mode.\n7. Paid VPNs (NordVPN, ExpressVPN) are the only real option for streaming libraries and heavy use."
   },
   {
    "slug": "top-food-delivery-apps-pakistan",
    "title": "Top Food Delivery Apps in Pakistan",
    "excerpt": "Who delivers your biryani fastest? The honest state of food delivery apps in 2026.",
-   "content": "1. foodpanda \u2014 the undisputed leader. Thousands of restaurants plus pandamart groceries in major cities.\n2. pandapro subscription pays for itself if you order even twice a week \u2014 free delivery adds up fast.\n3. Hunt vouchers: the app's Deals section and bank card promos routinely cut 20-30% off.\n4. For groceries in a hurry, pandamart beats a market trip and often matches shop prices.\n5. Pickup orders skip delivery fees entirely \u2014 order ahead and grab it yourself.\n6. In smaller cities, coverage is thin; call the restaurant directly if the app shows nothing nearby.\n7. Always check the rider's live location before calling \u2014 most delays are traffic, not the rider's fault."
+   "content": "1. foodpanda — the undisputed leader. Thousands of restaurants plus pandamart groceries in major cities.\n2. pandapro subscription pays for itself if you order even twice a week — free delivery adds up fast.\n3. Hunt vouchers: the app's Deals section and bank card promos routinely cut 20-30% off.\n4. For groceries in a hurry, pandamart beats a market trip and often matches shop prices.\n5. Pickup orders skip delivery fees entirely — order ahead and grab it yourself.\n6. In smaller cities, coverage is thin; call the restaurant directly if the app shows nothing nearby.\n7. Always check the rider's live location before calling — most delays are traffic, not the rider's fault."
   },
   {
    "slug": "jazzcash-vs-easypaisa",
    "title": "JazzCash vs Easypaisa: Which Mobile Wallet Is Best?",
-   "excerpt": "Pakistan's two big wallets compared \u2014 fees, agents, cards and app experience.",
-   "content": "1. Agent network: Easypaisa has the edge in villages and small towns; JazzCash is stronger in cities. Check your area first.\n2. Bank transfers: both support free transfers via Raast up to monthly limits \u2014 beyond that, small fees apply.\n3. Debit cards: both offer them; compare annual fees in the app before ordering, as charges change.\n4. Bill payments: both cover electricity, gas and internet bills \u2014 set reminders so you never miss a due date.\n5. App experience: JazzCash's app feels more modern; Easypaisa's is simpler for first-time users.\n6. International: neither is a PayPal replacement; pair with NayaPay's Visa card for online dollar payments.\n7. Verdict: use the one whose agents are nearest to you \u2014 most Pakistanis end up keeping both."
+   "excerpt": "Pakistan's two big wallets compared — fees, agents, cards and app experience.",
+   "content": "1. Agent network: Easypaisa has the edge in villages and small towns; JazzCash is stronger in cities. Check your area first.\n2. Bank transfers: both support free transfers via Raast up to monthly limits — beyond that, small fees apply.\n3. Debit cards: both offer them; compare annual fees in the app before ordering, as charges change.\n4. Bill payments: both cover electricity, gas and internet bills — set reminders so you never miss a due date.\n5. App experience: JazzCash's app feels more modern; Easypaisa's is simpler for first-time users.\n6. International: neither is a PayPal replacement; pair with NayaPay's Visa card for online dollar payments.\n7. Verdict: use the one whose agents are nearest to you — most Pakistanis end up keeping both."
   },
   {
    "slug": "best-apps-learn-english-pakistan",
    "title": "Best Apps to Learn English in Pakistan",
-   "excerpt": "From spoken English to CSS prep \u2014 the apps that actually work, and how to use them.",
-   "content": "1. Duolingo \u2014 start here. Ten minutes daily of game-like lessons builds real vocabulary; enable the Urdu-to-English course.\n2. Khan Academy \u2014 for academic English and comprehension; free lessons that help with exams too.\n3. BBC Learning English (website + app) \u2014 short daily videos on real-world English, free forever.\n4. Practice speaking: record yourself daily and compare \u2014 apps teach words, only speaking builds fluency.\n5. Watch English content with English subtitles, not Urdu \u2014 dramas and documentaries both work.\n6. Read one Dawn editorial a week and note five new words; apps alone won't build reading stamina.\n7. Consistency beats intensity: 15 focused minutes daily outperforms a 3-hour weekend cram."
+   "excerpt": "From spoken English to CSS prep — the apps that actually work, and how to use them.",
+   "content": "1. Duolingo — start here. Ten minutes daily of game-like lessons builds real vocabulary; enable the Urdu-to-English course.\n2. Khan Academy — for academic English and comprehension; free lessons that help with exams too.\n3. BBC Learning English (website + app) — short daily videos on real-world English, free forever.\n4. Practice speaking: record yourself daily and compare — apps teach words, only speaking builds fluency.\n5. Watch English content with English subtitles, not Urdu — dramas and documentaries both work.\n6. Read one Dawn editorial a week and note five new words; apps alone won't build reading stamina.\n7. Consistency beats intensity: 15 focused minutes daily outperforms a 3-hour weekend cram."
   },
   {
    "slug": "best-ai-chatbot-apps-pakistan",
    "title": "Best AI Chatbot Apps in Pakistan 2026",
    "excerpt": "ChatGPT, Gemini, Claude or Grok? The honest pick for students, freelancers and creators.",
-   "content": "1. ChatGPT \u2014 the all-rounder. Best free experience, strongest at almost everything; start here if you install only one AI app.\n2. Gemini \u2014 the Google user\u2019s pick. Summarises your Gmail, works with Drive and Maps, and replaces your phone\u2019s default assistant.\n3. Claude \u2014 the writer\u2019s and coder\u2019s pick. Most careful long-form answers; great for essays, reports and debugging.\n4. Grok \u2014 the current-events pick. Real-time answers from X plus fast image and video generation, with a witty personality.\n5. Pick by need: homework and general use = ChatGPT, Google inbox = Gemini, writing and code = Claude, trends and media = Grok.\n6. Watch the cost: free tiers are generous, but Plus/Pro plans are dollar-priced \u2014 expensive for a Pakistani budget, so exhaust the free tier first.\n7. Download only from the official Play Store links on our app pages \u2014 fake 'AI pro unlock' apps are a top source of malware in Pakistan."
+   "content": "1. ChatGPT — the all-rounder. Best free experience, strongest at almost everything; start here if you install only one AI app.\n2. Gemini — the Google user’s pick. Summarises your Gmail, works with Drive and Maps, and replaces your phone’s default assistant.\n3. Claude — the writer’s and coder’s pick. Most careful long-form answers; great for essays, reports and debugging.\n4. Grok — the current-events pick. Real-time answers from X plus fast image and video generation, with a witty personality.\n5. Pick by need: homework and general use = ChatGPT, Google inbox = Gemini, writing and code = Claude, trends and media = Grok.\n6. Watch the cost: free tiers are generous, but Plus/Pro plans are dollar-priced — expensive for a Pakistani budget, so exhaust the free tier first.\n7. Download only from the official Play Store links on our app pages — fake 'AI pro unlock' apps are a top source of malware in Pakistan."
   }
  ]
 }
