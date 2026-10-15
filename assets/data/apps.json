@@ -1315,6 +1315,70 @@
     "Frequent model updates from a large development team"
    ],
    "review": "The most downloaded AI photo enhancer in the world, with over 500 million installs, Remini uses AI to turn blurry or faded photos into sharp HD images. Its standout use in Pakistan is reviving old family photographs — wedding pictures from the 80s and 90s, scanned documents, grainy childhood snaps — often with striking results. Pros: genuinely impressive restoration on old and low-quality photos, massive user base means constant improvement, easy one-tap operation. Cons: generous use requires in-app purchases, AI results on faces can look slightly artificial, the app is large at around 187MB. Best for families digitising old photo albums and anyone fixing blurry shots from budget phones."
+  },
+  {
+   "slug": "dramago",
+   "name": "DramaGo: Short Drama Series",
+   "package": "com.dramago.ap",
+   "developer": "Gnurt",
+   "category": "creativity",
+   "features": [
+    "Vertical short dramas in bite-sized 1–2 minute episodes",
+    "Romance, revenge, billionaire and CEO storylines updated daily",
+    "Free episodes with daily check-in rewards and coin missions",
+    "Pick-up-where-you-left-off resume and personalised recommendations",
+    "Multiple subtitle languages for international dramas",
+    "Smooth HD playback built for mobile viewing"
+   ],
+   "review": "Short dramas are the fastest-growing video format in Pakistan right now, and DramaGo rides that wave with a library of vertical micro-series made for phone screens. Episodes run just a minute or two, so you can finish a full storyline on a rickshaw ride or during a load-shedding break, and the first episodes of most series are free. Pros: huge and constantly updated short-drama library, true mobile-first vertical format with no rotating your phone, free coins and check-in rewards unlock more episodes without paying. Cons: bingeing past the free episodes gets pricey fast, the storylines are formulaic and the English can be rough. Best for drama lovers who want Netflix-style stories without the Netflix subscription or the data cost."
+  },
+  {
+   "slug": "hark-pro",
+   "name": "Hark Pro",
+   "package": "com.hark.android",
+   "developer": "Hark Labs Inc.",
+   "category": "ai",
+   "features": [
+    "Proactive assistant that suggests actions instead of waiting for prompts",
+    "Handoff cloud computer that browses websites and fills forms on your behalf",
+    "One-tap action buttons to approve payments or cancel services",
+    "Persistent memory of your preferences in a single conversation thread",
+    "Custom mini-apps (Panels) built from a plain-language description",
+    "Encrypted vault for passwords and card details"
+   ],
+   "review": "Launched on 6 October 2026 by Brett Adcock's new startup Hark, Hark Pro is the month's biggest AI story — an assistant that doesn't just chat but actually does things for you, from booking trips to filling out web forms. It's free on Android, iOS and web, and early users rate it highly for tasks like expense approvals and flight bookings. Pros: genuinely proactive automation rather than another chatbot, every function ships in the free plan, visible browser actions keep you in control of what it does. Cons: many integrations are US-centric services like DoorDash and OpenTable that Pakistanis can't use, the $20–$100 monthly tiers are dollar-priced and expensive in rupees, it asks for deep access to your email and card details so trust is a real question. Best for AI-curious early adopters in Pakistan who want to see where agents are headed — with realistic expectations about what's usable locally."
+  },
+  {
+   "slug": "savyour",
+   "name": "Savyour | Coupons & Discounts",
+   "package": "com.pakistani.brands.app",
+   "developer": "Savyour",
+   "category": "finance",
+   "features": [
+    "Cashback on 250+ Pakistani brands including Daraz, Naheed.pk and Bata",
+    "In-app wallet — cashback is real money, withdrawable to any bank account or JazzCash/Easypaisa",
+    "Exclusive brand discounts and deals on top of the cashback",
+    "In-store check-in cashback: upload a receipt from partner outlets for extra rewards",
+    "Chrome extension that auto-activates cashback on partner websites",
+    "Sign-up bonus and referral rewards for inviting friends"
+   ],
+   "review": "Pakistan's first homegrown cashback app, Savyour fights mehngai by paying you back a percentage of what you already spend online — and unlike fake 'earning' apps, the payout is real and withdraws to your bank or mobile wallet. It works as a shopping gateway: start your Daraz or grocery order through Savyour and the cashback lands in your wallet. Pros: genuine cashback with real PKR withdrawals to JazzCash/Easypaisa/bank, a deep bench of genuinely local Pakistani brands, in-store receipt cashback stacks rewards on top of running sales. Cons: per-order cashback percentages are modest — this is savings, not income, some partner stores carry little cashback and expire, pending cashback takes weeks to confirm. Best for online shoppers in Pakistan who already buy from Daraz and local brands and want those rupees back."
+  },
+  {
+   "slug": "markaz",
+   "name": "Markaz: Pakistan Shopping App",
+   "package": "com.markaz.app",
+   "developer": "Markaz Technologies",
+   "category": "shopping",
+   "features": [
+    "Zero-investment reselling: share products on WhatsApp and keep the margin",
+    "Markaz handles inventory, packing and COD delivery via TCS, Leopards and PostEx",
+    "Profits land in your Markaz wallet and withdraw to JazzCash/Easypaisa or bank",
+    "Wholesale-priced products from Pakistani suppliers across fashion and home",
+    "In-app training guides for first-time resellers",
+    "Order tracking and return handling managed for you"
+   ],
+   "review": "Markaz is Pakistan's leading zero-investment reselling platform: pick products from its catalogue, share them with your WhatsApp contacts at your own markup, and Markaz does everything else — stock, packing, courier and even returns. It's the lowest-barrier legitimate earning route in Pakistan for people without capital, and the profit payout to mobile wallets genuinely works. Pros: truly zero investment to start, no inventory or shipping headaches, cash-on-delivery suits how Pakistan actually shops online. Cons: margins per order are small so you need real volume to make meaningful money, product quality varies between suppliers, courier delays and returns can eat into your earnings. Best for students, housewives and first-time entrepreneurs in Pakistan building a side income purely from their phone and WhatsApp network."
   }
  ],
  "categories": [

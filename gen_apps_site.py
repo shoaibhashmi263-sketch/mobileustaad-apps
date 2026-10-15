@@ -24,6 +24,8 @@ h1{font-size:1.6rem;margin:.4em 0}h2{font-size:1.25rem;margin:1.2em 0 .5em}
 .card:hover{border-color:#7dd3fc}.card .ic{font-size:2.2rem}.card b{display:block;margin-top:8px;font-size:.92rem}
 .card .d{color:#9aa3b2;font-size:.78rem;margin-top:4px}
 .appic{width:72px;height:72px;border-radius:18px;background:linear-gradient(135deg,#1e3a8a,#7c3aed);display:flex;align-items:center;justify-content:center;font-size:2rem;font-weight:700;color:#fff;margin:10px 0}
+img.appic{width:72px;height:72px;border-radius:18px;margin:10px 0;object-fit:cover;display:block;background:none}
+.card img.icimg{width:44px;height:44px;border-radius:11px;object-fit:cover;display:block;margin:0 auto}
 .btn{display:inline-block;background:#16a34a;color:#fff;font-weight:700;padding:12px 26px;border-radius:10px;text-decoration:none;margin:14px 0}
 .btn:hover{background:#15803d}
 .feat{background:#141b31;border:1px solid #1e2742;border-radius:10px;padding:4px 18px;margin:16px 0}
@@ -61,8 +63,20 @@ FOOT = f"""<footer><p>App Ustaad · Safe Android apps for Pakistan · All downlo
 </body>
 </html>"""
 
-def app_icon(name):
+def _icon_file(slug):
+    return os.path.join(SITE, 'assets', 'app-icons', slug + '.png')
+
+def app_icon(name, slug):
+    # Official app icon when available (user feedback 2026-10-13: no fake-looking tiles)
+    if os.path.exists(_icon_file(slug)):
+        return f'<img class="appic" src="/assets/app-icons/{h.escape(slug)}.png" alt="{h.escape(name)} icon" loading="lazy" />'
     return f'<div class="appic">{h.escape(name[0].upper())}</div>'
+
+def card_icon(a, fallback_emoji):
+    # Official app icon on cards when available, else the emoji fallback
+    if os.path.exists(_icon_file(a['slug'])):
+        return f'<img class="icimg" src="/assets/app-icons/{h.escape(a["slug"])}.png" alt="{h.escape(a["name"])}" loading="lazy" />'
+    return h.escape(fallback_emoji)
 
 def play_url(pkg):
     return f'https://play.google.com/store/apps/details?id={pkg}'
@@ -72,9 +86,10 @@ def write(path, content):
     open(path, 'w', encoding='utf-8').write(content)
 
 def home(apps, cats, guides):
+    cat_by_slug = {c['slug']: c for c in cats}
     cards = ''.join(
-        f'<a class="card" href="{BASE}/apps/{a["slug"]}/"><div class="ic">{c["icon"]}</div><b>{h.escape(a["name"])}</b><div class="d">{h.escape(a["developer"])}</div></a>'
-        for a in apps for c in cats if c['slug'] == a['category'])
+        f'<a class="card" href="{BASE}/apps/{a["slug"]}/"><div class="ic">{card_icon(a, cat_by_slug[a["category"]]["icon"])}</div><b>{h.escape(a["name"])}</b><div class="d">{h.escape(a["developer"])}</div></a>'
+        for a in apps)
     catcards = ''.join(
         f'<a class="card" href="{BASE}/categories/{c["slug"]}/"><div class="ic">{c["icon"]}</div><b>{h.escape(c["name"])}</b><div class="d">{h.escape(c["description"][:60])}…</div></a>'
         for c in cats)
@@ -91,7 +106,7 @@ def home(apps, cats, guides):
 
 def category_page(c, apps):
     cards = ''.join(
-        f'<a class="card" href="{BASE}/apps/{a["slug"]}/"><div class="ic">📲</div><b>{h.escape(a["name"])}</b><div class="d">{h.escape(a["developer"])}</div></a>'
+        f'<a class="card" href="{BASE}/apps/{a["slug"]}/"><div class="ic">{card_icon(a, "📲")}</div><b>{h.escape(a["name"])}</b><div class="d">{h.escape(a["developer"])}</div></a>'
         for a in apps if a['category'] == c['slug'])
     return (head(f'{c["name"]} Apps in Pakistan | App Ustaad', c['description'], f'{BASE}/categories/{c["slug"]}/') +
         f'<div class="cathead"><div class="ic">{c["icon"]}</div><h1>{h.escape(c["name"])} Apps</h1></div><p class="tag">{h.escape(c["description"])}</p>'
@@ -105,11 +120,12 @@ def app_page(a, cats):
           "applicationCategory": c['name'], "author": {"@type": "Organization", "name": a['developer']},
           "url": f'{BASE}/apps/{a["slug"]}/',
           "installUrl": play_url(a['package'])}
+    og = f'<meta property="og:image" content="{BASE}/assets/app-icons/{h.escape(a["slug"])}.png" />\n' if os.path.exists(_icon_file(a['slug'])) else ''
     return (head(f'{a["name"]} for Android — Review & Download | App Ustaad',
                  f'{a["name"]} by {a["developer"]}: review, features and official Google Play Store download link for Pakistan.',
                  f'{BASE}/apps/{a["slug"]}/')
-        .replace('</head>', f'<script type="application/ld+json">{json.dumps(ld)}</script>\n</head>') +
-        f'{app_icon(a["name"])}<h1>{h.escape(a["name"])}</h1>'
+        .replace('</head>', f'{og}<script type="application/ld+json">{json.dumps(ld)}</script>\n</head>') +
+        f'{app_icon(a["name"], a["slug"])}<h1>{h.escape(a["name"])}</h1>'
         f'<p class="meta">By {h.escape(a["developer"])} · Category: <a href="{BASE}/categories/{c["slug"]}/">{h.escape(c["name"])}</a></p>'
         f'<p>{h.escape(a["review"])}</p>'
         f'<div class="feat"><ul>{feats}</ul></div>'
