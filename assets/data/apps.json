@@ -1379,6 +1379,51 @@
     "Order tracking and return handling managed for you"
    ],
    "review": "Markaz is Pakistan's leading zero-investment reselling platform: pick products from its catalogue, share them with your WhatsApp contacts at your own markup, and Markaz does everything else — stock, packing, courier and even returns. It's the lowest-barrier legitimate earning route in Pakistan for people without capital, and the profit payout to mobile wallets genuinely works. Pros: truly zero investment to start, no inventory or shipping headaches, cash-on-delivery suits how Pakistan actually shops online. Cons: margins per order are small so you need real volume to make meaningful money, product quality varies between suppliers, courier delays and returns can eat into your earnings. Best for students, housewives and first-time entrepreneurs in Pakistan building a side income purely from their phone and WhatsApp network."
+  },
+  {
+   "slug": "myco",
+   "name": "myco: Live Cricket, PSL & More",
+   "package": "com.mcontent",
+   "developer": "Myco",
+   "category": "creativity",
+   "features": [
+    "Live sports in HD: PSL 2026 matches and the EPL 2025-26 season, free with ads",
+    "Pakistani dramas, international movies, live news and TV channels in one app",
+    "Optional myco Pro subscription for ad-free Ultra HD streaming",
+    "Smooth playback on mobile data (3G/4G) or Wi-Fi, at home or on the go",
+    "Simple sign-in and a mobile-first interface built for quick browsing"
+   ],
+   "review": "myco is Pakistan's home-grown answer to pricey streaming subscriptions: live PSL and football, plus movies, dramas and news, free with ads. It became a household name as an official PSL streaming partner, and it works well even on mid-range phones and 4G data. Pros: free live PSL and EPL matches, a genuinely broad Pakistani content library, works fine on modest connections. Cons: free tier runs ads, and match-night peak traffic can cause buffering. Best for cricket and football fans who want legal live streams without paying for cable or Netflix."
+  },
+  {
+   "slug": "ary-zap",
+   "name": "ARY ZAP — Live TV, Sports & Dramas",
+   "package": "com.release.arylive",
+   "developer": "ARY SERVICES LTD.",
+   "category": "creativity",
+   "features": [
+    "24/7 live streams of ARY Digital, ARY News, A Sports and more",
+    "Live A Sports HD: PSL, ICC tournaments and La Liga action in Pakistan",
+    "Full on-demand archive of ARY Digital's hit dramas and telefilms",
+    "Snips: trending short-form highlights and viral TV clips",
+    "Free tier with ads, plus a Premium option (around PKR 299-499/month) for ad-free viewing"
+   ],
+   "review": "ARY ZAP is the official streaming home of the ARY network — dramas, news and sports in a single app. For Pakistani drama lovers it is the most complete way to watch ARY Digital's catalogue, and during PSL season the A Sports HD live stream makes it essential. Pros: official, legal streams of all ARY channels, strong live-sports coverage for cricket fans, free tier is genuinely usable. Cons: premium pricing adds up if you also pay for other services, and live matches can slow down at peak times. Best for drama fans and cricket followers who want ARY's content on their phone."
+  },
+  {
+   "slug": "fiverr",
+   "name": "Fiverr — Freelance Services",
+   "package": "com.fiverr.fiverr",
+   "developer": "Fiverr International Ltd.",
+   "category": "finance",
+   "features": [
+    "400+ service categories: design, writing, programming, video editing, marketing",
+    "Create gigs and sell your skills to buyers worldwide from your phone",
+    "Pakistani freelancers withdraw earnings via Payoneer to local banks",
+    "Buyer mode: hire verified freelancers for any project, anytime",
+    "In-app chat, order tracking and push notifications keep projects on schedule"
+   ],
+   "review": "Fiverr is the freelance marketplace where thousands of Pakistani designers, writers and developers actually earn dollars from their phones. You can run your whole gig business in the app — deliver orders, chat with buyers and get paid — or use it to hire help for your own projects. Pros: Pakistanis already succeed here, full order management on mobile, payments flow through to local banks. Cons: competition is fierce so new sellers start slow, and service fees plus currency conversion eat into small orders. Best for students and professionals ready to turn a real skill into foreign-currency income."
   }
  ],
  "categories": [
@@ -1509,6 +1554,12 @@
    "title": "Best AI Chatbot Apps in Pakistan 2026",
    "excerpt": "ChatGPT, Gemini, Claude or Grok? The honest pick for students, freelancers and creators.",
    "content": "1. ChatGPT — the all-rounder. Best free experience, strongest at almost everything; start here if you install only one AI app.\n2. Gemini — the Google user’s pick. Summarises your Gmail, works with Drive and Maps, and replaces your phone’s default assistant.\n3. Claude — the writer’s and coder’s pick. Most careful long-form answers; great for essays, reports and debugging.\n4. Grok — the current-events pick. Real-time answers from X plus fast image and video generation, with a witty personality.\n5. Pick by need: homework and general use = ChatGPT, Google inbox = Gemini, writing and code = Claude, trends and media = Grok.\n6. Watch the cost: free tiers are generous, but Plus/Pro plans are dollar-priced — expensive for a Pakistani budget, so exhaust the free tier first.\n7. Download only from the official Play Store links on our app pages — fake 'AI pro unlock' apps are a top source of malware in Pakistan."
+  },
+  {
+   "slug": "best-free-streaming-apps-pakistan",
+   "title": "Best Free Streaming Apps in Pakistan 2026",
+   "excerpt": "Watch PSL, dramas and movies without paying for Netflix — the best free and freemium streaming apps on the Play Store.",
+   "content": "1. myco — the best all-rounder for live sports: free PSL and EPL streams with ads, plus dramas and movies. Our review: /apps/myco/.\n2. ARY ZAP — the ARY network's official app: live channels, A Sports HD and a full drama archive; free tier works well. Our review: /apps/ary-zap/.\n3. Tamasha — Pakistan's biggest free streaming app: live cricket, dramas and movies with a generous free plan. Our review: /apps/tamasha/.\n4. DramaGo — for short vertical dramas: 1-2 minute episodes you can finish on a commute, many free to start. Our review: /apps/dramago/.\n5. YouTube — don't overlook it: full Pakistani dramas, PSL highlights and films upload legally on official channels. Our review: /apps/youtube/.\n6. Rule of thumb: if an app isn't on the Play Store, skip it — free-streaming APKs from random sites are the top malware source in Pakistan.\n7. Save data: download episodes on Wi-Fi where the app allows it, and use 480p on mobile data — it still looks fine on a phone screen."
   }
  ]
 }
