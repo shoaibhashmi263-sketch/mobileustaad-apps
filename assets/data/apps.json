@@ -1424,6 +1424,69 @@
     "In-app chat, order tracking and push notifications keep projects on schedule"
    ],
    "review": "Fiverr is the freelance marketplace where thousands of Pakistani designers, writers and developers actually earn dollars from their phones. You can run your whole gig business in the app — deliver orders, chat with buyers and get paid — or use it to hire help for your own projects. Pros: Pakistanis already succeed here, full order management on mobile, payments flow through to local banks. Cons: competition is fierce so new sellers start slow, and service fees plus currency conversion eat into small orders. Best for students and professionals ready to turn a real skill into foreign-currency income."
+  },
+  {
+   "slug": "apple-music",
+   "name": "Apple Music",
+   "package": "com.apple.android.music",
+   "developer": "Apple Inc.",
+   "category": "music",
+   "features": [
+    "100M+ songs, now officially available in Pakistan since October 2026",
+    "Lossless 24-bit/192 kHz audio plus Spatial Audio for supported phones",
+    "Offline downloads so commutes with patchy data stay musical",
+    "Live lyrics with translations for local and international tracks",
+    "Android Auto and Chromecast support for cars and TVs",
+    "Concert and tour-date discovery plus collaborative playlists with SharePlay"
+   ],
+   "review": "Apple Music has finally arrived in Pakistan — 11 years after its global debut — and it is immediately a serious rival to Spotify and YouTube Music for local listeners. The headline draws are lossless audio and Spatial Audio at a mainstream price, plus a deep catalogue that includes plenty of Pakistani music alongside global hits. Pros: official availability with local payment options, superior audio quality, and lyrics with translations. Cons: the interface can feel dense if you are switching from YouTube Music, and the free trial is short before the subscription kicks in. Best for listeners who care about sound quality and want a properly licensed, ad-free music service."
+  },
+  {
+   "slug": "b612-ai-photo-video-editor",
+   "name": "B612 AI Photo & Video Editor",
+   "package": "com.linecorp.b612.android",
+   "developer": "LINE Corporation",
+   "category": "photography",
+   "features": [
+    "Real-time AR beauty filters that rival Snapchat's lenses",
+    "Trendy effects and stickers updated daily",
+    "Smart Beauty recommendations that match filters to your face shape",
+    "Create-your-own custom filters to reuse across photos",
+    "GIF-style bounce video capture plus a 500+ track music library",
+    "Pro-grade colour tools: curves, split tone and HSL controls"
+   ],
+   "review": "B612 is the camera app behind countless Instagram stories and TikToks across Pakistan — it applies Snapchat-style AR filters in real time so what you see is what you post. Beyond the fun lenses it has grown into a genuine editor, with daily-trending effects, AR makeup, custom filters and pro colour controls under the hood. Pros: one of the fastest filter pipelines around, new effects land daily, and the editing tools are deeper than they look. Cons: the free version nudges you toward a subscription for premium filters, and heavy AR effects can heat up older phones. Best for selfie lovers and social-media creators who want trending looks without a separate editor."
+  },
+  {
+   "slug": "insaver-all-video-downloader",
+   "name": "InSaver: All Video Downloader",
+   "package": "instagram.video.downloader.story.saver.ig.insaver",
+   "developer": "ZHOU TAO",
+   "category": "utilities",
+   "features": [
+    "Download videos from multiple social media platforms in one app",
+    "Fast multi-threaded downloads with quality options before you save",
+    "Built-in media browser so you can find and save clips without switching apps",
+    "Batch and queue management for grabbing several videos at once",
+    "One-tap saving for Reels and Shorts-style vertical videos"
+   ],
+   "review": "InSaver is a social-media video downloader that has picked up steam in Pakistan thanks to its one-tap Reels-style saving and genuinely fast downloads. It keeps a built-in browser, per-video quality choices and batch queues, so saving a stack of clips for offline viewing is quick and painless. Pros: verified on the Google Play Store, noticeably fast transfers, and clean quality selection before download. Cons: ads are frequent on the free tier, and — as with every downloader — you should only save videos you have the right to keep, respecting creators' content. Best for users who want offline access to social videos over patchy mobile data."
+  },
+  {
+   "slug": "pak-identity",
+   "name": "Pak Identity (NADRA)",
+   "package": "pk.gov.nadra.pakid",
+   "developer": "National Database & Registration Authority",
+   "category": "utilities",
+   "features": [
+    "Apply for CNIC renewal, modification, reprint and NICOP fully online",
+    "ICAO photo capture and fingerprint scanning using your phone's camera",
+    "Digital signature capture inside the app",
+    "QR-code identity verification plus digital ID cards for spouse and children",
+    "Form B verification and biometric authentication for Hajj/Umrah vaccine records",
+    "Online payments for NADRA services with senior-citizen friendly onboarding"
+   ],
+   "review": "Pak Identity is NADRA's official app, and for millions of Pakistanis it means no more office queues for CNIC renewals, modifications and NICOP applications — the whole process, including photo and fingerprint capture, happens on your phone. A late-September 2026 update added digital ID cards for family members, QR-code verification and biometric checks for Hajj/Umrah vaccinations. Pros: it is the official NADRA channel so the documents are real, queues and agents are eliminated, and recent updates keep improving the flow. Cons: biometric verification can be finicky — reviewers report \"cool-down window\" errors when the camera capture fails repeatedly. Best for every Pakistani adult with a CNIC, especially those renewing cards or applying from abroad."
   }
  ],
  "categories": [
@@ -1560,6 +1623,12 @@
    "title": "Best Free Streaming Apps in Pakistan 2026",
    "excerpt": "Watch PSL, dramas and movies without paying for Netflix — the best free and freemium streaming apps on the Play Store.",
    "content": "1. myco — the best all-rounder for live sports: free PSL and EPL streams with ads, plus dramas and movies. Our review: /apps/myco/.\n2. ARY ZAP — the ARY network's official app: live channels, A Sports HD and a full drama archive; free tier works well. Our review: /apps/ary-zap/.\n3. Tamasha — Pakistan's biggest free streaming app: live cricket, dramas and movies with a generous free plan. Our review: /apps/tamasha/.\n4. DramaGo — for short vertical dramas: 1-2 minute episodes you can finish on a commute, many free to start. Our review: /apps/dramago/.\n5. YouTube — don't overlook it: full Pakistani dramas, PSL highlights and films upload legally on official channels. Our review: /apps/youtube/.\n6. Rule of thumb: if an app isn't on the Play Store, skip it — free-streaming APKs from random sites are the top malware source in Pakistan.\n7. Save data: download episodes on Wi-Fi where the app allows it, and use 480p on mobile data — it still looks fine on a phone screen."
+  },
+  {
+   "slug": "best-music-streaming-apps-pakistan",
+   "title": "Best Music Streaming Apps in Pakistan 2026",
+   "excerpt": "Spotify vs Apple Music vs YouTube Music: which streaming service deserves your subscription in Pakistan?",
+   "content": "1. Apple Music — now officially in Pakistan (October 2026): lossless 24-bit audio and Spatial Audio at a mainstream price. Our review: /apps/apple-music/.\n2. Spotify — the incumbent: strong local playlists, the best recommendation engine, and a popular free tier with ads. Our review: /apps/spotify/.\n3. YouTube Music — best for video-first listeners: full songs plus live performances and remixes that never made it onto albums; bundles well with YouTube Premium.\n4. Pick by priority: sound quality = Apple Music; discovery and playlists = Spotify; music videos and rare uploads = YouTube Music.\n5. Data tip: all three offer offline downloads — queue your playlists on Wi-Fi and save mobile data on the commute.\n6. Only use official Play Store apps; 'cracked' streaming APKs from random sites are a top malware source in Pakistan."
   }
  ]
 }
