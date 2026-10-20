@@ -1599,6 +1599,66 @@
     "One-tap trending social templates matched to what is popular right now"
    ],
    "review": "Miuci AI is an AI photo and video generator that surged in popularity this month — type a description and it paints the picture, then animates it into dance or lip-sync clips ready for TikTok and Instagram reels. Pakistani creators will recognise the exact format: the image-to-video dance and lip-sync templates match what reels creators post every day, and it goes further than Remini (already reviewed here), which only enhances photos instead of creating new content. Pros: the image-to-video clips genuinely look shareable, hundreds of templates mean no prompt-engineering skill is needed, and the enhancer plus object remover covers basic photo fixing too. Cons: free generations are limited so heavy users will hit the paywall, and results vary — some renders need a few tries to look right. Best for TikTok and reels creators who want fresh AI visuals and animated clips without learning a desktop editor."
+  },
+  {
+   "name": "All Video Downloader & Home",
+   "slug": "all-video-downloader-home",
+   "package": "com.savevideo.fastdownload.hdvideo.vidfast.videxo",
+   "developer": "KM Logicket",
+   "category": "utilities",
+   "review": "One of the fastest-growing downloaders on the Play Store right now. All Video Downloader & Home saves clips from social feeds through simple link-paste or auto-detect while you browse, then plays them back in its own HD player. It deliberately leaves YouTube alone, which is exactly why Google lets it stay listed.",
+   "features": [
+    "Paste-a-link or auto-detect video downloads",
+    "Built-in HD video player with folder organization",
+    "SD and HD quality options",
+    "Batch downloads with pause and resume",
+    "No YouTube ripping — Play-policy compliant"
+   ]
+  },
+  {
+   "name": "TikVid - TikTok Downloader",
+   "slug": "tikvid-tiktok-downloader",
+   "package": "com.desicoder.tikdown",
+   "developer": "Hammad Ali",
+   "category": "utilities",
+   "review": "A downloader made in Pakistan, for Pakistan's TikTok crowd. TikVid saves TikTok clips in SD or HD, pulls MP3 audio out of videos, and even handles live photos and GIFs. Handy for building an offline watchlist or collecting status videos without burning mobile data twice.",
+   "features": [
+    "SD and HD TikTok video downloads",
+    "MP3 audio extraction from clips",
+    "Live photo and GIF support",
+    "No account needed, clean interface",
+    "Pakistani developer, local support"
+   ]
+  },
+  {
+   "name": "Beauty Camera: Sweet Camera",
+   "slug": "beauty-camera-sweet-camera",
+   "package": "cam.sweet.selfie.effect.camera",
+   "developer": "iMediaStar",
+   "category": "photography",
+   "review": "Sweet Camera ranks among Asia's most-downloaded beauty cameras, and the polish shows. Live filters beautify you while you record video, not just in stills, and seasonal packs like October's Halloween effects keep it fresh. A strong pick if you want polished selfies and reels without learning a complicated editor.",
+   "features": [
+    "Real-time beauty filters for photos and video",
+    "Natural and glam makeup filter sets",
+    "Seasonal effect packs, updated regularly",
+    "Portrait retouch and skin-smoothing tools",
+    "Direct sharing to social apps"
+   ]
+  },
+  {
+   "name": "Paid Survey: Earn Cash Rewards",
+   "slug": "paid-survey-earn-cash-rewards",
+   "package": "com.Technodeveloper.opinionRewards",
+   "developer": "NX Studio Apps",
+   "category": "finance",
+   "review": "A survey-rewards app for genuine spare-time earning — no deposits, no pay-to-play. You answer short surveys matched to your profile and collect rewards you can cash out. Keep expectations honest: this is pocket money for chai, not a salary, and some users report occasional payout delays, which is normal for this category.",
+   "features": [
+    "Short paid surveys matched to your profile",
+    "Points convert to cash or voucher rewards",
+    "Free to join — no deposit or fees",
+    "New surveys added regularly",
+    "Works in short spare-time sessions"
+   ]
   }
  ],
  "categories": [
@@ -1741,6 +1801,12 @@
    "title": "Best Music Streaming Apps in Pakistan 2026",
    "excerpt": "Spotify vs Apple Music vs YouTube Music: which streaming service deserves your subscription in Pakistan?",
    "content": "1. Apple Music — now officially in Pakistan (October 2026): lossless 24-bit audio and Spatial Audio at a mainstream price. Our review: /apps/apple-music/.\n2. Spotify — the incumbent: strong local playlists, the best recommendation engine, and a popular free tier with ads. Our review: /apps/spotify/.\n3. YouTube Music — best for video-first listeners: full songs plus live performances and remixes that never made it onto albums; bundles well with YouTube Premium.\n4. Pick by priority: sound quality = Apple Music; discovery and playlists = Spotify; music videos and rare uploads = YouTube Music.\n5. Data tip: all three offer offline downloads — queue your playlists on Wi-Fi and save mobile data on the commute.\n6. Only use official Play Store apps; 'cracked' streaming APKs from random sites are a top malware source in Pakistan."
+  },
+  {
+   "title": "Best Video Downloader Apps in Pakistan 2026",
+   "slug": "best-video-downloader-apps-pakistan",
+   "excerpt": "Save social media and TikTok videos for offline watching — the safest downloader apps on the Play Store, verified for Pakistan.",
+   "content": "1. All Video Downloader & Home — the fastest riser: paste a link or let it auto-detect videos while you browse, then play them in the built-in HD player. Our review: /apps/all-video-downloader-home/.\n2. TikVid - TikTok Downloader — made in Pakistan for TikTok: SD/HD saves plus MP3 audio rips and live-photo support. Our review: /apps/tikvid-tiktok-downloader/.\n3. InSaver — an all-video downloader with a clean interface, a long-time favorite for Facebook and Instagram saves. Our review: /apps/insaver-all-video-downloader/.\n4. Video Downloader — a simple, no-fuss saver for everyday clips. Our review: /apps/video-downloader-save-videos/.\n5. Important: legit downloaders never offer YouTube downloads — Google bans that on the Play Store. If an app promises YouTube ripping from the Play Store, treat it as a red flag.\n6. Never sideload downloader APKs from random websites — fake downloader APKs are among the top Android malware spreaders in Pakistan. Play Store links only."
   }
  ]
 }
