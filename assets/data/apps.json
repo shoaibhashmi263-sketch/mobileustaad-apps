@@ -1659,6 +1659,72 @@
     "New surveys added regularly",
     "Works in short spare-time sessions"
    ]
+  },
+  {
+   "name": "Mindrift",
+   "slug": "mindrift",
+   "package": "ai.toloka.expert",
+   "developer": "Ai Toloka Inc",
+   "category": "finance",
+   "review": "Mindrift is the companion app for the Mindrift platform, run by AI-data company Toloka, where freelance AI Tutors earn dollars by training AI models — rating responses, writing prompts and fixing reasoning errors, all from a phone. It is one of the few legitimate, no-joining-fee ways for Pakistanis to earn foreign-currency income, with payouts in USD via Payoneer. This is skilled project-based work, not a salary — strong English and subject knowledge are needed to pass qualification tests — but skill-based AI tasks pay noticeably better than typical microtask apps.",
+   "features": [
+    "Task alerts for new AI training projects",
+    "Track completed, in-review and pending-payment tasks",
+    "In-app balance with withdrawal to Payoneer or Tipalti",
+    "Direct chat with project leads",
+    "Qualification exams and project onboarding",
+    "No joining fee — free to sign up and get assessed"
+   ]
+  },
+  {
+   "name": "tapmad: Live Sports",
+   "slug": "tapmad-live-sports",
+   "package": "com.tapmad.tapmadtv",
+   "developer": "tapmad (PI Pakistan Pvt. Ltd.)",
+   "category": "entertainment",
+   "review": "tapmad is a homegrown Pakistani streaming service built around live sports — PSL, international cricket, football and combat sports — plus movies and dramas. It runs on a freemium model: basic channels are free with ads, and full access comes through cheap daily, weekly or monthly plans in PKR. For cricket-mad viewers who can't afford pricey subscriptions or are tired of sketchy pirate streams, it's the legal local option for watching big matches on a phone. Heads-up: user reviews report buffering during big live matches, and the best content sits behind the paid plans.",
+   "features": [
+    "Live HD streaming of cricket, football and combat sports",
+    "Real-time scores, match alerts and ball-by-ball updates",
+    "Free ad-supported tier plus affordable PKR plans",
+    "Casting and split-screen for bigger screens",
+    "Movies and dramas library alongside sports",
+    "Works on phones, tablets and smart TVs"
+   ]
+  },
+  {
+   "name": "Advanced Download Manager",
+   "slug": "advanced-download-manager",
+   "package": "com.dv.adm",
+   "developer": "admtorrent (AdvancedApp)",
+   "category": "utilities",
+   "review": "Advanced Download Manager (ADM) is the classic Android download accelerator and still one of the most-installed downloader apps in Pakistan. It splits files into up to 16 parts for faster downloads, grabs links from browsers and the clipboard, and — most valuable on Pakistan's patchy mobile networks — resumes interrupted downloads instead of starting over. It also handles torrents and magnet links in one app. The interface feels dated next to newer downloaders, and note that, per Google's rules, no Play Store downloader can grab YouTube videos.",
+   "features": [
+    "Multi-threaded downloads (up to 16 parts) for faster speeds",
+    "Automatic link interception from browsers and clipboard",
+    "Pause, resume and auto-retry after connection failures",
+    "Torrent and magnet-link support with file selection",
+    "Wi-Fi-only download option to protect mobile data",
+    "Built-in browser with media detection",
+    "Supports files larger than 2 GB"
+   ]
+  },
+  {
+   "name": "Aniimo",
+   "slug": "aniimo",
+   "package": "com.x.aniimos",
+   "developer": "PAWPRINT INTERACTIVE ENTERTAINMENT PTE. LTD.",
+   "category": "gaming",
+   "review": "Aniimo is a fresh creature-catching open-world RPG that launched this fall and is climbing the new-free charts fast, including in our region. Its big hook: instead of just throwing balls at monsters, you can 'Twine' with your catches — merging with them to use their abilities for puzzles, battles and getting around the world of Idyll, which holds 200+ collectible Aniimo. For Pakistani gamers tired of the same gacha grind, it's the new free-to-play creature adventure everyone's comparing to early Pokemon and Genshin-style worlds. Heads-up: it's a 10GB+ download with reported lag on low-end phones, so this is one for mid-range or better devices.",
+   "features": [
+    "Open-world creature-catching RPG on the continent of Idyll",
+    "200+ collectible Aniimo, most able to evolve",
+    "'Twine' mechanic — merge with any Aniimo and use its abilities",
+    "3-player co-op 'Egg Heist' mode with real-time searches and battles",
+    "Creatures that appear by environment, weather, time of day and rarity",
+    "Sky-floating metropolis hub, competitive battles and base-building",
+    "Free-to-play with in-app purchases"
+   ]
   }
  ],
  "categories": [
@@ -1733,6 +1799,12 @@
    "name": "Travel & Transport",
    "icon": "🚗",
    "description": "Ride-hailing, travel and transport apps that keep Pakistan moving."
+  },
+  {
+   "slug": "entertainment",
+   "name": "Entertainment",
+   "icon": "🎬",
+   "description": "Movies, live sports, dramas and TV apps for Pakistani viewers."
   }
  ],
  "guides": [
