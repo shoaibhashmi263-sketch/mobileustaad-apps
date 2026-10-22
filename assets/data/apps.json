@@ -1725,6 +1725,69 @@
     "Sky-floating metropolis hub, competitive battles and base-building",
     "Free-to-play with in-app purchases"
    ]
+  },
+  {
+   "name": "Movie Downloader: 2026",
+   "slug": "movie-downloader-2026",
+   "package": "com.downloader.db4a",
+   "developer": "BARIZON LTD",
+   "category": "utilities",
+   "review": "A fast-growing movie downloader that does exactly what the name promises: grab films to your phone and watch them offline. It supports pause and resume on slow connections, plays downloads in HD inside the app, and keeps a clean interface that even low-end devices handle well. For Pakistani users who save films before a trip or on a weak Wi-Fi connection, it's one of the quicker options currently trending on the Play Store. Note: it downloads only where the source allows — not every movie is available, and some users report search results that miss older titles.",
+   "features": [
+    "Fast movie downloads with pause and resume support",
+    "Offline viewing with built-in HD playback",
+    "Clean, modern interface that runs well on budget phones",
+    "50K+ downloads and a 4.7-star rating (Oct 2026)",
+    "Updated regularly — last update Oct 19, 2026",
+    "Free with ads"
+   ]
+  },
+  {
+   "name": "All Video Downloader & Player",
+   "slug": "all-video-downloader-player",
+   "package": "com.hd.all.video.fourteen.allvideodownloaderplayer",
+   "developer": "EIZO Private Limited",
+   "category": "utilities",
+   "review": "A brand-new downloader (launched October 2026) that bundles saving, managing and playing videos in one app. Paste a supported link, pick a quality, and the file lands in an organized library with a built-in player — no second app needed. It's a good fit for Pakistani users who collect tutorials, lectures or family videos for offline viewing on limited data plans. Worth noting: it only handles links the source site permits, and as a very new app it still has few ratings, so keep expectations reasonable.",
+   "features": [
+    "Download videos from supported links with a paste-link workflow",
+    "Built-in video player — no extra app needed",
+    "Organized video library and download manager",
+    "Clean, simple interface for all experience levels",
+    "Free to download"
+   ]
+  },
+  {
+   "name": "Muse from Meta",
+   "slug": "muse-from-meta",
+   "package": "com.facebook.aura",
+   "developer": "Meta",
+   "category": "ai",
+   "review": "Meta's new personal AI agent app that goes beyond chat — it can book, schedule, track prices, manage budgets and connect to your email, calendar, Instagram, Facebook and fitness data, then act on your instructions with your approval. Early adopters are using it for everything from price-drop alerts to planning whole trips. For Pakistani users juggling side hustles and studies, the background task monitoring (it keeps working and notifies you after you close the app) is the standout. Heads-up: Meta itself warns it may be inaccurate or take unexpected actions, so double-check anything it does with your accounts.",
+   "features": [
+    "Personal AI agent that takes actions, not just answers questions",
+    "Connects to email, calendar, Instagram, Facebook, health and finance apps",
+    "Handles scheduling, bookings, reminders and follow-ups",
+    "Price tracking, expense insights and budget alerts",
+    "Background monitoring with notifications when your attention is needed",
+    "Free with a 4.7-star rating from 100K+ ratings"
+   ]
+  },
+  {
+   "name": "Car Z",
+   "slug": "car-z",
+   "package": "com.carz.vibepalm",
+   "developer": "VIBEPALM",
+   "category": "photography",
+   "review": "One of October 2026's fastest-growing camera apps: upload a photo of your car and AI turns it into cinematic road videos, drift clips, poster-style artwork and scene shots — from a Dubai-night drive to a Route 66 roadside stop. It also previews paint jobs, rims and ride heights side by side with your original photo. Pakistani car lovers posting on TikTok, Instagram and Facebook are its natural audience, and it's already sitting high in the new-free charts. Caveat: creation runs on credits with a Pro subscription, so it's not fully free, and results are entertainment-only — not for insurance or sale listings.",
+   "features": [
+    "Turn one car photo into cinematic AI road and action videos",
+    "Poster art styles: race night, drift, blueprint, anime, gold chrome and more",
+    "Virtual customization previews — paint, rims, ride height side by side",
+    "Famous-place scenes: Dubai, Shibuya, Eiffel Tower, Swiss Alps",
+    "Fun pose scenes: you on the roof, next to a jet, wedding car frame",
+    "Available in 27 languages, rated 4.2 stars (Oct 2026)"
+   ]
   }
  ],
  "categories": [
@@ -1879,6 +1942,12 @@
    "slug": "best-video-downloader-apps-pakistan",
    "excerpt": "Save social media and TikTok videos for offline watching — the safest downloader apps on the Play Store, verified for Pakistan.",
    "content": "1. All Video Downloader & Home — the fastest riser: paste a link or let it auto-detect videos while you browse, then play them in the built-in HD player. Our review: /apps/all-video-downloader-home/.\n2. TikVid - TikTok Downloader — made in Pakistan for TikTok: SD/HD saves plus MP3 audio rips and live-photo support. Our review: /apps/tikvid-tiktok-downloader/.\n3. InSaver — an all-video downloader with a clean interface, a long-time favorite for Facebook and Instagram saves. Our review: /apps/insaver-all-video-downloader/.\n4. Video Downloader — a simple, no-fuss saver for everyday clips. Our review: /apps/video-downloader-save-videos/.\n5. Important: legit downloaders never offer YouTube downloads — Google bans that on the Play Store. If an app promises YouTube ripping from the Play Store, treat it as a red flag.\n6. Never sideload downloader APKs from random websites — fake downloader APKs are among the top Android malware spreaders in Pakistan. Play Store links only."
+  },
+  {
+   "slug": "best-ai-photo-video-generator-apps-pakistan",
+   "title": "Best AI Photo & Video Generator Apps in Pakistan 2026",
+   "excerpt": "AI apps that turn your photos into cinematic videos and artwork — the ones actually trending on Pakistani phones right now.",
+   "content": "AI camera apps are exploding in Pakistan in 2026 — turning ordinary selfies and car photos into cinematic videos, posters and shareable clips. These are the AI photo and video generator apps actually trending on Google Play right now.\n\n1. Car Z — Turns one car photo into AI road videos, drift clips and poster-style artwork. Pakistani car enthusiasts are posting its creations on TikTok and Instagram daily.\n2. Miuci AI — AI photo and video generation with creative styles for portraits and content creation.\n3. B612 — Camera and photo/video editor with AI beauty and fun filters; long popular with Pakistani selfie lovers.\n4. Sweet Camera — Beauty camera with filters and frames for quick share-ready photos.\n5. CapCut — Not strictly an AI generator, but its AI templates and effects are what most Pakistani creators use to finish videos from apps like these.\n\nHow to pick: Car Z is the pick for car content, B612/Sweet Camera for beauty selfies, Miuci AI for creative experiments. Always check which features are free — most of these sell credits or subscriptions, so test the free tier before paying."
   }
  ]
 }
