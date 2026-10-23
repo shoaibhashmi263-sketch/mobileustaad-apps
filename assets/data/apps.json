@@ -1788,6 +1788,70 @@
     "Fun pose scenes: you on the roof, next to a jet, wedding car frame",
     "Available in 27 languages, rated 4.2 stars (Oct 2026)"
    ]
+  },
+  {
+   "name": "Video Downloader & Player HD",
+   "slug": "video-downloader-player-hd",
+   "package": "com.downloadvideo.videodownloadfree.mp4videodownload",
+   "developer": "Video Downloader- Apps Studio",
+   "category": "utilities",
+   "review": "One of the fastest-growing downloaders of late 2026, crossing a million installs within weeks of its August launch. It pairs a one-tap HD video downloader with an all-format offline player, a video-to-MP3 converter and a quick trimmer, so downloading, converting and watching happen in a single app. For Pakistani users on patchy mobile data, background downloads with pause and resume mean an interrupted file picks up where it stopped instead of starting over. Ads are part of the free experience, and the in-app search covers public and archive sources rather than paid streaming platforms.",
+   "features": [
+    "One-tap HD video downloader with resolution choice",
+    "All-format offline player (MP4, MKV, AVI, MOV, FLV, WEBM)",
+    "Video-to-MP3 audio converter built in",
+    "Video cutter and trimmer for quick clips",
+    "Batch and background downloads with pause/resume",
+    "1M+ installs, 4.5-star rating (Oct 2026)"
+   ]
+  },
+  {
+   "name": "AI Honey",
+   "slug": "ai-honey",
+   "package": "com.velunara.miragecraft",
+   "developer": "Nasser Mohammed",
+   "category": "ai",
+   "review": "A playful AI creator that turns a single portrait into energetic sports-style photos and short dynamic videos — think neon motorcycle scenes, rain-soaked car portraits and watercraft backdrops. No equipment or editing skill is needed: upload a photo, pick a style preset, and the AI does the rest. Pakistani social-media creators are using its templates for reels and profile pictures without leaving their phones. The free experience runs without ads, though a few reviewers mention the account system is fussy if you delete and reopen an account, so keep important creations backed up.",
+   "features": [
+    "Portrait-to-video AI animation in one tap",
+    "Style presets: neon arcade, rain-soaked car, watercraft scenes",
+    "Photo enhancement with sporty, action-style looks",
+    "Share-ready output for reels and social apps",
+    "Ad-free experience",
+    "250K+ installs, 4.5-star rating (Oct 2026)"
+   ]
+  },
+  {
+   "name": "Qwen — Alibaba AI Assistant",
+   "slug": "qwen-alibaba-ai",
+   "package": "com.tongyi.intl",
+   "developer": "Qwen Team (Alibaba)",
+   "category": "ai",
+   "review": "Alibaba's official AI assistant and the most serious new rival to ChatGPT and Gemini on the Play Store. Beyond chat, it edits photos (background removal, anime styles), turns text into images and short AI videos, scans documents, reads Word and PDF files, and translates on the fly. For Pakistani students and freelancers who want one free AI app instead of several, Qwen's all-in-one pitch is hard to ignore. As a Chinese tech giant's product, users who care about data jurisdiction should skim the privacy policy first.",
+   "features": [
+    "AI chat with text and voice input",
+    "Photo editing: background removal, anime styles",
+    "Text-to-image and AI video creation",
+    "Document scanning, plus Word and PDF reading",
+    "Instant translation across languages",
+    "4.3-star rating from 149K+ reviews (Oct 2026)"
+   ]
+  },
+  {
+   "name": "Cool Clean",
+   "slug": "cool-clean",
+   "package": "com.skuppywuppies.coolclean.storage",
+   "developer": "SkuppyWuppies",
+   "category": "utilities",
+   "review": "A brand-new cleaner that shot to #1 on the new-free charts within two weeks of its October launch, crossing 100,000 installs. It sticks to the basics: scan storage, find junk and unnecessary files, and clean them with a simple review step — no account, no subscription, no ads. On budget phones in Pakistan that slow down once internal storage fills up, it is a lightweight option at under 40 MB. Being only days old, its rating is still settling (3.9 from a few hundred early reviews), so expect some rough edges.",
+   "features": [
+    "Storage scan with junk-file finder",
+    "One-tap cleanup with review-before-delete",
+    "Simple interface, no account or login needed",
+    "No ads and no subscription",
+    "38 MB — light on budget phones",
+    "100K+ installs in first two weeks (Oct 2026)"
+   ]
   }
  ],
  "categories": [
@@ -1948,6 +2012,12 @@
    "title": "Best AI Photo & Video Generator Apps in Pakistan 2026",
    "excerpt": "AI apps that turn your photos into cinematic videos and artwork — the ones actually trending on Pakistani phones right now.",
    "content": "AI camera apps are exploding in Pakistan in 2026 — turning ordinary selfies and car photos into cinematic videos, posters and shareable clips. These are the AI photo and video generator apps actually trending on Google Play right now.\n\n1. Car Z — Turns one car photo into AI road videos, drift clips and poster-style artwork. Pakistani car enthusiasts are posting its creations on TikTok and Instagram daily.\n2. Miuci AI — AI photo and video generation with creative styles for portraits and content creation.\n3. B612 — Camera and photo/video editor with AI beauty and fun filters; long popular with Pakistani selfie lovers.\n4. Sweet Camera — Beauty camera with filters and frames for quick share-ready photos.\n5. CapCut — Not strictly an AI generator, but its AI templates and effects are what most Pakistani creators use to finish videos from apps like these.\n\nHow to pick: Car Z is the pick for car content, B612/Sweet Camera for beauty selfies, Miuci AI for creative experiments. Always check which features are free — most of these sell credits or subscriptions, so test the free tier before paying."
+  },
+  {
+   "slug": "best-free-phone-cleaner-apps-pakistan",
+   "title": "Best Free Phone Cleaner Apps in Pakistan 2026",
+   "excerpt": "Which storage cleaners are actually safe, and the red flags that mark a scammy one.",
+   "content": "Files by Google — the safest default. Google's own app clears junk, finds duplicates and even shares files offline; try it before anything else.\nCool Clean — new October 2026 entry: ad-free, subscription-free, with a review-before-delete step. Best for budget phones that just need junk clearing.\nCheck your phone first — Samsung, Xiaomi, Infinix and Tecno all ship a storage cleaner in Settings; it often does the same job.\nRed flags — a cleaner that demands a subscription for basic junk removal, or one covered in full-screen ads after every tap, is not worth keeping.\nCleaners can't fix hardware — no app can repair a dying battery or double your RAM; anything promising that is lying.\nWhatsApp media is the real hog — on Pakistani phones it is usually the single biggest storage eater; both Files by Google and Cool Clean surface it fast.\nRestart weekly — free, and it clears more temporary clutter than most cleaner apps claim to."
   }
  ]
 }
