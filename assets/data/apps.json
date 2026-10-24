@@ -1852,6 +1852,70 @@
     "38 MB — light on budget phones",
     "100K+ installs in first two weeks (Oct 2026)"
    ]
+  },
+  {
+   "name": "TikTok Lite",
+   "slug": "tiktok-lite",
+   "package": "com.zhiliaoapp.musically.go",
+   "developer": "TikTok Pte. Ltd.",
+   "category": "social",
+   "review": "The full TikTok experience rebuilt for the phones most Pakistanis actually own. At just 13 MB it installs and runs smoothly on low-storage, low-RAM devices, and the Data Saver and offline modes keep weekly bundles from melting during long scrolling sessions. Same personalized feed, same creator tools, far less load on your phone and your package.",
+   "features": [
+    "Only 13 MB — made for low-storage phones",
+    "Data Saver cuts streaming data by up to 20%",
+    "Offline mode plays cached videos on shaky networks",
+    "Personalized For-You feed and hashtag discovery",
+    "Create and edit videos with effects, filters and voiceovers",
+    "One-tap sharing to WhatsApp, Instagram and Facebook"
+   ]
+  },
+  {
+   "name": "Zapya - File Transfer, Share",
+   "slug": "zapya-file-transfer",
+   "package": "com.dewmobile.kuaiya.play",
+   "developer": "Dewmobile USA, Inc.",
+   "category": "utilities",
+   "review": "The offline file-sharing app that refuses to die in Pakistan — because it solves a very Pakistani problem: moving huge videos, movies and games between phones without burning mobile data. Zapya sends files of any size over its own direct connection, no Wi-Fi or data needed, and works across Android, iPhone and PC. The group-share and QR-code modes make it the go-to in hostels, shops and family gatherings.",
+   "features": [
+    "Share files of any size and format — online or fully offline",
+    "No Wi-Fi or mobile data needed for nearby transfers",
+    "Four connect modes: group, QR code, shake, radar",
+    "Cross-platform: Android, iOS, Windows and Mac",
+    "Bulk transfer and whole-folder sharing in one tap",
+    "Phone replication — move everything to a new device at once"
+   ]
+  },
+  {
+   "name": "WhatsApp Business",
+   "slug": "whatsapp-business",
+   "package": "com.whatsapp.w4b",
+   "developer": "WhatsApp LLC",
+   "category": "social",
+   "review": "WhatsApp, upgraded for the shopkeeper. If you sell anything on WhatsApp in Pakistan — clothes, cosmetics, home food, phone accessories — this free app turns your chat into a storefront: a proper business profile, product catalog, automated greeting and away replies, and labels to organize orders. It runs on a second number alongside your personal WhatsApp, so work and family chats never mix.",
+   "features": [
+    "Business profile with hours, location and description",
+    "Product catalog to showcase and share items in chat",
+    "Automated greeting, away and quick replies",
+    "Labels to organize customers, orders and payments",
+    "Ads that click straight to WhatsApp",
+    "Runs alongside personal WhatsApp on a second number"
+   ]
+  },
+  {
+   "name": "Foap - sell photos & videos",
+   "slug": "foap-sell-photos",
+   "package": "com.foap.android",
+   "developer": "Foap",
+   "category": "finance",
+   "review": "A legit way to earn from your phone camera: upload photos and videos, sell them in the Foap market or enter brand missions that start at $50 a prize, with distribution through partners like Getty Images. It is free and requires no special gear — street scenes, village life and food shots from Pakistan all sell. Two honest caveats: its Play Store rating is low (2.1 stars) because missions are brutally competitive, and payouts go to PayPal, which is not fully functional in Pakistan, so plan a workaround before counting on the income.",
+   "features": [
+    "Sell photos and videos in the Foap market",
+    "Brand missions with prizes starting at $50",
+    "Distribution through partners like Getty Images",
+    "Unlimited free uploads straight from your phone",
+    "Built-in creator portfolio and community feedback",
+    "Free to join — no equipment beyond a phone camera"
+   ]
   }
  ],
  "categories": [

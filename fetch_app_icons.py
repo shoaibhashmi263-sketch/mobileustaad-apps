@@ -18,7 +18,7 @@ UA = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
 
 def fetch_icon(app):
     pkg = app['package']
-    url = f'https://play.google.com/store/apps/details?id={pkg}&hl=en'
+    url = f'https://play.google.com/store/apps/details?id={pkg}&hl=en&gl=pk'  # gl=pk: PK storefront (some listings region-restricted)
     req = urllib.request.Request(url, headers=UA)
     try:
         html = urllib.request.urlopen(req, timeout=25).read().decode('utf-8', 'ignore')
