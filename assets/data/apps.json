@@ -1916,6 +1916,66 @@
     "Built-in creator portfolio and community feedback",
     "Free to join — no equipment beyond a phone camera"
    ]
+  },
+  {
+   "slug": "canva",
+   "name": "Canva",
+   "developer": "Canva",
+   "package": "com.canva.editor",
+   "category": "creativity",
+   "review": "The design app Pakistani shopkeepers, students and creators reach for when they need a poster, price list or reel cover that looks professional. Thousands of ready templates sized for Instagram, WhatsApp status and print mean you start from something good instead of a blank page, and the free tier covers most everyday jobs. It is best for small businesses, teachers and content creators; heavy designers will still want a desktop tool, and the prettiest templates sit behind the paid plan.",
+   "features": [
+    "Thousands of templates for posts, posters, CVs and logos",
+    "AI tools: background remover, Magic Edit and text-to-image",
+    "Photo and video editing in the same app",
+    "Brand kit to reuse your colours, fonts and logo",
+    "Designs sync across phone, tablet and computer"
+   ]
+  },
+  {
+   "slug": "threads",
+   "name": "Threads",
+   "developer": "Instagram",
+   "package": "com.instagram.barcelona",
+   "category": "social",
+   "review": "Instagram's text-first app, and the closest thing to a Pakistani Twitter alternative built on an audience you already have. Sign in with your Instagram account, keep your username, and post short thoughts, photos and short videos into public conversations about cricket, dramas and daily news. It is ideal if you like following creators and debates without managing a second identity; the flip side is that it leans heavily on your Instagram graph, so it feels quiet if your friends are not there yet.",
+   "features": [
+    "Post text, photos and videos up to 5 minutes",
+    "Sign in with your Instagram account and username",
+    "Follow Instagram accounts in a few taps",
+    "Control who can reply to and mention you",
+    "Share threads straight to your Instagram story"
+   ]
+  },
+  {
+   "slug": "perplexity",
+   "name": "Perplexity - Ask Anything",
+   "developer": "PerplexityAI",
+   "package": "ai.perplexity.app.android",
+   "category": "ai",
+   "review": "An answer engine rather than a plain chatbot: ask a question in plain words and get a sourced answer you can check, which matters a lot for Pakistani students and freelancers tired of AI guesses. It is strong for current affairs, prices, research and comparisons because it searches the live web instead of relying only on old training data. Best for research, homework background and fact-checking; treat every answer as a starting point and open the cited sources before quoting it, and expect the free tier to push you toward Pro for heavy daily use.",
+   "features": [
+    "Answers with cited sources you can open and verify",
+    "Live web search for news, prices and current events",
+    "Follow-up questions that keep the thread going",
+    "Voice questions for hands-free answers",
+    "Library to save and revisit your searches"
+   ]
+  },
+  {
+   "slug": "gauth",
+   "name": "Gauth: AI Study Companion",
+   "developer": "GauthTech Pte. Ltd.",
+   "package": "com.education.android.h.intelligence",
+   "category": "education",
+   "review": "A homework helper that is currently among the most-used study apps in Pakistan, built around one idea: photograph a maths or science question and get a step-by-step solution, not just the answer. That step-by-step approach is what makes it genuinely useful for matric and FSc students revising at night without a tutor nearby, with live tutors and a study toolbox for reading, writing and calculations. Use it to understand a method, not to copy answers into homework — teachers notice, and exams still test the method. The free tier covers everyday questions; unlimited Plus features are paid.",
+   "features": [
+    "Photograph a question for step-by-step solutions",
+    "Maths, physics, chemistry and biology coverage",
+    "AI live tutor with voice and whiteboard explanations",
+    "Study toolbox: reading, writing, focus mode and calculator",
+    "Question bank and tutorial videos for revision"
+   ]
   }
  ],
  "categories": [
@@ -2082,6 +2142,12 @@
    "title": "Best Free Phone Cleaner Apps in Pakistan 2026",
    "excerpt": "Which storage cleaners are actually safe, and the red flags that mark a scammy one.",
    "content": "Files by Google — the safest default. Google's own app clears junk, finds duplicates and even shares files offline; try it before anything else.\nCool Clean — new October 2026 entry: ad-free, subscription-free, with a review-before-delete step. Best for budget phones that just need junk clearing.\nCheck your phone first — Samsung, Xiaomi, Infinix and Tecno all ship a storage cleaner in Settings; it often does the same job.\nRed flags — a cleaner that demands a subscription for basic junk removal, or one covered in full-screen ads after every tap, is not worth keeping.\nCleaners can't fix hardware — no app can repair a dying battery or double your RAM; anything promising that is lying.\nWhatsApp media is the real hog — on Pakistani phones it is usually the single biggest storage eater; both Files by Google and Cool Clean surface it fast.\nRestart weekly — free, and it clears more temporary clutter than most cleaner apps claim to."
+  },
+  {
+   "slug": "best-design-apps-pakistan",
+   "title": "Best Design Apps in Pakistan 2026",
+   "excerpt": "Posters, logos, CVs and reel covers — the design apps Pakistani creators and small shops actually use.",
+   "content": "1. Canva — the all-rounder. Templates for Instagram posts, shop posters, CVs and logos, plus AI background removal; start here if you design anything for business or content. Our review: /apps/canva/.\n2. Picsart — the creative playground. AI effects, collages and stickers for eye-catching social posts; best when you want a photo to stand out. Our review: /apps/picsart/.\n3. Snapseed — the free photo editor. Google's pro-grade selective edits and healing, with no subscription; best for polishing photos before posting. Our review: /apps/snapseed/.\n4. CapCut — the reel finisher. Templates, auto-captions and effects that turn a rough clip into a share-ready reel. Our review: /apps/capcut/.\n5. VN Video Editor — the pro pick. Multi-track editing with no watermark for vloggers who want full control. Our review: /apps/vn-video-editor/.\n6. Pick by job: quick poster or CV = Canva, standout photo = Picsart or Snapseed, video = CapCut or VN.\n7. Watch the paid trap: the best-looking templates and effects are often Pro-only — test the free tier on a real project before subscribing.\n8. Download only from the official Play Store links on our app pages — 'Pro unlocked' design APKs are a common malware trap in Pakistan."
   }
  ]
 }
