@@ -1976,6 +1976,70 @@
     "Study toolbox: reading, writing, focus mode and calculator",
     "Question bank and tutorial videos for revision"
    ]
+  },
+  {
+   "slug": "moj",
+   "name": "Moj: Free Short Drama & Reels",
+   "developer": "ShareChat",
+   "package": "in.mohalla.video",
+   "category": "social",
+   "review": "A short-video app riding high on Pakistan's Play Store charts, built around 60-second reels plus 2–5 minute short dramas — romance, thriller, comedy and family stories made for quick breaks. You can watch, create with filters and trending sounds, and binge Moj+ premium originals if you want ad-free drama. Pros: reels and short dramas in one feed, a data-saver-friendly player, and genuinely fresh episodes every day. Cons: most content is made for Indian audiences and languages, so Pakistani viewers will find little local content, and the feed leans heavily on repetitive clips. Best for short-drama lovers and casual reel scrollers who want something beyond TikTok's feed.",
+   "features": [
+    "Short drama series in 2–5 minute episodes across genres",
+    "Trending 60-second reels with filters, effects and sounds",
+    "Create and share your own short videos",
+    "Moj+ premium originals with ad-free binge viewing",
+    "HD streaming with data-saver options",
+    "Fresh episodes and trending videos added daily"
+   ]
+  },
+  {
+   "slug": "playit",
+   "name": "PLAYit-All in One Video Player",
+   "developer": "PLAYIT TECHNOLOGY PTE. LTD.",
+   "package": "com.playit.videoplayer",
+   "category": "entertainment",
+   "review": "One of the most-installed video players on Android, and a fixture on Pakistan's top-charts — PLAYit plays almost any video or music file on your phone, from 4K MKV downloads to WhatsApp status clips, with floating-window and background play built in. It auto-detects media on your device and SD card, converts video to MP3, downloads subtitles, and hides private videos in a locked folder. Pros: huge format support including 4K, light on storage, and genuinely useful extras like the video-to-audio converter. Cons: ads in the free version, and some advanced features sit behind premium. Best for anyone whose phone is full of downloaded dramas, lectures and clips that the default player chokes on.",
+   "features": [
+    "Plays all formats: MKV, MP4, FLV, 3GP, M4V and more, up to 4K",
+    "Floating-window and background playback for multitasking",
+    "Auto-detects and organises local media files",
+    "One-tap video-to-MP3 audio conversion",
+    "Private folder to hide personal videos",
+    "Online subtitle search and gesture controls"
+   ]
+  },
+  {
+   "slug": "upwork",
+   "name": "Upwork",
+   "developer": "Upwork Global Inc.",
+   "package": "com.upwork.android.apps.main",
+   "category": "finance",
+   "review": "The world's biggest freelance marketplace, in one app — and the single most important earning app for Pakistani freelancers, from Lahore designers to Karachi developers. Search jobs, submit proposals, message clients, track contracts and get paid in dollars, with payouts to Pakistan via Payoneer and onward to JazzCash or a local bank. Pros: real skill-based income in foreign currency, a huge pool of clients, and everything from proposals to payments in one place. Cons: competition is fierce for beginners, Upwork takes a service fee from earnings, and building a profile with reviews takes patience. Best for skilled Pakistanis — writers, designers, developers, marketers — ready to turn freelance work into steady dollar income. Never pay anyone who asks for a fee to 'join' Upwork; sign-up itself is free.",
+   "features": [
+    "Search and apply for freelance jobs across hundreds of skills",
+    "Submit proposals and message clients on the go",
+    "Track contracts, milestones and hours from your phone",
+    "Get paid in USD with Payoneer payout options for Pakistan",
+    "Build a rated profile with reviews and portfolios",
+    "Job alerts matched to your skills and rates"
+   ]
+  },
+  {
+   "slug": "video-downloader-2026-hd",
+   "name": "Video Downloader - 2026 HD",
+   "developer": "EMBLEM APPS",
+   "package": "com.allhdvideodownloaderapp.videodownloader",
+   "category": "utilities",
+   "review": "A straightforward downloader for saving social videos offline — paste a link from TikTok, Instagram or Facebook and grab the video in MP4, MP3 or other formats, with background downloading and resume support if your connection drops. A built-in browser and bookmarks round it out for repeat saves. Pros: simple link-paste flow, multiple formats, and background downloads that survive interruptions. Cons: YouTube downloads are not supported (Play Store rules), and heavy ads are the most common user complaint. Best for Pakistani users on patchy mobile data who want to save reels and clips for offline watching — only ever download your own videos or content you have permission to save.",
+   "features": [
+    "Download videos from TikTok, Instagram and Facebook via link",
+    "Multiple formats: MP4, MP3, M4A, MOV and more",
+    "Background downloading with resume for failed downloads",
+    "Built-in browser and bookmarks for favourite pages",
+    "Fast, lightweight app at around 18MB",
+    "No YouTube downloads — complies with Play Store terms"
+   ]
   }
  ],
  "categories": [
