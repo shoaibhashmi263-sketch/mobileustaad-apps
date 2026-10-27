@@ -2040,6 +2040,70 @@
     "Fast, lightweight app at around 18MB",
     "No YouTube downloads — complies with Play Store terms"
    ]
+  },
+  {
+   "slug": "paidwork",
+   "name": "Paidwork: Make Money",
+   "developer": "Paidwork",
+   "package": "com.zareklamy",
+   "category": "finance",
+   "review": "A microtask app that pays you for spare-time work on your phone — surveys, playing games, watching videos, cashback shopping, scanning receipts and small typing or testing tasks, all in one feed. You pick the task type, follow the instructions and earn points that convert to cash, with payouts via PayPal or bank transfer. Pros: genuinely free to join with no deposit, six different ways to earn so it never feels one-note, and a low barrier for students or anyone with an idle phone. Cons: PayPal is not officially available in Pakistan so cashing out is awkward for many users, and the minimum payout threshold varies by region, so earnings build slowly. Best for Pakistanis with free time who want small side income from their phone — treat it as pocket money, never a salary, and cash out small amounts as you go.",
+   "features": [
+    "Six earning methods: surveys, games, videos, cashback, microtasks, receipts",
+    "Points convert to cash with PayPal or bank-transfer payouts",
+    "No deposit or joining fee — tasks are free to start",
+    "Referral bonus when an invited friend makes a first payout",
+    "Task feed matched to your device and interests",
+    "Track balance and payout history inside the app"
+   ]
+  },
+  {
+   "slug": "faceapp",
+   "name": "FaceApp: Perfect Face Editor",
+   "developer": "FaceApp Technology Ltd",
+   "package": "io.faceapp",
+   "category": "photography",
+   "review": "The AI face editor behind a thousand viral trends — FaceApp transforms a single selfie with photorealistic aging, gender-swap, smile, hairstyle and makeup filters, plus retouching for skin, eyes and backgrounds. One tap is usually enough, and the results look far more natural than the cartoon filters most camera apps offer. Pros: impressively realistic AI transformations, a huge filter library that keeps updating, and dead-simple one-tap editing. Cons: the best filters sit behind a subscription, and the app processes photos on remote servers, so privacy-conscious users should read the policy first. Best for anyone who wants fun, share-ready selfie transformations for WhatsApp, TikTok or Instagram without learning a full photo editor.",
+   "features": [
+    "AI aging, young-age and gender-swap transformations",
+    "One-tap smile, hairstyle, beard and makeup filters",
+    "Skin retouching, eye and background enhancements",
+    "60+ photorealistic filters with regular new additions",
+    "Before/after comparison view built in",
+    "Direct sharing to WhatsApp, Instagram and TikTok"
+   ]
+  },
+  {
+   "slug": "youcam-perfect",
+   "name": "YouCam Perfect - Photo Editor",
+   "developer": "Perfect Mobile Corp.",
+   "package": "com.cyberlink.youperfect",
+   "category": "photography",
+   "review": "An all-in-one selfie camera and photo editor that has passed 800 million downloads — YouCam Perfect combines a live beauty camera with AI tools: one-tap enhance, object and background removal, collage maker, body reshaping and a prompt-based AI editor for restyling photos. It is built for people who want a polished photo in under a minute, not a desktop-style editing session. Pros: a huge toolset in one free app, live beauty filters while shooting, and genuinely useful extras like object removal. Cons: ads in the free version, and the flashiest AI effects require a subscription. Best for selfie lovers, small-shop owners making product photos, and social-media posters who want quick, clean edits on a mid-range phone.",
+   "features": [
+    "Live beauty camera with real-time filters and makeup looks",
+    "AI photo enhance and prompt-based AI restyling",
+    "Object remover and background removal in seconds",
+    "Collage maker with layouts, frames and stickers",
+    "Face reshape, body editor and skin retouching",
+    "Batch-friendly sharing to all major social apps"
+   ]
+  },
+  {
+   "slug": "sastaticket",
+   "name": "sastaticket.pk: Flights, Bus",
+   "developer": "Sastaticket.pk",
+   "package": "com.pk.sastaticket",
+   "category": "transport",
+   "review": "Pakistan's homegrown travel booking app — sastaticket.pk compares fares across 100+ airlines and books domestic flights on PIA, Airblue, AirSial, SereneAir and Fly Jinnah, plus intercity bus seats on Daewoo, Faisal Movers and other operators, with Umrah and holiday packages in the same app. It highlights the no-withholding-tax, no-hidden-charges angle that matters when booking international tickets in rupees. Pros: one app for flights, buses and Umrah packages, fare comparison across airlines, and transparent pricing with no hidden international charges. Cons: prices move daily so a fare seen today may change tomorrow, and support quality varies during peak travel season. Best for Pakistani travellers booking family trips, Umrah or a Lahore-to-Karachi bus seat without visiting an agent.",
+   "features": [
+    "Flight fare comparison across 100+ airlines, domestic and international",
+    "Bus tickets with seat selection on major Pakistani operators",
+    "Umrah packages with flights, hotels and transport bundled",
+    "Holiday packages to Dubai, Thailand, Malaysia, Turkey and more",
+    "Sort by cheapest or fastest with layover and baggage details",
+    "No withholding tax and no hidden international charges"
+   ]
   }
  ],
  "categories": [
@@ -2212,6 +2276,12 @@
    "title": "Best Design Apps in Pakistan 2026",
    "excerpt": "Posters, logos, CVs and reel covers — the design apps Pakistani creators and small shops actually use.",
    "content": "1. Canva — the all-rounder. Templates for Instagram posts, shop posters, CVs and logos, plus AI background removal; start here if you design anything for business or content. Our review: /apps/canva/.\n2. Picsart — the creative playground. AI effects, collages and stickers for eye-catching social posts; best when you want a photo to stand out. Our review: /apps/picsart/.\n3. Snapseed — the free photo editor. Google's pro-grade selective edits and healing, with no subscription; best for polishing photos before posting. Our review: /apps/snapseed/.\n4. CapCut — the reel finisher. Templates, auto-captions and effects that turn a rough clip into a share-ready reel. Our review: /apps/capcut/.\n5. VN Video Editor — the pro pick. Multi-track editing with no watermark for vloggers who want full control. Our review: /apps/vn-video-editor/.\n6. Pick by job: quick poster or CV = Canva, standout photo = Picsart or Snapseed, video = CapCut or VN.\n7. Watch the paid trap: the best-looking templates and effects are often Pro-only — test the free tier on a real project before subscribing.\n8. Download only from the official Play Store links on our app pages — 'Pro unlocked' design APKs are a common malware trap in Pakistan."
+  },
+  {
+   "slug": "best-earning-apps-pakistan",
+   "title": "Best Earning Apps in Pakistan 2026",
+   "excerpt": "Real ways Pakistanis earn from their phones in 2026 — freelancing, reselling, surveys and microtasks, with honest warnings about the traps.",
+   "content": "1. Upwork — the serious money. Skilled freelancers (design, writing, development, marketing) earn in dollars and cash out via Payoneer to JazzCash or a local bank. Hardest to start, highest ceiling. Our review: /apps/upwork/.\n2. Fiverr — the gig shop. Sell a defined service at your own price and build reviews; also pays via Payoneer. Our review: /apps/fiverr/.\n3. Markaz — the no-investment business. Resell products on WhatsApp and Facebook, keep the margin, and let Markaz handle delivery and COD. The user-favourite pick for beginners. Our review: /apps/markaz/.\n4. Toloka — the microtask earner. Small AI-training tasks paid in dollars via Payoneer; steady but modest. Our review: /apps/toloka-earn-online/.\n5. Paidwork — the spare-time app. Surveys, games, videos and receipts for pocket money; cash out early and often. Our review: /apps/paidwork/.\n6. Foap — sell your photos. Upload phone photos to a global marketplace and earn per sale; slow but real. Our review: /apps/foap-sell-photos/.\n7. Savyour — cashback on shopping. Earn back a cut of online orders you were making anyway. Our review: /apps/savyour/.\n8. SnackVideo — creator rewards. Short-video creation and tasks with JazzCash/Easypaisa withdrawals; treat it as a bonus, not a job. Our review: /apps/snackvideo/.\n9. The scam test: if any app asks for a deposit, activation fee or 'security amount' before you earn, it is a scam — walk away. Legit platforms only take a cut AFTER you earn.\n10. Pick by situation: have a skill = Upwork or Fiverr, have an audience = Markaz, have only free time = Toloka or Paidwork, have a camera roll = Foap. Download only from the official Play Store links on our app pages."
   }
  ]
 }
