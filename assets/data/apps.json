@@ -2104,6 +2104,70 @@
     "Sort by cheapest or fastest with layover and baggage details",
     "No withholding tax and no hidden international charges"
    ]
+  },
+  {
+   "slug": "supervpn-fast-vpn-proxy",
+   "name": "SuperVPN - Fast VPN Proxy",
+   "developer": "SuperSoftTech",
+   "package": "com.jrzheng.supervpnfree",
+   "category": "utilities",
+   "review": "Pakistan's free-chart regular for a reason — SuperVPN connects with a single tap and routes your traffic through fast global servers, which is handy on public Wi-Fi at universities, hostels and cafes, or when an app or site loads slowly on a local network. No account or sign-up is needed, and you can pick which apps go through the VPN while the rest use your normal connection. Pros: genuinely free with unlimited time, one-tap connection with no registration, and per-app VPN control. Cons: the free version shows ads, and speeds vary by server and time of day. Best for Pakistani users who want a quick, no-fuss VPN for browsing, streaming and public Wi-Fi safety on a budget phone.",
+   "features": [
+    "One-tap VPN connection with no account or sign-up",
+    "Unlimited VPN time and bandwidth on the free tier",
+    "Global servers tuned for browsing and streaming",
+    "Per-app VPN: choose exactly which apps use the tunnel",
+    "Works over Wi-Fi, 4G and 5G without root access",
+    "Optional VIP upgrade for ad-free use and faster servers"
+   ]
+  },
+  {
+   "slug": "yalla-ludo",
+   "name": "Yalla Ludo - Ludo&Jackaroo",
+   "developer": "Aviva Sun",
+   "package": "com.yalla.yallagames",
+   "category": "gaming",
+   "review": "The board-game app that sits near the top of Pakistan's free charts — Yalla Ludo bundles classic Ludo, Jackaroo and Domino into one social app where you play live matches and talk to opponents and friends over real-time voice chat. Ludo alone offers 2-player, 4-player and team modes with Classic, Master, Quick and Arrow rule variants, while Jackaroo adds a faster, partnership-based board game that is popular across the Middle East and South Asia. Pros: three board games in one app, live voice-chat rooms, and quick matches that suit short breaks. Cons: it is a heavy download for low-storage phones, and in-app purchases can add up in competitive rooms. Best for Pakistani families and friend circles who already play Ludo at home and want the same game night on their phones.",
+   "features": [
+    "Ludo in 2-player, 4-player and team modes with four rule variants",
+    "Jackaroo with Basic, Complex and Quick game modes",
+    "Domino in 2-player and 4-player Draw and All Five modes",
+    "Live voice-chat rooms to talk and play with friends worldwide",
+    "Daily tasks and arrival chests with in-game rewards",
+    "Stickers, gifts and VIP rooms for regular players"
+   ]
+  },
+  {
+   "slug": "shareit-transfer-share",
+   "name": "SHAREit: Transfer, Share Files",
+   "developer": "SHAREit Technologies",
+   "package": "com.lenovo.anyshare.gps",
+   "category": "utilities",
+   "review": "The file-sharing staple of Pakistani Android phones — SHAREit moves photos, videos, apps and documents between phones at speeds far beyond Bluetooth, without using any mobile data, which is why it survives on phones passed between family members and shop counters alike. It also doubles as a file manager with a built-in video and photo downloader, and its phone-clone tool copies contacts, photos and apps from an old phone to a new one in one sitting. Pros: data-free transfers at very high speed, works across Android, iPhone and PC, and no file-size limits. Cons: the app is ad-heavy, and its extra feeds and game sections can feel cluttered. Best for anyone in Pakistan who regularly swaps large videos, movies or full photo albums between phones, or is setting up a new handset.",
+   "features": [
+    "Data-free transfers over Wi-Fi Direct at up to 42MB/s",
+    "Send apps, games, photos, videos, music and documents of any size",
+    "Cross-platform sharing between Android, iOS and PC",
+    "Phone Clone: move contacts, photos and apps to a new phone",
+    "Built-in downloader for videos and photos",
+    "File manager, music player and video player in one app"
+   ]
+  },
+  {
+   "slug": "uc-browser",
+   "name": "UC Browser-Safe, Fast, Private",
+   "developer": "UCWeb Singapore Pte. Ltd.",
+   "package": "com.UCMobile.intl",
+   "category": "utilities",
+   "review": "A long-time top-chart browser in Pakistan — UC Browser is built for slower connections and tight data bundles, compressing pages so they load faster and use fewer megabytes, which still matters on budget packages. Beyond browsing it packs a built-in VPN mode, an ad blocker, a video downloader with offline playback, AI-assisted search and translation, and cloud storage for files. Pros: data-saving page compression, built-in video downloads and ad blocking, and a private mode that clears browsing traces. Cons: the home feed can feel busy, and heavy users may prefer a cleaner, minimal browser. Best for Pakistani users on limited data plans who want one app for browsing, downloading videos and private surfing.",
+   "features": [
+    "Data-compression browsing that loads pages faster on slow networks",
+    "Built-in video downloader with offline playback and speed control",
+    "Ad blocker for cleaner, faster page loads",
+    "Private browsing mode with VPN-style traffic protection",
+    "AI-powered search, page translation and note summaries",
+    "20GB UC Drive cloud storage for files and downloads"
+   ]
   }
  ],
  "categories": [
