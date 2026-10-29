@@ -2168,6 +2168,66 @@
     "AI-powered search, page translation and note summaries",
     "20GB UC Drive cloud storage for files and downloads"
    ]
+  },
+  {
+   "slug": "google-opinion-rewards",
+   "name": "Google Opinion Rewards",
+   "developer": "Google LLC",
+   "package": "com.google.android.apps.paidtasks",
+   "category": "finance",
+   "review": "Google's own survey app — answer short surveys and earn Google Play credit, which you can spend on apps, games and in-app purchases instead of cash. Surveys arrive roughly once a week and pay up to $1.00 in Play credit each, covering anything from logo opinions to recent shopping trips. Pros: made by Google so payouts are guaranteed, surveys take under a minute, no withdrawal minimums or fees. Cons: you earn Play credit, not cash you can send to JazzCash, and survey frequency varies a lot — some users wait weeks between surveys. Best for Android users in Pakistan who want to pay for apps and games without spending real money.",
+   "features": [
+    "Short surveys that take under a minute",
+    "Earn Google Play credit up to $1.00 per survey",
+    "Survey notifications when a relevant one is ready",
+    "No fees, no minimum payout, no sign-up cost",
+    "Spend credit on apps, games, books and subscriptions"
+   ]
+  },
+  {
+   "slug": "snow-ai-profile",
+   "name": "SNOW - AI Profile",
+   "developer": "SNOW Corporation",
+   "package": "com.campmobile.snow",
+   "category": "photography",
+   "review": "The camera app behind millions of filtered selfies — SNOW pairs Snapchat-style AR filters and stickers with beauty tools and AI profile photos, and it has been a favourite of Pakistani selfie lovers for years. Custom beauty effects, seasonal filters and thousands of stickers update daily, so your camera never feels stale. Pros: huge filter and sticker library, excellent AR makeup and beauty tools, AI profile feature for standout display pictures. Cons: many of the best filters now sit behind a paywall, and recent versions push AI features hard. Best for teens and creators who want a selfie camera with more filters than Snapchat itself.",
+   "features": [
+    "Thousands of AR filters and stickers, updated daily",
+    "Custom beauty effects you can save and reuse",
+    "AI Profile photos for display pictures",
+    "AR makeup and portrait retouching",
+    "Seasonal and event filters throughout the year"
+   ]
+  },
+  {
+   "slug": "lensa-photo-editor",
+   "name": "Lensa: photo editor & AI art",
+   "developer": "Prisma Labs, Inc.",
+   "package": "com.lensa.app",
+   "category": "photography",
+   "review": "Lensa is the AI photo editor that turns ordinary selfies into polished, magazine-style portraits — the app behind the viral AI avatar trend. Its skin refining, eye correction and background blur tools clean up a selfie in seconds, while the AI art styles give your photos a completely new look for profile pictures and reels. Pros: genuinely impressive AI avatars and portrait retouching, simple one-tap auto-adjust, background changer and blur that just works. Cons: the best AI features need a subscription or per-pack payment, and results vary with photo quality. Best for Pakistani creators and selfie lovers who want studio-quality portraits without a studio.",
+   "features": [
+    "AI avatars in dozens of art styles",
+    "Skin refining, blemish removal and teeth whitening",
+    "Eye corrector and eyebrow shaping tools",
+    "Background blur and background changer",
+    "Auto-adjust, filters and temperature controls"
+   ]
+  },
+  {
+   "slug": "dailymotion",
+   "name": "Dailymotion",
+   "developer": "Dailymotion",
+   "package": "com.dailymotion.dailymotion",
+   "category": "entertainment",
+   "review": "Dailymotion is the free video platform that works as a solid YouTube alternative — thousands of new videos daily across news, sports, TV shows and creator content, all free with ads. Its redesigned feed follows your interests, and you can follow channels, bookmark videos for later and join live conversations. Pros: completely free to watch, huge catalogue of news and sports clips, personalised feed that surfaces new creators. Cons: ad breaks are heavy — sometimes several unskippable ads in a row — and search only matches video titles, not topics. Best for viewers in Pakistan who want free video beyond YouTube, especially for news and sports highlights.",
+   "features": [
+    "Free videos across news, sports, TV and creators",
+    "Personalised feed built around your interests",
+    "Follow channels and bookmark videos for later",
+    "Live conversations and community comments",
+    "Thousands of new videos uploaded every day"
+   ]
   }
  ],
  "categories": [
@@ -2346,6 +2406,12 @@
    "title": "Best Earning Apps in Pakistan 2026",
    "excerpt": "Real ways Pakistanis earn from their phones in 2026 — freelancing, reselling, surveys and microtasks, with honest warnings about the traps.",
    "content": "1. Upwork — the serious money. Skilled freelancers (design, writing, development, marketing) earn in dollars and cash out via Payoneer to JazzCash or a local bank. Hardest to start, highest ceiling. Our review: /apps/upwork/.\n2. Fiverr — the gig shop. Sell a defined service at your own price and build reviews; also pays via Payoneer. Our review: /apps/fiverr/.\n3. Markaz — the no-investment business. Resell products on WhatsApp and Facebook, keep the margin, and let Markaz handle delivery and COD. The user-favourite pick for beginners. Our review: /apps/markaz/.\n4. Toloka — the microtask earner. Small AI-training tasks paid in dollars via Payoneer; steady but modest. Our review: /apps/toloka-earn-online/.\n5. Paidwork — the spare-time app. Surveys, games, videos and receipts for pocket money; cash out early and often. Our review: /apps/paidwork/.\n6. Foap — sell your photos. Upload phone photos to a global marketplace and earn per sale; slow but real. Our review: /apps/foap-sell-photos/.\n7. Savyour — cashback on shopping. Earn back a cut of online orders you were making anyway. Our review: /apps/savyour/.\n8. SnackVideo — creator rewards. Short-video creation and tasks with JazzCash/Easypaisa withdrawals; treat it as a bonus, not a job. Our review: /apps/snackvideo/.\n9. The scam test: if any app asks for a deposit, activation fee or 'security amount' before you earn, it is a scam — walk away. Legit platforms only take a cut AFTER you earn.\n10. Pick by situation: have a skill = Upwork or Fiverr, have an audience = Markaz, have only free time = Toloka or Paidwork, have a camera roll = Foap. Download only from the official Play Store links on our app pages."
+  },
+  {
+   "slug": "best-camera-filter-apps-pakistan",
+   "title": "Best Camera & Filter Apps in Pakistan 2026",
+   "excerpt": "Selfie cameras, AR filters and AI portraits — the apps Pakistanis actually use for Instagram, TikTok and WhatsApp display pictures.",
+   "content": "1. Snapchat — still the filter king. Hundreds of AR lenses, streaks and Spotlight for creators; heavy on battery and data. Our review: /apps/snapchat/.\n2. SNOW — the filter library. Thousands of stickers and filters updated daily, plus AI profile photos for standout display pictures. Our review: /apps/snow-ai-profile/.\n3. FaceApp — the transformation app. Age filters, hairstyle swaps and AI looks that go viral every few months. Our review: /apps/faceapp/.\n4. YouCam Perfect — the beauty all-rounder. Object removal, body shaping and collage tools in one place. Our review: /apps/youcam-perfect/.\n5. Lensa — the AI portrait studio. AI avatars and pro-level selfie retouching for profile pictures that look shot in a studio. Our review: /apps/lensa-photo-editor/.\n6. B612 — the lightweight classic. Quick beauty filters and stickers that run fine on budget phones. Our review: /apps/b612-ai-photo-video-editor/.\n7. Pick by need: fun filters with friends = Snapchat or SNOW, a viral transformation = FaceApp, a polished profile picture = Lensa, and everyday beauty edits on a slow phone = B612. All are free to start on the Play Store; the fanciest AI features are usually subscription extras, so try the free tier first."
   }
  ]
 }
