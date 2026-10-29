@@ -2228,6 +2228,66 @@
     "Live conversations and community comments",
     "Thousands of new videos uploaded every day"
    ]
+  },
+  {
+   "name": "Alight Motion",
+   "slug": "alight-motion",
+   "package": "com.alightcreative.motion",
+   "developer": "Alight Creative",
+   "category": "creativity",
+   "features": [
+    "Keyframe animation for every setting, with easing curves for smooth motion",
+    "160+ effect building blocks that combine into advanced visual effects",
+    "Vector and bitmap layers with masks, grouping and parent-child rigging",
+    "Camera tools that pan, zoom and add focus blur and fog",
+    "Export as MP4 video, GIF animation, PNG sequences or stills, and share project packages"
+   ],
+   "review": "Alight Motion is the closest thing to a desktop motion-graphics studio on a phone — keyframe animation, layered graphics, vector editing and visual effects, all in one app. It is hugely popular with Pakistani TikTok and Instagram editors making lyrical videos, AMV edits and animated intros. Pros: desktop-class motion tools on a phone, a genuinely usable free tier, and a big community sharing presets and project templates. Cons: free exports carry a watermark, and the app needs at least 1.5GB of RAM, so older budget phones can lag on heavy projects. Best for creators in Pakistan making animated edits, intro videos and reel effects entirely on their phone."
+  },
+  {
+   "name": "DeepSeek - AI Assistant",
+   "slug": "deepseek-ai-assistant",
+   "package": "com.deepseek.chat",
+   "developer": "DeepSeek",
+   "category": "ai",
+   "features": [
+    "Free AI chat with follow-up questions and long conversations",
+    "Deep-thinking mode for maths, logic and hard reasoning problems",
+    "Writing help, summaries and study explanations",
+    "Code writing, debugging and step-by-step solutions",
+    "Multi-language answers, including Urdu and English"
+   ],
+   "review": "DeepSeek is a free AI assistant known for strong reasoning, writing help, coding and study explanations — a favourite in Pakistan as a no-cost alternative when other chatbots hit paywalls or free limits. Ask it homework questions, get essays outlined, debug code or work through a tricky maths problem. Pros: completely free for core chat, strong on reasoning and study questions, and no subscription wall for everyday use. Cons: replies can slow down at peak hours, and some users report answers occasionally switching languages unexpectedly. Best for students and freelancers in Pakistan who want a free AI helper for homework, writing and coding."
+  },
+  {
+   "name": "Viu: Dramas, TV Shows & Movies",
+   "slug": "viu-dramas-movies",
+   "package": "com.vuclip.viu",
+   "developer": "Viu",
+   "category": "entertainment",
+   "features": [
+    "Korean, Turkish, Chinese and Arabic dramas plus short dramas",
+    "HD streaming with English subtitles",
+    "Offline downloads for watching without internet",
+    "New-episode alerts for shows you follow",
+    "Personalised recommendations and a curated discovery feed"
+   ],
+   "review": "Viu is the streaming home for Asian drama lovers — Korean, Turkish, Chinese and Arabic series, plus short dramas in reels format, with English subtitles throughout. Its free-with-ads tier has made it a hit with drama fans in Pakistan who do not want another paid subscription. Pros: a huge Asian drama library free with ads, subtitles in English, and downloads for offline watching on slow connections. Cons: some premium titles sit behind a subscription, and the free tier has ad breaks. Best for drama fans in Pakistan, especially K-drama and Turkish drama viewers."
+  },
+  {
+   "name": "YouCam Makeup: Face Editor",
+   "slug": "youcam-makeup-face-editor",
+   "package": "com.cyberlink.youcammakeup",
+   "developer": "Perfect Corp.",
+   "category": "photography",
+   "features": [
+    "Live makeup camera with real-time virtual try-on",
+    "250+ hairstyles plus a hair colour changer with realistic results",
+    "Skin smoothing, blemish removal, teeth whitening and face shaping",
+    "AI image and video generation for profile pictures and reels",
+    "AI beauty assistant that takes voice or text prompts"
+   ],
+   "review": "YouCam Makeup is a selfie and makeup editor that lets you try lipstick, foundation, hairstyles and hair colours virtually before committing — popular in Pakistan for Instagram and TikTok profile pictures and wedding-season looks. Its live camera previews makeup in real time, and one-tap retouching cleans up skin, brightens smiles and reshapes photos. Pros: realistic virtual makeup previews before buying products, a huge hairstyle library, and quick one-tap retouching. Cons: the best AI features need a subscription, and heavy filters can look unnatural if overused. Best for anyone in Pakistan polishing selfies and trying a new look before a salon visit or event."
   }
  ],
  "categories": [
