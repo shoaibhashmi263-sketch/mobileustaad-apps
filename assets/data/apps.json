@@ -2288,6 +2288,70 @@
     "AI beauty assistant that takes voice or text prompts"
    ],
    "review": "YouCam Makeup is a selfie and makeup editor that lets you try lipstick, foundation, hairstyles and hair colours virtually before committing — popular in Pakistan for Instagram and TikTok profile pictures and wedding-season looks. Its live camera previews makeup in real time, and one-tap retouching cleans up skin, brightens smiles and reshapes photos. Pros: realistic virtual makeup previews before buying products, a huge hairstyle library, and quick one-tap retouching. Cons: the best AI features need a subscription, and heavy filters can look unnatural if overused. Best for anyone in Pakistan polishing selfies and trying a new look before a salon visit or event."
+  },
+  {
+   "name": "PomPak – Learn to Earn",
+   "slug": "pompak-learn-to-earn",
+   "developer": "State Bank of Pakistan",
+   "package": "com.knowledgeplatform.pompak",
+   "category": "education",
+   "review": "Pakistan's own financial-literacy game, built under the State Bank's National Financial Literacy Program for Youth. You follow two families growing a small business while completing 53 story-based modules on saving, banking and Islamic finance, in English or Urdu. It is completely free and ends with a real certificate — a genuinely useful pick for students aged 9 to 29. Note it has not been updated since 2024 and some users report server errors, so patience is needed.",
+   "features": [
+    "53 story-based financial literacy modules",
+    "Lessons in both English and Urdu",
+    "Covers saving, budgeting, banking and Islamic finance",
+    "Earn gems and upgrade buildings as you learn",
+    "Free certificate from a State Bank project on completion",
+    "Designed for ages 9 to 29"
+   ]
+  },
+  {
+   "name": "Notability: AI & PDF Notes",
+   "slug": "notability",
+   "developer": "Ginger Labs",
+   "package": "com.gingerlabs.notability",
+   "category": "utilities",
+   "review": "The award-winning note-taking app finally landed natively on Android in 2026, and it is a strong pick for Pakistani students and professionals with a stylus phone or tablet. Handwriting, PDF annotation, audio recording with live transcription and AI-generated quizzes and flashcards live in one notebook. The free tier is limited, and the full experience needs a subscription — but for lecture notes and exam prep, the ink quality and S Pen support are hard to beat.",
+   "features": [
+    "Handwritten notes with shape and handwriting recognition",
+    "Annotate PDFs, textbooks and lecture slides",
+    "Audio recording synced to your notes with transcription",
+    "Notability Learn: AI quizzes and flashcards from your notes",
+    "Samsung S Pen button support and custom paper templates",
+    "Syncs across Android, iOS and web"
+   ]
+  },
+  {
+   "name": "FlickReels - AI Story & Drama",
+   "slug": "flickreels",
+   "developer": "FARSUN PTE. LTD.",
+   "package": "com.zyhwplatform.shortplay",
+   "category": "entertainment",
+   "review": "One of the fastest-growing short-drama apps of 2026, with vertical episodes under five minutes built for bus rides and tea breaks. Romance, revenge, fantasy and CEO dramas from China, Korea and beyond arrive daily, with subtitles and dubbing in multiple languages. It is free to start, but unlocking episodes quickly costs coins or a subscription — the free route means watching ads. A fun, legal way to binge dramas without pirated sites.",
+   "features": [
+    "Vertical short dramas, each episode under 5 minutes",
+    "Romance, revenge, fantasy, CEO and family genres",
+    "Dramas from China, Korea, Japan, Spain and Thailand",
+    "Multi-language subtitles and dubbing",
+    "Daily new episodes and a personal watchlist",
+    "AI story creation to craft your own drama"
+   ]
+  },
+  {
+   "name": "Beautix - AI Hair Changer",
+   "slug": "beautix-ai-hair-changer",
+   "developer": "Growly",
+   "package": "life.growly.beautix",
+   "category": "photography",
+   "review": "Before your next salon visit, try the haircut on your own photo. Beautix uses AI to preview hairstyles and colours — curls, bobs, braids, fades and bold dyes — on a selfie in seconds, so you walk into the salon knowing exactly what to ask for. It is one of October 2026's trending photography apps, but be warned: the free tier is tight (about one free generation a day after the first tries) and ads pop up constantly.",
+   "features": [
+    "AI hairstyle previews on your own photo",
+    "Hair colour changer with realistic shades",
+    "Styles for every gender and hair type",
+    "Camera capture or gallery upload",
+    "Share results straight to social apps",
+    "Free to start, with daily free generations"
+   ]
   }
  ],
  "categories": [
@@ -2472,6 +2536,12 @@
    "title": "Best Camera & Filter Apps in Pakistan 2026",
    "excerpt": "Selfie cameras, AR filters and AI portraits — the apps Pakistanis actually use for Instagram, TikTok and WhatsApp display pictures.",
    "content": "1. Snapchat — still the filter king. Hundreds of AR lenses, streaks and Spotlight for creators; heavy on battery and data. Our review: /apps/snapchat/.\n2. SNOW — the filter library. Thousands of stickers and filters updated daily, plus AI profile photos for standout display pictures. Our review: /apps/snow-ai-profile/.\n3. FaceApp — the transformation app. Age filters, hairstyle swaps and AI looks that go viral every few months. Our review: /apps/faceapp/.\n4. YouCam Perfect — the beauty all-rounder. Object removal, body shaping and collage tools in one place. Our review: /apps/youcam-perfect/.\n5. Lensa — the AI portrait studio. AI avatars and pro-level selfie retouching for profile pictures that look shot in a studio. Our review: /apps/lensa-photo-editor/.\n6. B612 — the lightweight classic. Quick beauty filters and stickers that run fine on budget phones. Our review: /apps/b612-ai-photo-video-editor/.\n7. Pick by need: fun filters with friends = Snapchat or SNOW, a viral transformation = FaceApp, a polished profile picture = Lensa, and everyday beauty edits on a slow phone = B612. All are free to start on the Play Store; the fanciest AI features are usually subscription extras, so try the free tier first."
+  },
+  {
+   "slug": "best-short-drama-apps-pakistan",
+   "title": "Best Short Drama Apps in Pakistan 2026",
+   "excerpt": "Vertical mini-dramas are Pakistan's new binge habit — these are the best legal apps to watch them, free to start.",
+   "content": "1. FlickReels — the biggest library. Thousands of vertical dramas across romance, revenge and fantasy, with subtitles and daily new episodes; free to start, coins or subscription unlock faster. Our review: /apps/flickreels/.\n2. DramaGo — the short-drama specialist. Bite-size series built for quick sessions on budget phones and slow connections. Our review: /apps/dramago/.\n3. Moj — dramas plus reels. Short dramas sit alongside short videos and creator content, so one app covers both moods. Our review: /apps/moj/.\n4. Viu — the premium drama home. Korean, Turkish and Pakistani dramas and TV shows with proper subtitles, alongside its short-form picks. Our review: /apps/viu-dramas-movies/.\n5. myco — the Pakistani pick. Live cricket and PSL plus local entertainment, all free with ads and no subscription needed. Our review: /apps/myco/.\n6. Watch legally, skip piracy. Pirated drama sites and modded APKs are the fastest way to get malware on a Pakistani phone — every app above is on the Play Store and free to start. Try the free tier first: the fanciest episodes are usually behind coins or a subscription, so binge the free episodes before paying anything."
   }
  ]
 }
