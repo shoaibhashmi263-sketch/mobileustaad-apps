@@ -2417,6 +2417,70 @@
    "package": "com.xt.retouchoversea",
    "review": "From the makers of CapCut, Hypic is the AI photo editor behind many of the stylised selfies and profile pictures flooding Pakistani Instagram and TikTok feeds. One tap turns a plain selfie into artwork, a cartoon or a polished portrait, and batch editing makes it handy for small sellers photographing products too. Be aware that many of the best effects sit behind a subscription, and free users report paywalls on saving — so try the free tools first and only subscribe if you edit photos daily.",
    "slug": "hypic"
+  },
+  {
+   "category": "entertainment",
+   "developer": "CMPak - Zong",
+   "features": [
+    "40+ live TV channels: news, music, cartoons and entertainment",
+    "7-day rewind playback to catch missed shows",
+    "Picture-in-picture mode for watching while doing other tasks",
+    "Watch and record favourite shows at the same time",
+    "Adaptive streaming that adjusts to slow mobile data",
+    "Daily 1 hour free streaming on Zong data, unlimited on Wi-Fi"
+   ],
+   "name": "Zong TV: News, Shows, Dramas",
+   "package": "com.convex.zongtv",
+   "review": "Zong's own live-TV app puts 40+ Pakistani channels, dramas and movies on one screen, with a 7-day rewind feature that rescues you when you miss a favourite show. It works over Wi-Fi or Zong data, with a free daily hour on Zong and paid daily, weekly and monthly bundles beyond that, so check which bundle suits you before streaming all day on mobile data. Best for Zong users who want live TV without a separate cable or dish subscription.",
+   "slug": "zong-tv"
+  },
+  {
+   "category": "entertainment",
+   "developer": "IDEATION",
+   "features": [
+    "Original Pakistani web series, shows and comedy programmes",
+    "Exclusive celebrity interviews and stand-up comedy",
+    "Free original content alongside a subscription tier",
+    "HD streaming with ad-free viewing on subscription",
+    "Lightweight app that runs well on budget phones",
+    "New originals added regularly from Pakistani writers and directors"
+   ],
+   "name": "Deikho",
+   "package": "com.jazz.pakistani.drama.videos.deikho",
+   "review": "Jazz's Deikho is Pakistan's home-grown originals platform: web series, comedy shows and celebrity interviews made locally, rather than imported catalogues. Much of the comedy and free original content costs nothing, while full HD ad-free viewing sits behind a low-priced subscription, so try the free shows first. A good pick for viewers who want Pakistani stories and humour in short, phone-friendly episodes.",
+   "slug": "deikho"
+  },
+  {
+   "category": "entertainment",
+   "developer": "VIDLY (SMC-PRIVATE) LIMITED",
+   "features": [
+    "Pakistani movies, dramas and music in one catalogue",
+    "Classic old Pakistani dramas alongside new titles",
+    "Turkish series and genre-browsing by mood",
+    "My List watchlist and QR login on TV",
+    "Watch on Android, iOS and web from one account",
+    "Exclusive titles available only on Vidly"
+   ],
+   "name": "Vidly.tv: Pakistani Movies",
+   "package": "com.rockvillegroup.vidly",
+   "review": "Vidly is a Pakistani OTT platform built around local content: new and classic Pakistani movies and dramas, plus Turkish series, all sorted by genre. It is one of the few places to find older Pakistani dramas in full, which is its real edge over the big international services. One honest warning from Play Store reviews: check any carrier-billing subscription carefully and confirm how to cancel before subscribing, as some users report unwanted balance deductions.",
+   "slug": "vidly-tv"
+  },
+  {
+   "category": "photography",
+   "developer": "Nuclear Man",
+   "features": [
+    "AI background removal with clean edges in a few taps",
+    "AI background changer with ready-made templates",
+    "Pro camera controls: ISO, shutter speed, white balance and EV",
+    "Filters plus brightness, contrast, saturation and warmth tuning",
+    "Short vertical video and looping boomerang clips",
+    "Portrait and product cutouts for profiles and online selling"
+   ],
+   "name": "Snaptou: AI Photo Editor",
+   "package": "com.ai.photo.editor.collage.retouch",
+   "review": "Snaptou is September 2026's breakout AI photo editor: it removes a messy background automatically and drops in a cleaner one, then lets you fine-tune colour and framing before posting. The built-in pro camera with manual ISO, shutter speed and white balance makes it more than a filter app, and product cutouts are genuinely useful for small sellers photographing items for WhatsApp or Daraz. It is still a young app, so expect the odd rough edge, but for quick, share-ready edits it is already one of the fastest options on Play.",
+   "slug": "snaptou"
   }
  ],
  "categories": [
@@ -2607,6 +2671,12 @@
    "excerpt": "Vertical mini-dramas are Pakistan's new binge habit — these are the best legal apps to watch them, free to start.",
    "slug": "best-short-drama-apps-pakistan",
    "title": "Best Short Drama Apps in Pakistan 2026"
+  },
+  {
+   "content": "1. Tamasha — the all-rounder. Live Pakistani TV channels, sports highlights, on-demand shows and podcasts in one app, free to start. Our review: /apps/tamasha/.\n2. ARY ZAP — the drama home (now ARY Plus). Live ARY channels, dramas and sports from Pakistan's biggest private network. Our review: /apps/ary-zap/.\n3. Zong TV — the telecom pick. 40+ live channels with 7-day rewind and picture-in-picture; a free daily hour on Zong data, unlimited on Wi-Fi. Our review: /apps/zong-tv/.\n4. tapmad — the sports pick. Live sports and entertainment channels, popular during cricket season. Our review: /apps/tapmad-live-sports/.\n5. Deikho — the originals pick. Jazz's home-grown web series, comedy shows and celebrity interviews, much of it free. Our review: /apps/deikho/.\n6. Vidly.tv — the Pakistani-movies pick. Local films, classic dramas and Turkish series, with a watchlist and TV login. Our review: /apps/vidly-tv/.\n7. Watch legally, check subscriptions. Every app above is on the Play Store — skip pirated live-TV APKs, which are a top source of malware on Pakistani phones. Before enabling carrier billing, check the price and how to cancel; free tiers cover most daily viewing.",
+   "excerpt": "Live Pakistani channels, dramas, sports and local originals — the best legal free-to-start apps, and what to check before subscribing.",
+   "slug": "best-live-tv-apps-pakistan",
+   "title": "Best Live TV Apps in Pakistan 2026"
   }
  ]
 }
