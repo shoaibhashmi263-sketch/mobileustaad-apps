@@ -2481,6 +2481,68 @@
    "package": "com.ai.photo.editor.collage.retouch",
    "review": "Snaptou is September 2026's breakout AI photo editor: it removes a messy background automatically and drops in a cleaner one, then lets you fine-tune colour and framing before posting. The built-in pro camera with manual ISO, shutter speed and white balance makes it more than a filter app, and product cutouts are genuinely useful for small sellers photographing items for WhatsApp or Daraz. It is still a young app, so expect the odd rough edge, but for quick, share-ready edits it is already one of the fastest options on Play.",
    "slug": "snaptou"
+  },
+  {
+   "category": "creativity",
+   "developer": "KineMaster Corp.",
+   "features": [
+    "Multi-layer timeline with keyframe animation",
+    "AI auto captions, text-to-speech and background removal",
+    "Chroma key (green screen) and speed control",
+    "Thousands of templates, effects, stickers and music tracks",
+    "4K 60fps export sized for YouTube, TikTok and Instagram"
+   ],
+   "name": "KineMaster - AI Video Editor",
+   "package": "com.nexstreaming.app.kinemasterfree",
+   "slug": "kinemaster",
+   "review": "KineMaster has long been the serious editor behind many Pakistani YouTube and TikTok channels, and its newer AI tools make it faster than ever. Auto captions, background removal and voice tools cut the boring work, while the multi-layer timeline and keyframes still give creators full control over the final look. Pros: pro-level tools on a phone, a huge asset store of effects and music, and 4K export. Cons: the free version watermarks exports and locks some assets behind subscription, and the full toolset takes a few days to learn. Best for creators who have outgrown simple trimmers and want reels and vlogs that look properly edited."
+  },
+  {
+   "category": "creativity",
+   "developer": "Cyberlink Corp",
+   "features": [
+    "AI Auto Edit turns clips into polished videos with templates",
+    "AI text-to-video and video edit by chat",
+    "Multi-track timeline with motion titles and transitions",
+    "Royalty-free stock library with music, footage and images",
+    "4K export optimised for TikTok, Reels and Shorts"
+   ],
+   "name": "PowerDirector - Video Editor",
+   "package": "com.cyberlink.powerdirector.DRA140225_01",
+   "slug": "powerdirector",
+   "review": "PowerDirector brings desktop-style editing power to Android, and it is a Google Editors' Choice for a reason. Its AI Auto Edit picks the best moments from your clips and assembles them into a share-ready video, while the full timeline is there when you want to take control yourself. Pros: genuinely powerful editing plus a huge stock library, fast template workflow for Shorts and Reels, and polished 4K output. Cons: the best features sit behind a pricey subscription, and the app is heavy on older phones. Best for Pakistani creators who edit daily and want one editor that handles both quick templates and serious projects."
+  },
+  {
+   "category": "photography",
+   "developer": "Adobe Inc.",
+   "features": [
+    "One-tap Quick Actions and AI Adaptive Presets",
+    "Generative Remove erases unwanted objects from photos",
+    "Background blur for polished portraits",
+    "Film filter presets and full colour grading controls",
+    "Batch edits so a whole shoot keeps one consistent look",
+    "Video editing with light, colour and presets"
+   ],
+   "name": "Lightroom Photo Editor",
+   "package": "com.adobe.lrmobile",
+   "slug": "lightroom",
+   "review": "Adobe Lightroom is the photo editor for Pakistanis who want their pictures to look intentional, not just filtered. One-tap presets fix a dull photo in seconds, while exposure, colour grading and Generative Remove give patient editors real control — and batch editing keeps a whole event album looking consistent. Pros: professional-quality tools with a friendly free tier, presets shared by creators worldwide, and sync across phone and desktop. Cons: some AI features need a paid plan, and the sheer number of sliders can overwhelm beginners. Best for photographers, small sellers and creators who care how their photos look on Instagram and WhatsApp catalogues."
+  },
+  {
+   "category": "photography",
+   "developer": "Pixocial",
+   "features": [
+    "HD beauty camera with makeup filters and face retouch",
+    "AI Anime camera and AI Avatars from your selfies",
+    "Photo enhancer that unblurs and restores old photos",
+    "Background eraser and blur for clean cutouts",
+    "300+ designer fonts, stickers and filters",
+    "Video editor with filters, music and face tune"
+   ],
+   "name": "BeautyPlus - Selfie Photo Editor",
+   "package": "com.commsource.beautyplus",
+   "slug": "beautyplus",
+   "review": "BeautyPlus is the selfie-first editor in the Snapchat style that stays hugely popular with young Pakistani users: a beauty camera, makeup filters, AI anime looks and one-tap retouch, all in a single app. It is built for the photo you post, not the photo you archive — sweet selfies, polished profile pictures and fun AI avatars in minutes. Pros: very easy results with no editing skill, a huge filter and sticker library, and a capable video editor built in. Cons: the best filters and the ad-free experience need Premium, and heavy retouching can look unnatural. Best for selfie lovers and casual creators who want share-ready photos fast."
   }
  ],
  "categories": [
