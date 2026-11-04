@@ -2543,6 +2543,66 @@
    "package": "com.commsource.beautyplus",
    "slug": "beautyplus",
    "review": "BeautyPlus is the selfie-first editor in the Snapchat style that stays hugely popular with young Pakistani users: a beauty camera, makeup filters, AI anime looks and one-tap retouch, all in a single app. It is built for the photo you post, not the photo you archive — sweet selfies, polished profile pictures and fun AI avatars in minutes. Pros: very easy results with no editing skill, a huge filter and sticker library, and a capable video editor built in. Cons: the best filters and the ad-free experience need Premium, and heavy retouching can look unnatural. Best for selfie lovers and casual creators who want share-ready photos fast."
+  },
+  {
+   "category": "utilities",
+   "developer": "Pakistan Telecommunication Authority - PTA",
+   "features": [
+    "IMEI status check — PTA-approved, non-PTA or blocked",
+    "Barcode scanner for IMEI instead of typing",
+    "No login or account needed",
+    "English and Urdu interface",
+    "Real-time results from the official DIRBS system"
+   ],
+   "name": "PTA DVS",
+   "package": "pk.gov.dirbs.dvs_public_pta",
+   "review": "The Pakistan Telecommunication Authority's official app for checking whether a phone is PTA-approved before you buy it. Type the 15-digit IMEI (dial *#06# to find it) or scan its barcode, and the app instantly reports PTA-approved, non-PTA or blocked status from the official DIRBS database. Pros: official source with no login or data collection, tiny 7MB size, and Urdu support. Cons: it only checks status — registration and tax payment still go through the DIRBS portal, and it has not been updated since February 2025. Best for anyone buying a used or imported phone in Pakistan, plus shopkeepers who verify handsets daily.",
+   "slug": "pta-dvs"
+  },
+  {
+   "category": "entertainment",
+   "developer": "STORYMATRIX PTE. LTD.",
+   "features": [
+    "Thousands of original short dramas and mini-series",
+    "Vertical episodes made for phone viewing",
+    "Genre browsing with a personal watchlist",
+    "Frequent new-episode updates",
+    "Free to start with optional subscription"
+   ],
+   "name": "DramaBox - Stream Drama Shorts",
+   "package": "com.storymatrix.drama",
+   "review": "One of the world's biggest short-drama apps, and a top-grossing entertainment app in Pakistan — bite-size drama episodes in vertical format, perfect for commutes and chai breaks. Its library of exclusive originals spans romance, revenge, family and thriller stories, with new episodes landing constantly. Pros: huge original catalogue, polished playback, and free episodes to start. Cons: the best content sits behind a pricey weekly subscription, and free viewing is interrupted by ads. Best for drama lovers who want quick, addictive episodes instead of hour-long TV serials.",
+   "slug": "dramabox"
+  },
+  {
+   "category": "photography",
+   "developer": "Meitu (China) Limited",
+   "features": [
+    "200+ filters plus viral AI flash and retro camera looks",
+    "One-tap object remover and background remover",
+    "AI art effects that turn portraits into illustrations",
+    "Beauty camera with real-time retouch for selfies",
+    "Built-in video editor with retouch and watermark remover"
+   ],
+   "name": "Meitu - Photo & Video Editor",
+   "package": "com.mt.mtxx.mtxx",
+   "review": "The all-in-one photo and video editor behind many of the polished selfies on Pakistani Instagram and TikTok. Meitu combines a beauty camera, 200+ filters, AI art styles and a capable video editor in a single app, so one install covers profile pictures, reels and vlog clips. Pros: genuinely powerful free tools, one-tap object removal, and a huge filter library. Cons: the free version pushes ads hard, and the best materials sit behind a costly VIP subscription. Best for creators and selfie lovers who want studio-style edits without juggling three separate apps.",
+   "slug": "meitu"
+  },
+  {
+   "category": "utilities",
+   "developer": "1DM",
+   "features": [
+    "Multi-part downloads up to 16 parts for faster speeds",
+    "Pause and resume with smart error handling",
+    "Built-in ad-blocking privacy browser",
+    "Torrent downloads via magnet links or files",
+    "Batch downloader and website grabber"
+   ],
+   "name": "1DM: Browser & Video Download",
+   "package": "idm.internet.download.manager",
+   "review": "A download manager and browser in one, built for Pakistan's patchy mobile networks: if a download breaks mid-way, 1DM resumes it instead of starting over. It splits files into parts for faster speeds, grabs videos, music and documents from the web through its built-in browser, and even handles torrents. Pros: excellent pause/resume and error recovery, low RAM use, and a built-in ad blocker. Cons: it cannot download from YouTube, and the interface looks dated next to modern browsers. Best for students and downloaders who regularly fetch large files over slow or unstable connections.",
+   "slug": "1dm-browser-video-download"
   }
  ],
  "categories": [
@@ -2739,6 +2799,12 @@
    "excerpt": "Live Pakistani channels, dramas, sports and local originals — the best legal free-to-start apps, and what to check before subscribing.",
    "slug": "best-live-tv-apps-pakistan",
    "title": "Best Live TV Apps in Pakistan 2026"
+  },
+  {
+   "content": "1. Snapseed — the free pro pick. Google's editor with selective edits, healing and RAW support, and no ads at all. Our review: /apps/snapseed/.\n2. Picsart — the creative all-rounder. AI effects, collages and sticker tools for social posts; free tier is generous. Our review: /apps/picsart/.\n3. Lightroom — the serious photographer's pick. Presets, pro colour controls and cloud sync for consistent, polished photos. Our review: /apps/lightroom/.\n4. Meitu — the selfie specialist. Beauty camera, 200+ filters, AI art styles and a built-in video editor in one app. Our review: /apps/meitu/.\n5. BeautyPlus — the quick selfie fix. One-tap beautify, filters and slimming tools for profile pictures in seconds. Our review: /apps/beautyplus/.\n6. Remini — the photo restorer. AI enhancement that sharpens blurry, old or low-light shots into shareable quality. Our review: /apps/remini/.\n7. Lensa — the AI portrait pick. Artistic avatar styles and magic retouch for standout profile photos. Our review: /apps/lensa-photo-editor/.\n8. FaceApp — the fun transformer. Age, hairstyle and gender-swap filters that still go viral on Pakistani social feeds. Our review: /apps/faceapp/.\n9. Start free, pay only if you need it. Every app above works free on the Play Store; subscribe only after the free tools stop being enough, and check what a subscription renews at before paying.",
+   "excerpt": "Free pro editors, selfie specialists and AI restorers — the best photo editing apps for Pakistani Android phones, all on the Play Store.",
+   "slug": "best-photo-editing-apps-pakistan",
+   "title": "Best Photo Editing Apps in Pakistan 2026"
   }
  ]
 }
