@@ -2494,8 +2494,8 @@
    ],
    "name": "KineMaster - AI Video Editor",
    "package": "com.nexstreaming.app.kinemasterfree",
-   "slug": "kinemaster",
-   "review": "KineMaster has long been the serious editor behind many Pakistani YouTube and TikTok channels, and its newer AI tools make it faster than ever. Auto captions, background removal and voice tools cut the boring work, while the multi-layer timeline and keyframes still give creators full control over the final look. Pros: pro-level tools on a phone, a huge asset store of effects and music, and 4K export. Cons: the free version watermarks exports and locks some assets behind subscription, and the full toolset takes a few days to learn. Best for creators who have outgrown simple trimmers and want reels and vlogs that look properly edited."
+   "review": "KineMaster has long been the serious editor behind many Pakistani YouTube and TikTok channels, and its newer AI tools make it faster than ever. Auto captions, background removal and voice tools cut the boring work, while the multi-layer timeline and keyframes still give creators full control over the final look. Pros: pro-level tools on a phone, a huge asset store of effects and music, and 4K export. Cons: the free version watermarks exports and locks some assets behind subscription, and the full toolset takes a few days to learn. Best for creators who have outgrown simple trimmers and want reels and vlogs that look properly edited.",
+   "slug": "kinemaster"
   },
   {
    "category": "creativity",
@@ -2509,8 +2509,8 @@
    ],
    "name": "PowerDirector - Video Editor",
    "package": "com.cyberlink.powerdirector.DRA140225_01",
-   "slug": "powerdirector",
-   "review": "PowerDirector brings desktop-style editing power to Android, and it is a Google Editors' Choice for a reason. Its AI Auto Edit picks the best moments from your clips and assembles them into a share-ready video, while the full timeline is there when you want to take control yourself. Pros: genuinely powerful editing plus a huge stock library, fast template workflow for Shorts and Reels, and polished 4K output. Cons: the best features sit behind a pricey subscription, and the app is heavy on older phones. Best for Pakistani creators who edit daily and want one editor that handles both quick templates and serious projects."
+   "review": "PowerDirector brings desktop-style editing power to Android, and it is a Google Editors' Choice for a reason. Its AI Auto Edit picks the best moments from your clips and assembles them into a share-ready video, while the full timeline is there when you want to take control yourself. Pros: genuinely powerful editing plus a huge stock library, fast template workflow for Shorts and Reels, and polished 4K output. Cons: the best features sit behind a pricey subscription, and the app is heavy on older phones. Best for Pakistani creators who edit daily and want one editor that handles both quick templates and serious projects.",
+   "slug": "powerdirector"
   },
   {
    "category": "photography",
@@ -2525,8 +2525,8 @@
    ],
    "name": "Lightroom Photo Editor",
    "package": "com.adobe.lrmobile",
-   "slug": "lightroom",
-   "review": "Adobe Lightroom is the photo editor for Pakistanis who want their pictures to look intentional, not just filtered. One-tap presets fix a dull photo in seconds, while exposure, colour grading and Generative Remove give patient editors real control — and batch editing keeps a whole event album looking consistent. Pros: professional-quality tools with a friendly free tier, presets shared by creators worldwide, and sync across phone and desktop. Cons: some AI features need a paid plan, and the sheer number of sliders can overwhelm beginners. Best for photographers, small sellers and creators who care how their photos look on Instagram and WhatsApp catalogues."
+   "review": "Adobe Lightroom is the photo editor for Pakistanis who want their pictures to look intentional, not just filtered. One-tap presets fix a dull photo in seconds, while exposure, colour grading and Generative Remove give patient editors real control — and batch editing keeps a whole event album looking consistent. Pros: professional-quality tools with a friendly free tier, presets shared by creators worldwide, and sync across phone and desktop. Cons: some AI features need a paid plan, and the sheer number of sliders can overwhelm beginners. Best for photographers, small sellers and creators who care how their photos look on Instagram and WhatsApp catalogues.",
+   "slug": "lightroom"
   },
   {
    "category": "photography",
@@ -2541,8 +2541,8 @@
    ],
    "name": "BeautyPlus - Selfie Photo Editor",
    "package": "com.commsource.beautyplus",
-   "slug": "beautyplus",
-   "review": "BeautyPlus is the selfie-first editor in the Snapchat style that stays hugely popular with young Pakistani users: a beauty camera, makeup filters, AI anime looks and one-tap retouch, all in a single app. It is built for the photo you post, not the photo you archive — sweet selfies, polished profile pictures and fun AI avatars in minutes. Pros: very easy results with no editing skill, a huge filter and sticker library, and a capable video editor built in. Cons: the best filters and the ad-free experience need Premium, and heavy retouching can look unnatural. Best for selfie lovers and casual creators who want share-ready photos fast."
+   "review": "BeautyPlus is the selfie-first editor in the Snapchat style that stays hugely popular with young Pakistani users: a beauty camera, makeup filters, AI anime looks and one-tap retouch, all in a single app. It is built for the photo you post, not the photo you archive — sweet selfies, polished profile pictures and fun AI avatars in minutes. Pros: very easy results with no editing skill, a huge filter and sticker library, and a capable video editor built in. Cons: the best filters and the ad-free experience need Premium, and heavy retouching can look unnatural. Best for selfie lovers and casual creators who want share-ready photos fast.",
+   "slug": "beautyplus"
   },
   {
    "category": "utilities",
@@ -2724,6 +2724,66 @@
    "package": "com.tempo.shortdrama.dramify.reels",
    "review": "A brand-new short-drama app from October 2026 that already passed 100,000 installs in its first nine days, riding the vertical-drama wave in Pakistan. Episodes run a minute or two, so a whole revenge or romance arc fits into a commute. Pros: fresh library with daily updates, light 20MB download that suits budget phones, free to start. Cons: as a very new app it holds only a 3.0-star early rating, and the best episodes sit behind coins or a subscription. Best for short-drama fans who have finished DramaBox and DramaGo and want a new library to binge.",
    "slug": "dramify-short-drama-reels"
+  },
+  {
+   "category": "finance",
+   "developer": "Prodege",
+   "features": [
+    "Paid surveys that pay in SB points for your opinions",
+    "Play casual games and earn rewards for reaching milestones",
+    "Cash out via gift cards or PayPal once you hit the threshold",
+    "Daily polls, trivia and discovery offers for extra points",
+    "Referral bonuses when friends sign up and earn"
+   ],
+   "name": "Swagbucks",
+   "package": "com.prodege.swagbucksmobile",
+   "review": "One of the oldest names in online earning — Swagbucks pays you in points for surveys, games and small tasks, and it holds a 4.2-star rating from over 449,000 reviews with 10M+ installs. It is a genuine platform, not a get-rich-quick scheme: expect small, steady rewards for spare-time effort, not a salary. Pros: long-running and legit with a huge user base, many ways to earn in one app, and a low cash-out bar compared with most rivals. Cons: payouts are in USD gift cards or PayPal, not JazzCash or Easypaisa, and survey availability for Pakistani users can be patchy. Best for students and anyone with free time who wants a trustworthy side-earning app and can cash out through PayPal or gift cards.",
+   "slug": "swagbucks"
+  },
+  {
+   "category": "entertainment",
+   "developer": "SKYWORK AI PTE.LTD.",
+   "features": [
+    "30,000+ vertical short dramas across 23 languages",
+    "Romance, revenge, CEO and fantasy storylines in 1-5 minute episodes",
+    "Swipe-up full-screen player built for phones",
+    "Offline downloads and subtitles on many titles",
+    "Daily new episodes and personalised recommendations"
+   ],
+   "name": "DramaWave - Dramas & Reels",
+   "package": "com.dramawave.app",
+   "review": "The biggest short-drama app on the Play Store — DramaWave passed 100M downloads with a 4.5-star rating and was updated on Nov 5, 2026. Its library of 30,000+ bite-size vertical dramas is made for exactly how Pakistanis watch on their phones: one episode at a time, on the bus or during a tea break. Pros: huge catalogue with new episodes daily, smooth vertical player, and subtitles on many titles. Cons: full storylines sit behind coins or a subscription, and ads interrupt free viewing. Best for drama fans who want the DramaBox-style short-drama fix with a much deeper library.",
+   "slug": "dramawave"
+  },
+  {
+   "category": "entertainment",
+   "developer": "T9Studio",
+   "features": [
+    "Original manga, manhwa and webtoon-style comics across genres",
+    "Trending and new-release discovery feeds",
+    "Smooth chapter reading with resume-where-you-left-off",
+    "Personal library to save favourites and track progress",
+    "Guest mode — read without creating an account"
+   ],
+   "name": "Manori: Manga & Comics",
+   "package": "com.manga.most.app",
+   "review": "The fastest-growing app on Google Play this week — installs jumped 51 times week-on-week as readers discovered its library of original comics, passing 500,000 installs since its August 2026 launch. Manori covers action, fantasy, romance and mystery in a clean mobile reader that remembers exactly where you stopped. Pros: fresh original stories you will not find on the big manga apps, light 21MB download, and guest mode with no forced sign-up. Cons: the 3.25-star rating reflects heavy ads and occasional missing pages that users report, and the catalogue is still small. Best for manga and manhwa fans in Pakistan looking for new stories beyond the usual big-name apps.",
+   "slug": "manori-manga-comics"
+  },
+  {
+   "category": "gaming",
+   "developer": "Zamsolutions",
+   "features": [
+    "Realistic Prado parking challenges with tight-space missions",
+    "Driving school mode to learn controls and road rules",
+    "Police chase mode with high-speed pursuits",
+    "Multiple luxury SUVs and Prados to unlock and customise",
+    "Fully offline play — no internet needed"
+   ],
+   "name": "Prado Parking Game: Car Games",
+   "package": "com.zams.car.parking.game",
+   "review": "A parking simulator built around Pakistan's favourite SUV — the Prado — and it shows in the numbers: 23M installs, a 4.5-star rating, and a fresh update on Oct 9, 2026. You park, drift and chase through three modes (parking, driving school and police chase), and the whole game works offline, which matters on Pakistani mobile data. Pros: genuinely fun precision driving, offline play, and the Prado theme that local players love. Cons: ads appear between sessions, and progress speeds up with in-app purchases. Best for casual gamers who love cars and want a light, offline driving game for their commute.",
+   "slug": "prado-parking-game"
   }
  ],
  "categories": [
@@ -2928,10 +2988,10 @@
    "title": "Best Photo Editing Apps in Pakistan 2026"
   },
   {
-   "slug": "best-pakistani-drama-apps",
-   "title": "Best Apps to Watch Pakistani Dramas 2026",
+   "content": "1. HUM TV — the official HUM Network app: live HUM TV plus drama catch-up, the natural first stop for Hum dramas. Our review: /apps/hum-tv/.\n2. ARY ZAP — ARY's official app: live ARY Digital and A Sports HD with a full drama archive; free tier works well. Our review: /apps/ary-zap/.\n3. Tamasha — Pakistan's biggest free streaming app: live dramas, cricket and movies with a generous free plan. Our review: /apps/tamasha/.\n4. myco — the Pakistani all-rounder: free live sports and dramas with ads, no subscription needed. Our review: /apps/myco/.\n5. Deikho — drama-focused streaming with Pakistani and international shows, free to start. Our review: /apps/deikho/.\n6. Zong TV — Zong's own TV app: live channels and dramas, handy if you are on Zong data. Our review: /apps/zong-tv/.\n7. tapmad — live TV plus sports and dramas, with premium packs for PSL and big matches. Our review: /apps/tapmad-live-sports/.\n8. Stick to official apps: drama APKs from random sites are the top malware source on Pakistani phones — every app above is on the Play Store. Download episodes on Wi-Fi where the app allows it, and use 480p on mobile data to save your package.\n",
    "excerpt": "HUM TV, ARY, Tamasha and more — the official apps to stream Pakistani dramas live and on demand, free or freemium.",
-   "content": "1. HUM TV — the official HUM Network app: live HUM TV plus drama catch-up, the natural first stop for Hum dramas. Our review: /apps/hum-tv/.\n2. ARY ZAP — ARY's official app: live ARY Digital and A Sports HD with a full drama archive; free tier works well. Our review: /apps/ary-zap/.\n3. Tamasha — Pakistan's biggest free streaming app: live dramas, cricket and movies with a generous free plan. Our review: /apps/tamasha/.\n4. myco — the Pakistani all-rounder: free live sports and dramas with ads, no subscription needed. Our review: /apps/myco/.\n5. Deikho — drama-focused streaming with Pakistani and international shows, free to start. Our review: /apps/deikho/.\n6. Zong TV — Zong's own TV app: live channels and dramas, handy if you are on Zong data. Our review: /apps/zong-tv/.\n7. tapmad — live TV plus sports and dramas, with premium packs for PSL and big matches. Our review: /apps/tapmad-live-sports/.\n8. Stick to official apps: drama APKs from random sites are the top malware source on Pakistani phones — every app above is on the Play Store. Download episodes on Wi-Fi where the app allows it, and use 480p on mobile data to save your package.\n"
+   "slug": "best-pakistani-drama-apps",
+   "title": "Best Apps to Watch Pakistani Dramas 2026"
   }
  ]
 }
