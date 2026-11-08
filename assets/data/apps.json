@@ -2784,6 +2784,66 @@
    "package": "com.zams.car.parking.game",
    "review": "A parking simulator built around Pakistan's favourite SUV — the Prado — and it shows in the numbers: 23M installs, a 4.5-star rating, and a fresh update on Oct 9, 2026. You park, drift and chase through three modes (parking, driving school and police chase), and the whole game works offline, which matters on Pakistani mobile data. Pros: genuinely fun precision driving, offline play, and the Prado theme that local players love. Cons: ads appear between sessions, and progress speeds up with in-app purchases. Best for casual gamers who love cars and want a light, offline driving game for their commute.",
    "slug": "prado-parking-game"
+  },
+  {
+   "category": "utilities",
+   "developer": "Luvasa Distro",
+   "features": [
+    "Scan and clean junk files, cache and leftovers from apps",
+    "See which apps run in the background and close the ones you do not need",
+    "Compress photos to save space while keeping image quality",
+    "Clear old or unwanted notifications in one place",
+    "Simple one-tap cleanup dashboard — no tech knowledge needed"
+   ],
+   "name": "Phone Clean Fix",
+   "package": "com.luvasadistro.phoneclean.storage",
+   "review": "The fastest-rising cleaner on Google Play right now — Phone Clean Fix hit #1 in Top New Free Tools in the US, Canada, Germany, France and Australia within two weeks of its October 2026 launch, passing 280,000 installs with a 4.1-star rating. It bundles junk cleaning, a background-app closer, a photo compressor and a notification clearer in one light 42MB app, which is exactly what budget phones with 64GB or 128GB storage in Pakistan need. Pros: genuinely useful all-in-one cleanup, light and fast, and free with no forced sign-up. Cons: it is brand new, so long-term reliability is unproven, and rival cleaners offer deeper battery and cache tools. Best for anyone whose phone keeps flashing 'storage full' and wants a simple, free cleanup app.",
+   "slug": "phone-clean-fix"
+  },
+  {
+   "category": "gaming",
+   "developer": "TRANSPORT HOSPITAL GAME",
+   "features": [
+    "Classic 2D nuts-and-bolts puzzle with 350+ levels",
+    "New 3D mode — spin real toy and crate models and unscrew them piece by piece",
+    "400+ handcrafted and generated levels with rising difficulty",
+    "Boosters: Hammer, Magnet, Undo and Shuffle when you get stuck",
+    "Chapters with star goals, treasure chests and screw skins to collect"
+   ],
+   "name": "Unscrew Bolts: Screw Puzzle 3D",
+   "package": "com.unscrew.boltspuzzle",
+   "review": "The #1 trending app on Google Play this week — installs jumped 43 times week-on-week as the screw-puzzle craze found a new favourite, now at 1.6 million installs with a 4.0-star rating and a fresh update on Nov 2, 2026. You tap screws to drop wooden plates in classic 2D boards, then spin 3D toys and crates to find hidden bolts, with 400+ levels and boosters for the tricky ones. It is a perfect tea-break game: short rounds, no skill curve to learn, and it runs offline. Pros: two game modes in one, satisfying physics and sound, and genuinely free to start. Cons: users report heavy ads, including ads on opening the game, and later levels push in-app purchases. Best for casual puzzle players in Pakistan who want a quick, relaxing brain teaser between tasks.",
+   "slug": "unscrew-bolts-screw-puzzle-3d"
+  },
+  {
+   "category": "social",
+   "developer": "Meta Platforms, Inc.",
+   "features": [
+    "Daily priorities mapped out — what to post and what to fix first",
+    "Personalised AI tips to grow your Facebook page or profile",
+    "AI-assisted replies to fans that still sound like you",
+    "Content performance insights in one dashboard",
+    "Built for Facebook creators, pages and Reels"
+   ],
+   "name": "Facebook Creator Studio",
+   "package": "com.facebook.pronest",
+   "review": "Meta's brand-new creator app, launched October 2026 and already at 370,000 installs with a 4.6-star rating — #1 in Top New Free Social in India. It is an AI-powered daily companion for Facebook creators: it maps out your priorities, suggests how to grow, and drafts replies to fans so you can answer comments faster. That matters in Pakistan, where thousands of creators earn from Facebook Reels and pages and replying to every comment is half the job. Pros: official Meta app with no ads, genuinely useful AI tips, and free. Cons: it is only a month old so features are still basic, and some users report session-expiry and draft-reply bugs. Best for Pakistani Facebook creators and page admins who want to grow their audience and handle fan comments faster.",
+   "slug": "facebook-creator-studio"
+  },
+  {
+   "category": "entertainment",
+   "developer": "NETSTORY PTE. LTD.",
+   "features": [
+    "Vertical short dramas in 1-5 minute episodes — CEO romance, revenge, fantasy and mystery",
+    "New episodes every day across a large original catalogue",
+    "Free opening episodes with ads; VIP or coins unlock full stories",
+    "Offline downloads for supported titles",
+    "Favourites, watch history and subtitles on many shows"
+   ],
+   "name": "NetShort - Popular Dramas & TV",
+   "package": "com.netshort.abroad",
+   "review": "One of the biggest short-drama apps on the Play Store — NetShort passed 100 million installs with a 4.6-star rating from 1.1 million reviews and was updated on Oct 30, 2026. It streams vertical dramas made for phones: CEO romance, werewolf love, revenge and family secrets in bite-size episodes with new ones daily, and the free opening episodes plus ad rewards mean you can watch a lot without paying. Pros: huge catalogue with daily updates, smooth vertical player, and offline downloads. Cons: full storylines sit behind VIP or coins, and the in-app purchase range goes very high, so set a spending limit. Best for drama fans in Pakistan who loved DramaBox and DramaWave and want another big short-drama library.",
+   "slug": "netshort"
   }
  ],
  "categories": [
@@ -2992,6 +3052,12 @@
    "excerpt": "HUM TV, ARY, Tamasha and more — the official apps to stream Pakistani dramas live and on demand, free or freemium.",
    "slug": "best-pakistani-drama-apps",
    "title": "Best Apps to Watch Pakistani Dramas 2026"
+  },
+  {
+   "content": "1. Phone Clean Fix \\u2014 the #1 trending cleaner of the week: junk files, background apps, photo compression and notification cleanup in one light app. Our review: /apps/phone-clean-fix/.\\n2. Unscrew Bolts: Screw Puzzle 3D \\u2014 the fastest-growing game this week, with classic 2D screw puzzles plus a new 3D mode. Our review: /apps/unscrew-bolts-screw-puzzle-3d/.\\n3. Facebook Creator Studio \\u2014 Meta's new AI companion for Facebook creators: daily priorities, growth tips and AI fan replies. Our review: /apps/facebook-creator-studio/.\\n4. NetShort \\u2014 Popular Dramas & TV \\u2014 100M+ installs of vertical short dramas, free episodes to start. Our review: /apps/netshort/.\\n5. All four are free on the Google Play Store \\u2014 install only from the official listing linked on each review page, never from APK sites. Check the cons in each review before installing: ads, in-app purchases and new-app bugs are called out honestly.\\n",
+   "excerpt": "Phone Clean Fix, Unscrew Bolts, Facebook Creator Studio and NetShort \\u2014 the four new Android apps worth installing in Pakistan this November.",
+   "slug": "best-new-android-apps-november-2026",
+   "title": "Best New Android Apps in Pakistan \\u2014 November 2026"
   }
  ]
 }
