@@ -2844,6 +2844,66 @@
    "package": "com.netshort.abroad",
    "review": "One of the biggest short-drama apps on the Play Store — NetShort passed 100 million installs with a 4.6-star rating from 1.1 million reviews and was updated on Oct 30, 2026. It streams vertical dramas made for phones: CEO romance, werewolf love, revenge and family secrets in bite-size episodes with new ones daily, and the free opening episodes plus ad rewards mean you can watch a lot without paying. Pros: huge catalogue with daily updates, smooth vertical player, and offline downloads. Cons: full storylines sit behind VIP or coins, and the in-app purchase range goes very high, so set a spending limit. Best for drama fans in Pakistan who loved DramaBox and DramaWave and want another big short-drama library.",
    "slug": "netshort"
+  },
+  {
+   "category": "utilities",
+   "developer": "ShareKaro Team",
+   "features": [
+    "Share files, apps, videos and photos without internet via Wi-Fi Direct",
+    "Up to 300x faster than Bluetooth, with no size limit on transfers",
+    "No login or sign-up needed — scan a QR code and send",
+    "Works across Android, iPhone and PC",
+    "Bonus extras: offline mini-games and a WhatsApp status saver"
+   ],
+   "name": "ShareKaro: File Share&Transfer",
+   "package": "com.sharekaro.app",
+   "review": "One of the fastest-growing file-sharing apps on Google Play — ShareKaro passed 180 million installs with a 4.3-star rating from 356,000 reviews and a fresh update on Nov 2, 2026, topping the new-free charts in several countries. It sends files, apps, videos and photos between phones without internet or mobile data, using Wi-Fi Direct at speeds far above Bluetooth, and needs no login — just scan a QR code. That matters in Pakistan, where sharing a full HD drama episode or a big game APK over mobile data is expensive and slow. Pros: genuinely fast offline transfers, free with no account, and works with iPhone and PC too. Cons: it contains ads, and some Play Store reviewers raise privacy concerns about the permissions it asks for, so check what it accesses before installing. Best for anyone in Pakistan who regularly shares large files with friends and family without burning mobile data.",
+   "slug": "sharekaro-file-share-transfer"
+  },
+  {
+   "category": "gaming",
+   "developer": "Skytechlab Global App",
+   "features": [
+    "Play detective inside a realistic fictional phone — messages, chats, photos and locked apps",
+    "Multiple mystery cases with twists and hidden clues",
+    "Snoop through deleted chats and secret feeds to uncover the truth",
+    "Story choices that shape how each case unfolds",
+    "Fresh updates with new cases since its October 2026 launch"
+   ],
+   "name": "Leaked - Detective Story",
+   "package": "com.detective.mobile.story",
+   "review": "A brand-new detective game that shot to #3 in Top New Free Overall in Australia within weeks of its October 2026 launch — now at 110,000 installs with a 4.5-star rating and an update on Nov 4, 2026. You play a detective digging through a fictional phone: text messages, deleted chats, hidden photos and locked apps, piecing together lies and secrets case by case. It is the phone-snooping mystery format that went viral this year, done as a polished story game rather than a cheap clone. Pros: a fresh, gripping concept, strong early ratings, and free to start. Cons: it contains ads, and in-app purchases run from $1.99 to $99.99, so later chapters can get pricey. Best for mystery and crime-story fans in Pakistan who like Duskwood-style detective games and want a quick case to solve on the bus.",
+   "slug": "leaked-detective-story"
+  },
+  {
+   "category": "utilities",
+   "developer": "Carrie Bhakta",
+   "features": [
+    "Fast PDF reader with text search, zoom and recent-files list",
+    "Edit PDFs: add text, images, highlights and drawings",
+    "Sign forms and fill documents electronically",
+    "Built-in scanner turns paper documents into multi-page PDFs",
+    "Merge, split, reorder, compress and convert files, including image-to-PDF"
+   ],
+   "name": "PDF Editor: Scanner & Reader",
+   "package": "com.alldocument.reader.pdfeditor.fileviewer.office",
+   "review": "The most-downloaded new app on Google Play in the last 30 days — 2.2 million fresh installs, 7.2 million in total since its September 2026 launch, with an update on Sep 8, 2026. It packs a PDF reader, editor, scanner and file manager into one 61MB app: read and search PDFs, add notes and signatures, scan receipts and paper forms into multi-page PDFs, and merge, split or compress files. That is exactly the toolkit Pakistani students and office workers need for assignments, job forms and scanned CNICs. Pros: all-in-one and free, light and simple to use, and genuinely popular. Cons: it contains ads, and it comes from a brand-new developer with a single app and no public rating shown yet, so long-term quality is unproven. Best for students and anyone in Pakistan who handles PDF forms, assignments and scanned documents on their phone every day.",
+   "slug": "pdf-editor-scanner-reader"
+  },
+  {
+   "category": "finance",
+   "developer": "SLOW DOWN APP GAMES",
+   "features": [
+    "Track daily income and expenses in one simple ledger",
+    "Monthly budget planner that shows where the money goes",
+    "Spending categories with charts for a quick overview",
+    "Savings goals to plan ahead for big purchases",
+    "Clean, lightweight dashboard — 27MB, no clutter"
+   ],
+   "name": "Money Manager: Expense Planner",
+   "package": "com.money.tracker.budget.planner.expense.manager.saver",
+   "review": "The #1 Top New Free Finance app in Turkey, Saudi Arabia, Belgium, Portugal and half a dozen more countries — Money Manager: Expense Planner launched in October 2026, passed 760,000 installs with a 4.3-star rating from 1,300 reviews, and was updated on Oct 23, 2026. It is a simple kharcha tracker: log income and spending, set a monthly budget, see category-wise charts and set savings goals, all in a light 27MB app with no clutter. For Pakistani users juggling salary, bills, groceries and mobile load, a plain monthly budget view beats a complicated finance app. Pros: genuinely simple and free, clear budget and savings views, and very light on storage. Cons: it is brand new (version 1.0.1), so long-term reliability is unproven, and it lacks the deep reports and bank sync of established budget apps. Best for anyone in Pakistan who wants a no-fuss monthly expense diary on their phone.",
+   "slug": "money-manager-expense-planner"
   }
  ],
  "categories": [
