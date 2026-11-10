@@ -2904,6 +2904,54 @@
    "package": "com.money.tracker.budget.planner.expense.manager.saver",
    "review": "The #1 Top New Free Finance app in Turkey, Saudi Arabia, Belgium, Portugal and half a dozen more countries — Money Manager: Expense Planner launched in October 2026, passed 760,000 installs with a 4.3-star rating from 1,300 reviews, and was updated on Oct 23, 2026. It is a simple kharcha tracker: log income and spending, set a monthly budget, see category-wise charts and set savings goals, all in a light 27MB app with no clutter. For Pakistani users juggling salary, bills, groceries and mobile load, a plain monthly budget view beats a complicated finance app. Pros: genuinely simple and free, clear budget and savings views, and very light on storage. Cons: it is brand new (version 1.0.1), so long-term reliability is unproven, and it lacks the deep reports and bank sync of established budget apps. Best for anyone in Pakistan who wants a no-fuss monthly expense diary on their phone.",
    "slug": "money-manager-expense-planner"
+  },
+  {
+   "category": "music",
+   "developer": "BigSoft inc.",
+   "features": [
+    "Draw any line or shape and hear it become a melody on a 32 x 20 grid",
+    "Ready-made templates — birds, animals, landscapes, people — to start from",
+    "Colour-coded instruments: piano, marimba, synth, bells and more",
+    "Scales (Pentatonic, Major, Minor) and 12 root notes, so nothing sounds off-key",
+    "Tempo control from 40 to 240 BPM, loop playback and stroke-by-stroke undo",
+    "Export your tune as a WAV file or MIDI, and works fully offline"
+   ],
+   "name": "Draw Music Maker: Doodle Pad",
+   "package": "com.bigsoft.sketchsound.drawmusic",
+   "review": "The #1 Top New Free Music & Audio app in the US and Italy — Draw Music Maker: Doodle Pad launched on Oct 15, 2026, passed 310,000 installs with a 4.3-star rating from 3,500+ reviews, and was updated on Nov 5, 2026. You draw a line on a 32 x 20 grid and it becomes a melody: height sets the pitch, position sets the timing, and ready-made templates, colour-coded instruments and scales (Pentatonic, Major, Minor) mean nothing ever sounds off-key — no music theory needed. It works fully offline and exports your tune as a WAV file or MIDI. For Pakistani users, that means a free way to sketch a ringtone, background music for a reel, or a first melody with the kids — all without internet. Pros: genuinely fun and free, works offline, and exports real audio files. Cons: it is a sketchpad, not a full music studio, so there is no multi-track editing, and as a brand-new app its long-term support is unproven. Best for anyone in Pakistan who has always wanted to make a tune but never learned an instrument.",
+   "slug": "draw-music-maker-doodle-pad"
+  },
+  {
+   "category": "entertainment",
+   "developer": "KryptoByteThe",
+   "features": [
+    "Bite-sized short drama episodes and mini series",
+    "Romance and relationship stories across many themes",
+    "New stories and episodes added regularly",
+    "Browse featured series and follow favourites episode by episode",
+    "Quick viewing designed for a few spare minutes",
+    "Easy-to-browse layout with no learning curve"
+   ],
+   "name": "DramasHub: Short Drama & TV",
+   "package": "com.dramahub.vibeshort.mini",
+   "review": "A short-drama app that raced to 520,000 installs within weeks of its September 2026 launch, updated on Oct 29, 2026 — DramasHub: Short Drama & TV serves bite-sized drama episodes, romance stories and mini series made for a few spare minutes. Episodes are short, series are easy to follow, and new stories keep arriving, which is exactly the format Pakistani viewers already love from DramaBox, Dramify and NetShort. Pros: free to start, quick episodes that fit a tea break, and a growing catalogue. Cons: it comes from a brand-new developer with no public rating yet, so quality is unproven, and it contains ads. Best for drama fans in Pakistan who want another free short-drama app for the daily commute.",
+   "slug": "dramashub-short-drama-tv"
+  },
+  {
+   "category": "ai",
+   "developer": "ParaDoor",
+   "features": [
+    "100,000+ AI stories: fantasy, sci-fi, mystery, survival, historical drama",
+    "Your choices shape the plot in real time as the story unfolds",
+    "Cinema Mode with visuals and voices for immersive storytelling",
+    "Create your own stories, characters, worlds and dialogue",
+    "Long-term memory keeps important events in context across sessions",
+    "Story Snapshots capture your favourite scenes and reveals"
+   ],
+   "name": "ParaDoor: AI Interactive Story",
+   "package": "com.butterflylink.paradoor",
+   "review": "The #1 Top New Free Entertainment app in the UK — ParaDoor: AI Interactive Story launched in July 2026, passed 220,000 installs with a 4.3-star rating from 1,300+ reviews, and was updated on Oct 30, 2026, with no ads at all. It is an AI storytelling app with 100,000+ interactive stories — fantasy, sci-fi, mystery, survival and historical drama — where your choices shape what happens next, plus a Cinema Mode with visuals and voices, and a create-your-own-story builder with long-term character memory. For Pakistani readers who grew up on choose-your-own-adventure books, this is that idea with an AI that remembers your story. Pros: no ads, a huge story library, and the story builder is genuinely creative. Cons: AI responses can be inaccurate (the listing says so itself), and the best model tier sits behind a paywall. Best for story lovers in Pakistan who want interactive fiction instead of another passive video feed.",
+   "slug": "paradoor-ai-interactive-story"
   }
  ],
  "categories": [
@@ -3118,6 +3166,12 @@
    "excerpt": "Phone Clean Fix, Unscrew Bolts, Facebook Creator Studio and NetShort \\u2014 the four new Android apps worth installing in Pakistan this November.",
    "slug": "best-new-android-apps-november-2026",
    "title": "Best New Android Apps in Pakistan \\u2014 November 2026"
+  },
+  {
+   "content": "1. ShareKaro: File Share&Transfer — the fastest-growing file-sharing app of 2026: offline Wi-Fi Direct transfers, no login, works with iPhone and PC. Our review: /apps/sharekaro-file-share-transfer/.\n2. SHAREit: Transfer, Share Files — the veteran of phone-to-phone sharing, still one of the quickest ways to send big videos and apps offline. Our review: /apps/shareit-transfer-share/.\n3. Zapya - File Transfer, Share — group sharing and offline transfer without mobile data, handy when several friends need the same file. Our review: /apps/zapya-file-transfer/.\n4. Files by Google — the clean option: ad-free file sharing plus a storage cleaner in one Google app. Our review: /apps/files-by-google/.\n5. Offline sharing saves mobile data — a full HD drama episode or a big game moves in minutes over Wi-Fi Direct, not over your Jazz or Zong package.\n6. Install only from the official Google Play listing linked on each review page — never from APK sites, which bundle malware with popular sharing apps.\n7. Check permissions before installing: a sharing app needs storage and nearby-device access, but it does not need your contacts or SMS.",
+   "excerpt": "Send big files without mobile data: the best offline file-sharing apps for Pakistan, from ShareKaro to Files by Google.",
+   "slug": "best-file-sharing-apps-pakistan",
+   "title": "Best File Sharing Apps in Pakistan 2026"
   }
  ]
 }
