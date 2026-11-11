@@ -3016,6 +3016,22 @@
    "package": "com.unacademy.antonio",
    "review": "The AI language tutor that surged into education charts in Germany, Korea and Britain on Nov 2, 2026 — Airlearn - Language Learning holds a 4.6-star rating from 106,800+ reviews and is trusted by 10 million+ learners worldwide, with an update on Nov 6, 2026. Made by Unacademy, it teaches 65+ courses across 35+ languages — Spanish, French, German, Japanese, Korean, English and more — by explaining the grammar and culture first, then quizzing you, with spaced repetition, streaks and weekly leagues to keep you going. Explanations come in your own language, including English, Hindi and Arabic, which matters for Pakistani learners. Pros: a serious, well-rated alternative to Duolingo at about half the price, and the free tier is genuinely usable. Cons: free users get about 5 lessons a day, some AI voices sound robotic, and the AI conversation tutor costs extra. Best for Pakistanis learning English for work or study, or picking up Arabic, Turkish or a European language for a job abroad.",
    "slug": "airlearn-language-learning"
+  },
+  {
+   "category": "gaming",
+   "developer": "Garena",
+   "features": [
+    "Explore Aesoland, a brand-new open world built for mobile hunting",
+    "Epic Elder Dragons and exclusive Radiant Monsters to track and hunt",
+    "Team up in 4-player hunting squads with a single tap",
+    "Eight classic weapons: Great Sword, Long Sword, Dual Blades, Hammer, Lance, Charge Blade, Heavy Bowgun and Bow",
+    "Original Adventurers with all-new Hunting Arts and follow-up moves",
+    "Buddies Palico, Rutaco and Trillan join the hunt with their own events"
+   ],
+   "name": "Monster Hunter Outlanders",
+   "package": "com.garena.game.mho",
+   "review": "The biggest mobile game launch of the month — Monster Hunter Outlanders, officially licensed by CAPCOM, developed by TiMi Studio Group and published by Garena, pulled 3.3 million installs in its first two weeks on Google Play. It brings the classic Monster Hunter hunt to phones: track huge monsters across the new world of Aesoland, fight Elder Dragons and exclusive Radiant species, and team up in 4-player squads, with eight classic weapons — Great Sword, Long Sword, Dual Blades, Hammer, Lance, Charge Blade, Heavy Bowgun and Bow — plus original Adventurers with new Hunting Arts and Buddies like Palico to join the hunt. Pros: a real console-grade franchise on mobile, free to play, and squad play makes the grind social. Cons: a heavy 3D game that wants a mid-range phone or better, and as a brand-new live-service launch, early bugs and balance patches are likely. Best for Pakistani gamers who loved PUBG Mobile squads and want the next big co-op hunt on their phone.",
+   "slug": "monster-hunter-outlanders"
   }
  ],
  "categories": [
