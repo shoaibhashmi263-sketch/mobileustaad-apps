@@ -3032,6 +3032,102 @@
    "package": "com.garena.game.mho",
    "review": "The biggest mobile game launch of the month — Monster Hunter Outlanders, officially licensed by CAPCOM, developed by TiMi Studio Group and published by Garena, pulled 3.3 million installs in its first two weeks on Google Play. It brings the classic Monster Hunter hunt to phones: track huge monsters across the new world of Aesoland, fight Elder Dragons and exclusive Radiant species, and team up in 4-player squads, with eight classic weapons — Great Sword, Long Sword, Dual Blades, Hammer, Lance, Charge Blade, Heavy Bowgun and Bow — plus original Adventurers with new Hunting Arts and Buddies like Palico to join the hunt. Pros: a real console-grade franchise on mobile, free to play, and squad play makes the grind social. Cons: a heavy 3D game that wants a mid-range phone or better, and as a brand-new live-service launch, early bugs and balance patches are likely. Best for Pakistani gamers who loved PUBG Mobile squads and want the next big co-op hunt on their phone.",
    "slug": "monster-hunter-outlanders"
+  },
+  {
+   "category": "finance",
+   "developer": "VIGLAFICO JOINT STOCK COMPANY",
+   "features": [
+    "Quick expense tracking: add daily transactions in a few taps",
+    "Flexible budget planner with smart alerts as you near your limits",
+    "Clear visual reports and graphs of where your money goes",
+    "Manage cash, bank accounts and cards in one dashboard",
+    "Recurring bills and reminders so no payment date is missed",
+    "PIN, fingerprint or Face ID lock keeps your money data private"
+   ],
+   "name": "EzBudget: Expense Manager",
+   "package": "com.vionyx.ezbudget.expensemanager",
+   "review": "The #1 Top New Free Tools app in India — EzBudget: Expense Manager launched in October 2026, passed 65,000 installs in about three weeks and was updated on Nov 6, 2026, though it has no user ratings yet. It is a deliberately simple pocket accountant: log each expense in a few taps, set a monthly budget for groceries, dining or utilities, and get an alert before you overshoot it, with clean graphs showing where the money actually went and reminders for recurring bills. Pros: genuinely free, a clean interface with no learning curve, budget alerts that work, and a lock to keep your spending private. Cons: no ratings yet so quality is unproven, it contains ads, and you enter every expense by hand — no automatic bank or wallet sync is advertised. Best for Pakistani students and families who want to track monthly kharcha — JazzCash and Easypaisa spending included — without a complicated finance app.",
+   "slug": "ezbudget-expense-manager"
+  },
+  {
+   "category": "utilities",
+   "developer": "GoldenPlace",
+   "features": [
+    "Unlock your phone with your voice — no PIN or fingerprint needed",
+    "Backup security: PIN, pattern, or time/text password",
+    "Offline voice detection, so it works without internet",
+    "Custom lock screen themes and wallpapers",
+    "Voice passphrase you set yourself",
+    "Lightweight at about 32MB"
+   ],
+   "name": "Voice Lock: Security & Lock",
+   "package": "com.diy.security.key.lock.voice",
+   "review": "A lock screen with a party trick that actually works — Voice Lock: Security & Lock holds a 4.27-star rating from 230 reviews, passed 470,000 installs and was updated on Oct 28, 2026. You set a voice passphrase and unlock by speaking it, with a PIN, pattern or time-based password as backup, offline voice detection so it works without data, and custom lock screen themes to make it your own. Pros: hands-free unlocking is genuinely handy when your hands are full, the backup methods mean you are never locked out, and it works offline. Cons: accuracy depends on your microphone and background noise — a noisy bazaar or a rickshaw ride can defeat it — and a voice passphrase is a convenience layer, not bank-grade security, so do not rely on it alone for sensitive apps. Best for Pakistani users who enjoy a fun, hands-free lock screen and keep a PIN as backup.",
+   "slug": "voice-lock-security-lock"
+  },
+  {
+   "category": "entertainment",
+   "developer": "DASA MOTOS SAS",
+   "features": [
+    "Short dramas: romance, revenge, billionaire and workplace stories",
+    "Browse by genre, mood, title, category or tag",
+    "Save favourites to My List to continue watching later",
+    "Vertical episodes made for watching on your phone",
+    "New series added regularly",
+    "Free to watch with ads"
+   ],
+   "name": "DramaDaily: Short Dramas",
+   "package": "com.drama.daily.shortreels",
+   "review": "Another fast-rising short-drama app — DramaDaily: Short Dramas launched in October 2026, passed 79,000 installs, holds a 4.5-star rating from 259 reviews and was updated on Oct 24, 2026, reaching #2 Top New Free Overall in Mexico and #8 in the US. It serves bite-sized romance, revenge and billionaire dramas in vertical episodes, with genre and mood browsing and a My List to keep your place. Pros: a solid early rating, a clean genre browser, and genuinely free episodes. Cons: be honest — early one-star reviews complain about heavy ads and some advertised dramas not being in the app, the library is still small next to DramaBox and Dramify, and it carries a Medium maturity rating so it is not for young children. Best for Pakistani short-drama fans who have finished the big apps and want one more free option to try.",
+   "slug": "dramadaily-short-dramas"
+  },
+  {
+   "category": "education",
+   "developer": "ParakeetAI",
+   "features": [
+    "Snap a photo of your notes or pick a chapter — it becomes lessons, quizzes and flashcards",
+    "Ask Tarko anything by typing, speaking or snapping a question",
+    "Video lessons that draw formulas and graphs as they explain",
+    "Podcasts, mind maps, summary notes and spaced-repetition flashcards",
+    "Timed practice papers in board pattern, marked for you",
+    "A daily plan that reshuffles itself until your exam date"
+   ],
+   "name": "TarkoAI: Study & Exam Prep",
+   "package": "com.tarkoai.app",
+   "review": "The #1 Top New Free Education app in India — TarkoAI: Study & Exam Prep launched in October 2026, passed 96,000 installs and was updated on Nov 4, 2026, with no ads and no user ratings yet. It turns your own material into study tools: photograph a notebook page or upload a PDF and it builds short lessons, quizzes, flashcards and a day-by-day plan until your test, plus video lessons, podcasts, mind maps and timed practice papers. Pros: it works from your own notes instead of generic content, the daily plan adapts when you miss a day, and the free tier has no ads. Cons: it has no ratings yet, it is built for Indian CBSE/NCERT chapters (Class 8–12) so Pakistani Matric, FSc and MDCAT students should treat its board papers as practice, not syllabus, and at about 81MB it is a big download. Best for Pakistani students who want an AI tutor that quizzes them on their own notes and keeps their revision on a schedule.",
+   "slug": "tarkoai-study-exam-prep"
+  },
+  {
+   "category": "utilities",
+   "developer": "Omvora",
+   "features": [
+    "Built-in video saver: play a video and the Download button lights up",
+    "Choose quality before downloading — Full HD, HD or a lighter file",
+    "Downloads continue in the background with progress in notifications",
+    "Files saved as regular MP4s in Movies/Video Downloader",
+    "Built-in video player and a tidy Downloads screen",
+    "Incognito tabs, PIN/fingerprint lock and add-any-site-to-home-screen"
+   ],
+   "name": "Video Downloader",
+   "package": "com.vdownloader.android",
+   "review": "A brand-new video downloader climbing the charts — Video Downloader by Omvora reached 140,000 installs in its first weeks and sits at #25 Top New Free in India, with its first release live on Google Play and no user ratings yet. It is a fast, lightweight browser with a built-in video saver: open a site, play a video, tap Download, pick the quality and the file saves as a regular MP4 you can watch offline, with background downloads, a built-in player and a PIN or fingerprint lock. Pros: simple to use, quality choice before every download, and downloads keep going in the background. Cons: it is brand-new with no ratings to judge it by, and some websites block downloading — the app itself says to save only videos you own or have permission to download. Best for Pakistani users on limited data who want to save videos to watch offline later, within copyright rules.",
+   "slug": "video-downloader-omvora"
+  },
+  {
+   "category": "lifestyle",
+   "developer": "BitTech Global",
+   "features": [
+    "Read all 114 Surahs in clear Arabic with translations",
+    "Listen to Quran recitations and repeat verses for memorisation",
+    "Prayer times for Fajr, Dhuhr, Asr, Maghrib and Isha by your location",
+    "Adhan alerts and prayer reminders",
+    "Qibla finder to locate the direction of Makkah",
+    "Bookmarks, daily duas, digital Tasbih counter and Hijri calendar"
+   ],
+   "name": "Ayahfy: Quran & Pray Times",
+   "package": "alquran.dailyquran.praytimes.read.audio.book.recitation.listen.majeed.ayahfyquran",
+   "review": "A fast-growing all-in-one Islamic app — Ayahfy: Quran & Pray Times launched in October 2026, passed 250,000 installs and was updated on Nov 9, 2026, though it has no user ratings yet. It puts the full Quran (all 114 Surahs in Arabic with translations), recitation audio, location-based prayer times with Adhan alerts, a Qibla finder, bookmarks, daily duas, a digital Tasbih counter and the Hijri calendar into one free app. Pros: everything in one place instead of three separate apps, prayer times and Qibla work by your location anywhere in Pakistan, and it is free. Cons: no ratings yet so quality is unproven, it contains ads, and it comes from a brand-new developer. Best for anyone in Pakistan who wants Quran reading, prayer reminders and Qibla direction in a single app.",
+   "slug": "ayahfy-quran-pray-times"
   }
  ],
  "categories": [
@@ -3112,6 +3208,12 @@
    "icon": "🎬",
    "name": "Entertainment",
    "slug": "entertainment"
+  },
+  {
+   "description": "Everyday life apps for Pakistan — prayer times, Quran, habits and daily routines.",
+   "icon": "🌙",
+   "name": "Lifestyle",
+   "slug": "lifestyle"
   }
  ],
  "guides": [
@@ -3252,6 +3354,12 @@
    "excerpt": "Send big files without mobile data: the best offline file-sharing apps for Pakistan, from ShareKaro to Files by Google.",
    "slug": "best-file-sharing-apps-pakistan",
    "title": "Best File Sharing Apps in Pakistan 2026"
+  },
+  {
+   "content": "1. TarkoAI: Study & Exam Prep — photograph your notes and it builds lessons, quizzes, flashcards and a daily plan until your exam. Our review: /apps/tarkoai-study-exam-prep/.\n2. Gauth: AI Study Companion — snap a homework question and get a step-by-step solution with explanations, handy for maths and science problems. Our review: /apps/gauth/.\n3. Airlearn - Language Learning — an AI tutor for 35+ languages with grammar-first lessons and spaced repetition, useful for English before a job interview or a test abroad. Our review: /apps/airlearn-language-learning/.\n4. Never trust an AI answer blindly — check it against your textbook, especially for MDCAT, FSc and board exams, where one wrong formula costs marks.\n5. Start on the free tier — all three apps above work without paying; only upgrade after a week of daily use proves it helps.\n6. Install only from the official Google Play listing linked on each review page — fake AI study apps on APK sites steal logins and show fake results.",
+   "excerpt": "AI tutors that quiz you on your own notes: the best AI study and exam-prep apps for Pakistani students.",
+   "slug": "best-ai-study-apps-pakistan",
+   "title": "Best AI Study & Exam Prep Apps in Pakistan 2026"
   }
  ]
 }
