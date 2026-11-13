@@ -3128,6 +3128,70 @@
    "package": "alquran.dailyquran.praytimes.read.audio.book.recitation.listen.majeed.ayahfyquran",
    "review": "A fast-growing all-in-one Islamic app — Ayahfy: Quran & Pray Times launched in October 2026, passed 250,000 installs and was updated on Nov 9, 2026, though it has no user ratings yet. It puts the full Quran (all 114 Surahs in Arabic with translations), recitation audio, location-based prayer times with Adhan alerts, a Qibla finder, bookmarks, daily duas, a digital Tasbih counter and the Hijri calendar into one free app. Pros: everything in one place instead of three separate apps, prayer times and Qibla work by your location anywhere in Pakistan, and it is free. Cons: no ratings yet so quality is unproven, it contains ads, and it comes from a brand-new developer. Best for anyone in Pakistan who wants Quran reading, prayer reminders and Qibla direction in a single app.",
    "slug": "ayahfy-quran-pray-times"
+  },
+  {
+   "category": "music",
+   "developer": "FunGear inc",
+   "features": [
+    "Dual virtual turntables with a real crossfader for smooth transitions",
+    "8 hot cues on each deck plus loops from 1/4 to 4 beats",
+    "BPM sync, tempo controls and Beat Jump to keep tracks in time",
+    "Beat FX including Echo, Reverb and Flanger, plus a 3-band equalizer",
+    "Drum pads and 15+ sample packs for remixes and live beats",
+    "Record your mixes and export them as MP3 to play again anywhere"
+   ],
+   "name": "DJ Mixer Studio & DJ Mix Music",
+   "package": "com.dj.mixer.studio.musicmix.audio",
+   "review": "Turn your phone into a pocket DJ studio — DJ Mixer Studio & DJ Mix Music holds a 4.2-star rating from 155 reviews on Google Play and passed about 140,000 installs, ranking among the top new free music apps in the US and India. You get two virtual turntables with a crossfader, eight hot cues per deck, loops, BPM sync and tempo controls, plus Beat FX (Echo, Reverb, Flanger), a 3-band equalizer, drum pads and 15+ sample packs — and you can record a mix and save it as MP3. Pros: a genuinely complete DJ toolkit for a free app, the controls are simple enough for a first-timer, and recorded mixes export as standard MP3 files. Cons: it mixes tracks from your own library — it does not stream songs itself — some effects and packs are likely paid extras, and heavy mixing drains battery fast. Best for Pakistani music lovers who want to practise DJing for a mehndi, dholki or college event before ever touching real decks.",
+   "slug": "dj-mixer-studio-dj-mix-music"
+  },
+  {
+   "category": "photography",
+   "developer": "Gladys Bishop",
+   "features": [
+    "Cinematic and artistic photo effects inspired by film and paintings",
+    "AI face effects: aging, gender swap, future baby and virtual hug",
+    "Change photo backgrounds to new scenes in a few taps",
+    "Remove unwanted objects and enhance dull photos",
+    "Anime and cartoon styles for portraits and selfies",
+    "Simple one-tap editing with no complicated steps"
+   ],
+   "name": "AI Photo Effects: Art Filters",
+   "package": "com.ai.chat.talk.ask.smart.response.pro",
+   "review": "The #1 Top New Free Photography app in India — AI Photo Effects: Art Filters launched in October 2026, passed 87,000 installs in under a month and was updated on Nov 9, 2026, though it has no user ratings yet. It turns ordinary photos into cinematic, anime or cartoon-style images, adds playful AI face effects (aging, gender swap, future baby, virtual hug), swaps backgrounds and removes unwanted objects. Pros: a big set of artistic styles for a free app, one-tap results with no editing skill needed, and it is light at about 54MB. Cons: no ratings yet so quality is unproven, it contains ads, and face-effect apps can exaggerate features — treat the results as fun, not real photos. Best for Pakistani users who want stylish, shareable photos for WhatsApp, Instagram and TikTok without learning a photo editor.",
+   "slug": "ai-photo-effects-art-filters"
+  },
+  {
+   "category": "ai",
+   "developer": "speakapps.net",
+   "features": [
+    "Snap a photo of a coin to identify it in seconds",
+    "Browse a coin catalog with images, years, types and denominations",
+    "Save coins to your collection and review your scan history",
+    "Set alarms for auction dates and attach auction links",
+    "Earn achievements and titles as you identify rarer coins",
+    "Reference details only — not a professional valuation"
+   ],
+   "name": "CoinScope: AI Identifier",
+   "package": "com.identify.track.coinscope",
+   "review": "The #2 Top New Free app overall in the US — CoinScope: AI Identifier launched in October 2026, passed 30,000 installs and was updated on Nov 2, 2026, holding a 4.6-star rating from 36 reviews. Photograph any coin and it identifies it in seconds, then shows reference details from a catalog of images, years, types and denominations; you can save finds to a collection, set alarms for auction dates and earn achievements for rarer coins. Pros: genuinely useful for collectors, the catalog teaches you about each coin, and collection tracking keeps your finds organised. Cons: only 36 ratings so far, results are reference-only — never a professional valuation — and it contains ads. Best for Pakistani coin collectors and anyone curious about old rupee coins, commemorative issues or coins found in a family drawer.",
+   "slug": "coinscope-ai-identifier"
+  },
+  {
+   "category": "photography",
+   "developer": "Growly",
+   "features": [
+    "Turn text prompts into AI-generated art and images",
+    "Restyle your photos with AI filters and artistic looks",
+    "Cartoon and anime filters for portraits and selfies",
+    "AI photo generator plus video editing tools in one app",
+    "Edit and enhance photos before sharing",
+    "Free to start with ads"
+   ],
+   "name": "Genify - Photos Video Editor",
+   "package": "com.growly.genify",
+   "review": "A fast-growing AI photo studio — Genify - Photos Video Editor passed 3.4 million installs, holds a 4.2-star rating from 132 reviews and was updated on Oct 23, 2026, ranking #1 in Photography in Brazil and among the top new free photography apps in the US. Type a prompt and it generates AI art, or restyle your own photos with cartoon, anime and artistic filters, with video editing tools in the same app. Pros: a huge install base for a new app, text-to-art plus photo restyling in one place, and it works on Android 7.0 and up. Cons: only 132 ratings behind the big install count, it contains ads, and AI-generated faces can look slightly off — check results before posting. Best for Pakistani creators who want quick AI art, stylised profile photos and short video edits without paying for a pro editor.",
+   "slug": "genify-photos-video-editor"
   }
  ],
  "categories": [
