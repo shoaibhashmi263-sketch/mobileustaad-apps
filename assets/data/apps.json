@@ -3192,6 +3192,70 @@
    "package": "com.growly.genify",
    "review": "A fast-growing AI photo studio — Genify - Photos Video Editor passed 3.4 million installs, holds a 4.2-star rating from 132 reviews and was updated on Oct 23, 2026, ranking #1 in Photography in Brazil and among the top new free photography apps in the US. Type a prompt and it generates AI art, or restyle your own photos with cartoon, anime and artistic filters, with video editing tools in the same app. Pros: a huge install base for a new app, text-to-art plus photo restyling in one place, and it works on Android 7.0 and up. Cons: only 132 ratings behind the big install count, it contains ads, and AI-generated faces can look slightly off — check results before posting. Best for Pakistani creators who want quick AI art, stylised profile photos and short video edits without paying for a pro editor.",
    "slug": "genify-photos-video-editor"
+  },
+  {
+   "category": "entertainment",
+   "developer": "CleverMindAI",
+   "features": [
+    "Turn any photo or portrait into an AI dance video in one tap",
+    "Dance templates and styles for viral-style clips",
+    "No editing skill needed — pick a photo and let the AI animate it",
+    "Save and share clips straight to TikTok, Instagram and WhatsApp",
+    "Light at about 43MB with an Everyone content rating",
+    "Free to use with no account needed to start"
+   ],
+   "name": "AI Dance: Dance Video Maker",
+   "package": "com.dance.photo.rhythm.animation.creator",
+   "review": "A one-tap AI dance studio — AI Dance: Dance Video Maker launched in October 2026, passed 51,000 installs in its first month and was updated on Nov 5, 2026, ranking among the top new free entertainment apps in India and several European countries, though it has no user ratings yet. Upload a photo, pick a dance style, and the AI turns the still image into a moving dance clip you can share to TikTok, Instagram or WhatsApp. Pros: genuinely fun one-tap results with no editing skill needed, it is light at about 43MB, and it carries an Everyone content rating. Cons: no ratings yet so quality is unproven, AI dance motion can look stiff on some photos, and free AI video apps often limit daily generations. Best for Pakistani creators who want quick, funny dance clips from a single photo for reels and status videos.",
+   "slug": "ai-dance-dance-video-maker"
+  },
+  {
+   "category": "creativity",
+   "developer": "Healthy Apps.",
+   "features": [
+    "Turn a static photo into a short AI video with automatic motion",
+    "Try 48 hairstyles across 8 collections with 7 hair colours",
+    "Combine your photo with a text prompt to generate a new image",
+    "Set a first and last frame and let the AI fill in the movement",
+    "Ready-to-use templates for instant stylised photos and videos",
+    "Save finished photos and videos straight to your gallery"
+   ],
+   "name": "VinAI: Photo to Video Maker",
+   "package": "com.niceteam.photomotion.videomaker.ai",
+   "review": "A pocket AI studio with a useful twist — VinAI: Photo to Video Maker launched in October 2026, passed 83,000 installs in under a month and was updated on Nov 3, 2026, ranking #22 among new free entertainment apps in India, though it has no user ratings yet. It animates still photos into short videos, generates new images from a photo plus a text prompt, and lets you try 48 hairstyles in 7 colours on your own face before a real haircut — with ready templates for instant results. Pros: photo-to-video plus hairstyle try-on in one free app, it is light at about 31MB, and results save straight to your gallery. Cons: no ratings yet, it contains ads, and generation runs on cloud servers so it needs internet and can be slow at busy times. Best for Pakistani creators and anyone curious about a new haircut or colour before visiting the salon.",
+   "slug": "vinai-photo-to-video-maker"
+  },
+  {
+   "category": "photography",
+   "developer": "SPN Studio",
+   "features": [
+    "AI aging effect — see yourself older or younger in seconds",
+    "AI photo generator with trending styles and artistic looks",
+    "Turn still photos into short AI videos with motion templates",
+    "Seasonal themes and creative templates for every occasion",
+    "One-tap results with no editing skill needed",
+    "Free to use with ads"
+   ],
+   "name": "AgeReel: AI Aging Generator",
+   "package": "spm.ai.photo.generator.videomaker",
+   "review": "The best-rated new AI photo app of the week — AgeReel: AI Aging Generator launched in October 2026, passed 44,000 installs and holds a 4.5-star rating from 260 reviews, ranking #3 among new free photography apps in the US. Its headline trick is AI aging — see yourself older or younger — plus an AI photo generator with trending styles, artistic transformations and seasonal themes, and photo-to-video templates that animate a still image. Pros: the strongest rating of this week's new apps, a focused set of fun AI effects, and it is light at about 37MB. Cons: only 260 ratings so far, it contains ads, and aging results are for fun — they exaggerate features and are not real photos. Best for Pakistani users who want viral-style age-transformation photos and videos for WhatsApp, Instagram and TikTok.",
+   "slug": "agereel-ai-aging-generator"
+  },
+  {
+   "category": "gaming",
+   "developer": "SEGA Golf Charity INC.",
+   "features": [
+    "50+ crosshair styles: dot, cross, circle, T-shape, chevron, sniper scope",
+    "Full colour picker plus size, thickness, gap, rotation and opacity",
+    "Drag the crosshair anywhere or snap it to screen centre in one tap",
+    "Touch pass-through — taps and swipes work under the crosshair",
+    "Save a preset per game and switch between them in seconds",
+    "Auto show when your game opens, auto hide when you leave, plus FPS and ping display"
+   ],
+   "name": "AimDot - Custom Crosshair FPS",
+   "package": "com.aimdot.customcrosshair.fps",
+   "review": "A sharper aim point for mobile shooters — AimDot - Custom Crosshair FPS launched in October 2026, passed 350,000 installs in three weeks and was updated on Oct 21, 2026, ranking #13 among new free tools in India, though it has no user ratings yet. It draws a custom crosshair overlay on your screen — 50+ reticle styles with full control of colour, size, thickness, gap and opacity — with touch pass-through so your fire button still works, per-game presets, and an FPS and ping display. Pros: a big install base for a new app, genuinely useful for hip-fire aiming in PUBG Mobile and Free Fire, and it is light at 25MB with no login needed. Cons: no ratings yet, it contains ads, and it is a visual overlay only — not an aimbot — and some games restrict overlays, so check your game's rules before using it in ranked matches. Best for Pakistani PUBG and Free Fire players who want a clearer, custom aim point without changing phones.",
+   "slug": "aimdot-custom-crosshair-fps"
   }
  ],
  "categories": [
@@ -3424,6 +3488,12 @@
    "excerpt": "AI tutors that quiz you on your own notes: the best AI study and exam-prep apps for Pakistani students.",
    "slug": "best-ai-study-apps-pakistan",
    "title": "Best AI Study & Exam Prep Apps in Pakistan 2026"
+  },
+  {
+   "content": "1. Daraz — Pakistan's biggest online marketplace: millions of products from local sellers and brands, with Daraz Mall for verified stores, regular sales and cash on delivery across the country. Our review: /apps/daraz/.\n2. OLX Pakistan — the go-to place to buy and sell used items locally: phones, bikes, cars, furniture and more, listed by people in your own city so you can inspect before paying. Our review: /apps/olx-pakistan/.\n3. AliExpress — order directly from sellers in China, often at the lowest price for gadgets, accessories and phone parts, with buyer protection if the parcel never arrives. Our review: /apps/aliexpress/.\n4. Temu — budget shopping with very low prices and frequent coupons, useful for accessories, home goods and small gadgets if you can wait for international delivery. Our review: /apps/temu/.\n5. Markaz: Pakistan Shopping App — a reselling app built for Pakistan: pick products, share them on WhatsApp and earn a margin on each order while Markaz handles stock, packing and delivery. Our review: /apps/markaz/.\n6. DealSeek: Coupons & Discounts — finds coupons and discount codes for Pakistani stores so you pay less on the same order. Our review: /apps/dealseek-coupons-discounts/.\n7. PakWheels: Buy & Sell Cars — Pakistan's largest car marketplace, for buying or selling a used car or bike with verified listings and price checks. Our review: /apps/pakwheels/.\n8. Zameen.com — Pakistan's biggest property portal, for buying, selling or renting houses, plots and apartments with verified listings. Our review: /apps/zameen/.\n9. Prefer cash on delivery and check the seller's ratings before ordering — never pay in advance to a stranger on WhatsApp or JazzCash for a deal that looks too good to be true.\n10. Compare the same product on Daraz, OLX and AliExpress before buying — the price gap is often thousands of rupees, and DealSeek can cut it further with a coupon.",
+   "excerpt": "From Daraz to OLX and Markaz: the best online shopping apps for Pakistani buyers — and how to avoid fake sellers.",
+   "slug": "best-online-shopping-apps-pakistan",
+   "title": "Best Online Shopping Apps in Pakistan 2026"
   }
  ]
 }
