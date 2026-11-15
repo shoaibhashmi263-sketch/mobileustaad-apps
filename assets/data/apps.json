@@ -3256,6 +3256,70 @@
    "package": "com.aimdot.customcrosshair.fps",
    "review": "A sharper aim point for mobile shooters — AimDot - Custom Crosshair FPS launched in October 2026, passed 350,000 installs in three weeks and was updated on Oct 21, 2026, ranking #13 among new free tools in India, though it has no user ratings yet. It draws a custom crosshair overlay on your screen — 50+ reticle styles with full control of colour, size, thickness, gap and opacity — with touch pass-through so your fire button still works, per-game presets, and an FPS and ping display. Pros: a big install base for a new app, genuinely useful for hip-fire aiming in PUBG Mobile and Free Fire, and it is light at 25MB with no login needed. Cons: no ratings yet, it contains ads, and it is a visual overlay only — not an aimbot — and some games restrict overlays, so check your game's rules before using it in ranked matches. Best for Pakistani PUBG and Free Fire players who want a clearer, custom aim point without changing phones.",
    "slug": "aimdot-custom-crosshair-fps"
+  },
+  {
+   "category": "utilities",
+   "developer": "JustNewDesigns",
+   "features": [
+    "750+ widgets: clocks, calendars, weather, battery, photo and utility widgets",
+    "Frosted-glass design — translucent, layered widgets that suit any wallpaper",
+    "Customisable colours, text, background, accent and transparency",
+    "Resizable layouts, from a small corner widget to a full-screen centrepiece",
+    "Works on any Android phone with no KWGT or extra app needed",
+    "Clean typography and quick toggles for everyday settings and apps"
+   ],
+   "name": "Glass Widgets",
+   "package": "com.jndapp.glass.widgets",
+   "review": "The best-rated new app of the week — Glass Widgets launched in October 2026, passed 150,000 installs in about three weeks and holds a 4.8-star rating from 741 reviews, ranking #3 among new free personalisation apps in India, and it was updated on Oct 22, 2026. It offers 750+ frosted-glass widgets — clocks, calendars, weather, battery, photo and utility widgets — that you can customise by colour and transparency and drop on your home screen without KWGT or any other app. Pros: the strongest rating of this week's new apps, a huge widget library in one free app, and it works on any Android phone. Cons: it contains ads, some widgets are premium, and a few users report extra battery drain. Best for Pakistani users who want a clean, modern glassmorphism home screen without installing a launcher or a widget engine.",
+   "slug": "glass-widgets"
+  },
+  {
+   "category": "finance",
+   "developer": "VINAINCON CONSULTANT COMPANY",
+   "features": [
+    "Log income and daily expenses in seconds, sorted by category",
+    "Set custom budgets for groceries, bills, entertainment and more",
+    "Clear charts and graphs show where your money goes each month",
+    "Manage multiple wallets — cash, bank accounts, cards and savings",
+    "Recurring bills and subscription reminders so no due date is missed",
+    "PIN, fingerprint or face lock keeps your financial data private"
+   ],
+   "name": "Moni: Daily Budget Planner",
+   "package": "com.vionyx.moni.budgetplanner",
+   "review": "A simple money manager for everyday spending — Moni: Daily Budget Planner launched in October 2026, passed 72,000 installs in three weeks and was updated on Nov 8, 2026 to version 1.0.2, ranking among the top new free apps in India, though it has no user ratings yet. It tracks daily income and expenses by category, lets you set budgets for groceries, bills and entertainment with reminders when you are close to the limit, manages multiple wallets in one place, and reminds you about recurring bills and subscriptions. Pros: clean and simple to use, it is light at about 24MB, and the multi-wallet view plus bill reminders cover the basics well. Cons: no ratings yet so quality is unproven, it contains ads, and as a new app its long-term reliability is still to be proven. Best for Pakistani users who want to track daily kharcha in rupees, plan a monthly household budget and stop overspending before the month ends.",
+   "slug": "moni-daily-budget-planner"
+  },
+  {
+   "category": "entertainment",
+   "developer": "AADHYA TECHNOLOGIES LIMITED",
+   "features": [
+    "Fiction novels across romance, drama, fantasy, mystery, thriller and more",
+    "Trending Now, Weekly Picks, Must-Read and Editor's Picks collections",
+    "Search by title or genre, with personalised recommendations",
+    "Customise font size, brightness and Light, Sepia or Dark themes",
+    "Instant or Slide reading modes plus a Focus mode for cleaner reading",
+    "Save favourites in your library and continue from where you left off"
+   ],
+   "name": "Novels: Read Fiction Stories",
+   "package": "com.fiction.novel.story",
+   "review": "A free fiction library with a perfect early score — Novels: Read Fiction Stories launched in October 2026, passed 84,000 installs and holds a 5.0-star rating from 74 reviews, ranking #2 among new free books apps in India, and it was updated on Nov 5, 2026. It offers novels and fiction stories across romance, drama, fantasy, mystery, thriller and more, with Trending Now and Editor's Picks collections, genre search, and a reading view you can tune with font size, brightness, Sepia or Dark themes and a Focus mode — plus a library that saves your place. Pros: the highest early rating of this week's new apps, a wide genre range in one free app, and genuinely customisable reading. Cons: only 74 ratings so far, it contains ads, and the catalogue leans heavily on romance, which may not suit every reader. Best for Pakistani readers who want free English fiction novels on their phone for bus rides, load-shedding evenings and bedtime reading.",
+   "slug": "novels-read-fiction-stories"
+  },
+  {
+   "category": "lifestyle",
+   "developer": "AQUINO TOWING",
+   "features": [
+    "Counts your steps automatically as you walk through the day",
+    "Shows walking distance and calories burned at a glance",
+    "Set daily step goals and watch your progress build",
+    "Simple, straightforward activity tracking with no fuss",
+    "Light at about 18MB with an Everyone content rating",
+    "Free to use with ads"
+   ],
+   "name": "Step Counter - Daily Walker",
+   "package": "com.health.walking.steptracker.goals.dailyactivitytracker.app",
+   "review": "A no-fuss pedometer for a daily walking habit — Step Counter - Daily Walker launched in October 2026, passed 26,000 installs and holds a 4.3-star rating from 96 reviews, ranking #1 among new free health and fitness apps in India, and it was updated on Oct 22, 2026. It counts your steps, shows distance walked and calories burned, and lets you set a daily step goal to keep the habit going. Pros: simple and focused with no clutter, it is light at about 18MB, and it carries an Everyone content rating. Cons: only 96 ratings so far, it contains ads, and step accuracy depends on your phone's sensor, so counts can vary between devices. Best for Pakistani users starting a daily walk — morning walks, evening strolls or a 10,000-step target — who want a simple counter without a fitness account or a smartwatch.",
+   "slug": "step-counter-daily-walker"
   }
  ],
  "categories": [
