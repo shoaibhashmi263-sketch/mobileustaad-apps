@@ -3320,6 +3320,70 @@
    "package": "com.health.walking.steptracker.goals.dailyactivitytracker.app",
    "review": "A no-fuss pedometer for a daily walking habit — Step Counter - Daily Walker launched in October 2026, passed 26,000 installs and holds a 4.3-star rating from 96 reviews, ranking #1 among new free health and fitness apps in India, and it was updated on Oct 22, 2026. It counts your steps, shows distance walked and calories burned, and lets you set a daily step goal to keep the habit going. Pros: simple and focused with no clutter, it is light at about 18MB, and it carries an Everyone content rating. Cons: only 96 ratings so far, it contains ads, and step accuracy depends on your phone's sensor, so counts can vary between devices. Best for Pakistani users starting a daily walk — morning walks, evening strolls or a 10,000-step target — who want a simple counter without a fitness account or a smartwatch.",
    "slug": "step-counter-daily-walker"
+  },
+  {
+   "category": "lifestyle",
+   "developer": "Ihsan Studios",
+   "features": [
+    "Accurate prayer times with notifications for all five daily prayers",
+    "Qibla compass so you can find the prayer direction anywhere",
+    "Track every prayer and build a daily streak to keep the habit going",
+    "Step-by-step learn-salah guides for correct prayer",
+    "Fajr alarm and prayer reminders that fit your routine",
+    "Clean, ad-free design with no distractions"
+   ],
+   "name": "Just Pray: Track Muslim Prayer",
+   "package": "com.justprayapp.justpray",
+   "review": "A prayer companion with the highest rating of this week's new apps — Just Pray: Track Muslim Prayer passed 200,000 installs and holds a 4.8-star rating from 22,319 reviews, ranking among the top trending apps globally, and it was updated on Nov 10, 2026 to version 1.15.2. It gives accurate prayer times with notifications, a Qibla compass, and a simple tracker that records each prayer so you can build a daily streak, plus step-by-step learn-salah guides and a Fajr alarm for early mornings. Pros: the strongest user rating of this week's picks, it is completely ad-free, and the streak tracker genuinely helps keep prayers regular. Cons: it is heavy at about 97MB, it focuses on prayer tracking rather than Quran reading, and prayer-time accuracy depends on your city and calculation settings, so check them once after installing. Best for Pakistani users who want to keep all five daily prayers on track, never miss Fajr, and build a steady prayer habit without ads interrupting them.",
+   "slug": "just-pray-track-muslim-prayer"
+  },
+  {
+   "category": "education",
+   "developer": "STARVIA COMPANY LIMITED",
+   "features": [
+    "Learn English, Spanish and 12 more languages in one app",
+    "Short interactive speaking lessons that fit a busy day",
+    "Practice real conversations with an AI tutor and get instant feedback",
+    "Quick tests after every lesson to lock in what you learned",
+    "Track your progress and keep a daily learning streak",
+    "Light at about 24MB with an Everyone content rating"
+   ],
+   "name": "Learn English, Spanish: Talkie",
+   "package": "ai.starvia.talkie",
+   "review": "The fastest-rising language app of the week — Learn English, Spanish: Talkie launched in October 2026, passed 74,000 installs and holds a 4.5-star rating from 804 reviews, ranking #1 among new free education apps in the US and many other countries, and it was updated on Nov 11, 2026 to version 1.0.2. It teaches English, Spanish and 12 more languages through short interactive lessons, lets you practise real conversations with an AI tutor, and tests you right after each lesson so the words stick. Pros: a strong early rating, speaking practice instead of just flashcards, and it is light at about 24MB. Cons: it contains ads, one reviewer notes the advertised language list does not match what is inside, and as a new app its long-term course depth is still unproven. Best for Pakistani students and job seekers who want to speak English confidently — for interviews, CSS or study abroad — with a few minutes of daily speaking practice.",
+   "slug": "talkie-learn-english-spanish"
+  },
+  {
+   "category": "ai",
+   "developer": "DQL TechLab",
+   "features": [
+    "Turn any photo into AI artwork in one tap",
+    "Animate photos into short AI videos for reels and TikTok",
+    "Trending styles: cinematic, cartoon, romantic scenes and time-travel looks",
+    "Smart enhancements that refine lighting, detail and overall look",
+    "Clean up messy backgrounds into tidy, aesthetic scenes",
+    "Beginner-friendly — upload, pick a style, and let AI do the rest"
+   ],
+   "name": "Gravida: AI Photo Maker",
+   "package": "com.ai.aiphoto.aivideo.creator.generator",
+   "review": "The AI photo app with the biggest momentum this week — Gravida: AI Photo Maker launched in April 2026 and pulled in 650,000 installs in the last 30 days alone, holding a 3.8-star rating from 1,013 reviews and ranking #14 among free art and design apps in India. It turns photos into AI artwork and short animated videos in a few taps, with trending styles from cinematic and cartoon looks to time-travel and romantic scenes, plus background cleanup for tidier shots. Pros: the fastest-growing AI photo app on this week's charts, photo and video generation in one free app, and it is light at about 28MB. Cons: reviews are mixed — some users report failed exports and too many ads — and it has not been updated since April 2026. Best for Pakistani creators who want quick AI photos and short videos for TikTok, Instagram and WhatsApp status without learning an editor.",
+   "slug": "gravida-ai-photo-maker"
+  },
+  {
+   "category": "photography",
+   "developer": "Bakshi foundation",
+   "features": [
+    "Stamps photos and videos with GPS location and a live map",
+    "Adds the real address, date, time and weather to every shot",
+    "Built-in GPS camera so stamps are added as you shoot",
+    "Useful proof for field work, deliveries and property visits",
+    "Works on Android 9 and above, light at about 25MB",
+    "Free to use with ads"
+   ],
+   "name": "GPS Photo Stamp Map Camera",
+   "package": "com.gps.camera.photolocation.locationstamp.map",
+   "review": "A location-stamp camera with serious momentum — GPS Photo Stamp Map Camera launched in August 2026, passed 1.4 million installs with 740,000 of them in the last 30 days, and it was updated on Oct 30, 2026 to version 1.0.2. It stamps photos and videos with GPS location, a live map, the real address, date, time and weather as you shoot, which makes every photo verifiable proof of where and when it was taken. Pros: huge install growth for a niche utility, it is light at about 25MB, and the stamps are genuinely useful for field work. Cons: it has no user ratings yet so quality is unproven, it contains ads, and it asks for 30 permissions, so check what it requests before installing. Best for Pakistani users who need photo proof on the job — property dealers, delivery riders, surveyors and field staff — or anyone who wants location and time stamped on their photos.",
+   "slug": "gps-photo-stamp-map-camera"
   }
  ],
  "categories": [
@@ -3558,6 +3622,12 @@
    "excerpt": "From Daraz to OLX and Markaz: the best online shopping apps for Pakistani buyers — and how to avoid fake sellers.",
    "slug": "best-online-shopping-apps-pakistan",
    "title": "Best Online Shopping Apps in Pakistan 2026"
+  },
+  {
+   "content": "1. Moni: Daily Budget Planner — log daily income and expenses by category, set budgets for groceries and bills, manage multiple wallets and get bill reminders, all in a simple free app. Our review: /apps/moni-daily-budget-planner/.\n2. EzBudget: Expense Manager — a straightforward expense tracker with clear charts that show where your money goes each month, handy for a monthly household budget. Our review: /apps/ezbudget-expense-manager/.\n3. Money Manager: Expense Planner — track spending, plan a monthly budget and see your balance at a glance, with a clean layout that suits daily use. Our review: /apps/money-manager-expense-planner/.\n4. Track in rupees every day — a budget only works if you log spending the same day; even two minutes at night beats a perfect spreadsheet you never open.\n5. Set one budget per category — groceries, transport, bills and entertainment each get their own limit, so one overspend does not sink the whole month.\n6. Pick an app with a PIN lock — your expense history is private financial data, so use an app that locks with a PIN or fingerprint and never share screenshots of it.",
+   "excerpt": "Track daily kharcha in rupees and stop overspending before the month ends: the best budget and expense tracker apps for Pakistan.",
+   "slug": "best-budget-expense-tracker-apps-pakistan",
+   "title": "Best Budget & Expense Tracker Apps in Pakistan 2026"
   }
  ]
 }
