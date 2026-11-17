@@ -3384,6 +3384,70 @@
    "package": "com.gps.camera.photolocation.locationstamp.map",
    "review": "A location-stamp camera with serious momentum — GPS Photo Stamp Map Camera launched in August 2026, passed 1.4 million installs with 740,000 of them in the last 30 days, and it was updated on Oct 30, 2026 to version 1.0.2. It stamps photos and videos with GPS location, a live map, the real address, date, time and weather as you shoot, which makes every photo verifiable proof of where and when it was taken. Pros: huge install growth for a niche utility, it is light at about 25MB, and the stamps are genuinely useful for field work. Cons: it has no user ratings yet so quality is unproven, it contains ads, and it asks for 30 permissions, so check what it requests before installing. Best for Pakistani users who need photo proof on the job — property dealers, delivery riders, surveyors and field staff — or anyone who wants location and time stamped on their photos.",
    "slug": "gps-photo-stamp-map-camera"
+  },
+  {
+   "category": "finance",
+   "developer": "Dihari",
+   "features": [
+    "Earn coins with surveys from CPX Research and TheoremReach",
+    "Daily streak gives up to a 1.5x earning boost",
+    "Tasks, game offers and a free daily spin wheel",
+    "Withdraw from just 100 coins to JazzCash or Easypaisa",
+    "SadaPay and bank account withdrawals also supported",
+    "No investment or deposit ever required to earn"
+   ],
+   "name": "Dihari: Earn Daily Rewards",
+   "package": "com.dihari.app",
+   "review": "The Pakistan-built earning app of the week — Dihari: Earn Daily Rewards launched on Google Play in October 2026 and was updated on Nov 5, 2026. It is made for Pakistan: earn coins through surveys from established partners CPX Research and TheoremReach, plus tasks, game offers and a daily spin wheel, then withdraw from just 100 coins (1 coin = $0.01) to JazzCash, Easypaisa, SadaPay or a bank account, with a daily streak boosting earnings up to 1.5x. Pros: built specifically for Pakistan with the wallets people already use, a genuinely low withdrawal minimum, and it never asks for any investment or deposit. Cons: it is brand new so payouts are not yet independently proven — one Play Store review calls it fake — survey availability varies by user, and it is for users aged 18 and over only. Best for Pakistani users who want to try a local survey-and-tasks earner — start small, test a withdrawal at the minimum before spending serious time on it, and never pay anyone who asks for a fee to unlock earnings.",
+   "slug": "dihari-earn-daily-rewards"
+  },
+  {
+   "category": "utilities",
+   "developer": "egycreativeapps",
+   "features": [
+    "Keep videos, music and images organised in one media library",
+    "Save supported media and watch it back offline",
+    "Built-in player so you never leave the app to watch",
+    "Simple, clean layout that is easy to browse",
+    "Light and fast on budget phones",
+    "Free to use"
+   ],
+   "name": "DownSave",
+   "package": "com.downsave",
+   "review": "The fastest-rising downloader of the week — DownSave launched on Google Play around Nov 6, 2026 and pulled in 55,000 installs in its first 11 days, holding a 4.0-star rating and ranking #3 among this week's trending Android apps. It is a personal media library: keep your videos, music and images organised in one place, save supported media for offline viewing and play it back in the built-in player without switching apps. Pros: one of the week's biggest climbers, a simple layout that is easy to browse, and it stays light on budget phones. Cons: it is very new so long-term reliability is unproven, it only saves media you have the right to download, and as with any new downloader, check its permissions before installing. Best for Pakistani users who save lots of videos and status clips and want them organised in one tidy library instead of scattered across the gallery.",
+   "slug": "downsave"
+  },
+  {
+   "category": "gaming",
+   "developer": "Tempo Games Studio",
+   "features": [
+    "Build a hero from over 100 unique items, weapons and skills",
+    "Hundreds of fully voiced encounters in a galactic marketplace",
+    "Asynchronous multiplayer battles against rival players",
+    "Every run is a new puzzle — no two playthroughs are the same",
+    "Free to start with hero Vanessa; one-time unlock for the full roster",
+    "PC owners can link a Tempo account and play at no extra cost"
+   ],
+   "name": "The Bazaar",
+   "package": "com.tempogames.thebazaar",
+   "review": "The biggest Android game launch of the week — The Bazaar arrived on Google Play on Nov 10, 2026 and pulled in 180,000 installs in its first week, holding a 4.3-star rating and ranking #1 among this week's trending apps. The hero-building strategy game from Tempo Games Studio (PC, August 2025) drops you in a galactic marketplace where you collect over 100 exotic items, weapons and skills, arrange them on your board, and battle creatures and rival players in asynchronous multiplayer, with hundreds of fully voiced encounters along the way. Pros: the week's #1 trending app, deep build-crafting that rewards smart planning, and it is free to start with hero Vanessa. Cons: the full hero roster needs a one-time purchase, it is heavy at about 2.46GB, and it is online-only so it eats mobile data. Best for Pakistani strategy fans who loved Hearthstone-style deck builders and want a fresh, thinking-person's battler on their phone.",
+   "slug": "the-bazaar"
+  },
+  {
+   "category": "lifestyle",
+   "developer": "Fitself",
+   "features": [
+    "Track your daily routine, habits and tasks in one place",
+    "To-do lists and a schedule planner that fit your day",
+    "Fun tips and reminders to keep habits on track",
+    "Self-care and ADHD-friendly habit planning",
+    "Completely ad-free experience",
+    "Free to use with an optional Plus membership"
+   ],
+   "name": "Dear Me: Daily Routine Tracker",
+   "package": "com.kompanion.habit.android",
+   "review": "The habit tracker climbing the charts this week — Dear Me: Daily Routine Tracker has 4.4 million installs and a 4.8-star rating from 211,707 reviews, updated on Oct 22, 2026 to version 1.1.52, and its installs tripled this week. It tracks your daily routine, habits and tasks in one organiser, with to-do lists, a schedule planner and fun tips to keep you on track, plus self-care and ADHD-friendly planning — all completely ad-free. Pros: one of the highest-rated habit apps on the Play Store, no ads at all, and the free version covers daily tracking well. Cons: it is heavy at about 146MB, it pushes its paid Plus membership aggressively, and it closely resembles another app from the same style of publisher. Best for Pakistani students and professionals who want a simple daily routine planner — for namaz, study, gym or work habits — without ads interrupting them.",
+   "slug": "dear-me-daily-routine-tracker"
   }
  ],
  "categories": [
