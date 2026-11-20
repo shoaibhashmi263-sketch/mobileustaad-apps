@@ -3576,6 +3576,70 @@
    "package": "com.reels.kivo",
    "review": "The short-drama app climbing fastest this week — KivoReels - Short Drama, from Kivo TV Limited, is #12 on this week's trending Android apps with 190,000 installs in the last 7 days (10 times the week before) and 280,000 total installs with a 4.7-star rating, only 5 weeks after launch. It serves bite-sized vertical dramas — romance, revenge and billionaire twists — in episodes short enough to finish in one sitting, free to start with ads and no subscription needed to begin watching. Pros: one of the best-rated new short-drama apps, genuinely free to start, and light enough for budget phones on mobile data. Cons: it is very new so the episode library is still small, and like all short-drama apps some episodes sit behind ads or paid unlocks. Best for Pakistani viewers who binge DramaBox-style short dramas on the bus or before bed and want another free option to try.",
    "slug": "kivoreels-short-drama"
+  },
+  {
+   "category": "finance",
+   "developer": "eneba.com",
+   "features": [
+    "Play featured mobile games and earn coins for reaching milestones",
+    "Play up to five games at once and work on several rewards in parallel",
+    "Over 120 game offers across puzzle, solitaire, match-3 and card games",
+    "Redeem coins for PayPal cash or gift cards from 100,000+ rewards",
+    "No ads inside the app — the games themselves are the activity",
+    "Free to join with a Google, Facebook or Apple account"
+   ],
+   "name": "Snakzy: Play Games, Earn Money",
+   "package": "com.playnearn",
+   "review": "The legit play-to-earn app worth knowing about — Snakzy: Play Games, Earn Money, from eneba.com (Helis Play UAB), has a 4.5-star rating from over 44,000 reviews and 3.2 million installs since launching on Google Play in March 2024, updated on Oct 27, 2026. You play featured mobile games, reach milestones and earn coins, then redeem them for PayPal cash or gift cards — Amazon, Google Play and more — with over $1.2 million in rewards redeemed according to the listing, and no ads inside the app. Pros: a real, publicly identified operator (Eneba marketplace), free to join, and genuinely no ads. Cons: PayPal does not receive payments in Pakistan, so gift cards are the realistic way to cash out here; the earnings are small side money, not an income; it is 18+ only and needs an Eneba account. Best for Pakistani gamers who already play casual games daily and want a little extra back for time they would spend playing anyway — just do not expect it to pay bills.",
+   "slug": "snakzy-play-games-earn-money"
+  },
+  {
+   "category": "gaming",
+   "developer": "HappyGames Studio",
+   "features": [
+    "More than 1,000 instant mini-games inside a single app",
+    "Action, puzzle, racing and arcade games across many genres",
+    "Play instantly — no separate download for each game",
+    "Small footprint, so it suits budget phones and low storage",
+    "New games added regularly to keep the collection fresh",
+    "Free to play with no subscription needed to start"
+   ],
+   "name": "1000+ Games in 1",
+   "package": "com.zoxok.app",
+   "review": "The fastest-climbing app on Google Play this week — 1000+ Games in 1, from HappyGames Studio, is the #1 trending Android app right now with 260,000 installs in the last 7 days (19 times the week before) and 3.3 million installs in the last 12 weeks, with a rating just under 4 stars. It packs over a thousand instant mini-games — action, puzzles, racing and arcade — into one app, so you play straight away instead of downloading a new game every time you get bored. Pros: enormous variety in a single install, genuinely light on storage, and a good fit for budget phones on mobile data. Cons: quality varies a lot between the mini-games and some feel like filler, and the most popular games inside are simple time-passers rather than deep experiences. Best for Pakistani users with a low-storage phone who want a new game to try every day without filling their phone with installs.",
+   "slug": "zoxok-1000-games-in-1"
+  },
+  {
+   "category": "utilities",
+   "developer": "Sociallite",
+   "features": [
+    "Blocks or limits reels and shorts inside social media apps",
+    "Set daily time limits per app and have them enforced automatically",
+    "Tracks how long you spend scrolling so the habit becomes visible",
+    "Uses Android's Accessibility Service to watch app usage",
+    "No ads, and the listing says it collects no personal data",
+    "Simple setup — pick the apps, set a limit, and let it enforce it"
+   ],
+   "name": "Sociallite -Block Reels&Shorts",
+   "package": "com.sociallite.android",
+   "review": "The screen-time app climbing fastest this week — Sociallite -Block Reels&Shorts, from Sociallite, picked up 100,000 installs in the last 7 days (6 times the week before) with 700,000 total installs and a 4.4-star rating, and it shows no ads. It uses Android's Accessibility Service to watch how long you spend in reels and shorts, then enforces the daily limits you set, so the scrolling actually stops instead of just being counted. Pros: it tackles doomscrolling directly rather than only reporting it, it is free of ads, and the listing states it does not collect or transmit your data. Cons: it needs Accessibility permission to work, which some users find intrusive; it only helps if you respect the limits instead of turning them off; and at 8 months old it is still a young app. Best for Pakistani students and office workers whose study or work time keeps disappearing into TikTok and Instagram reels.",
+   "slug": "sociallite-block-reels-shorts"
+  },
+  {
+   "category": "utilities",
+   "developer": "Punjab Information Technology Board",
+   "features": [
+    "Lodge complaints about Punjab government services in one place",
+    "Send feedback and suggestions directly to the Chief Minister's office",
+    "Track the status of your complaint after submitting it",
+    "Covers many provincial departments and public services",
+    "Official app built by the Punjab Information Technology Board",
+    "Free to use — no charges for lodging a complaint"
+   ],
+   "name": "Maryam ko Batayn",
+   "package": "pk.pitb.gov.maryamKoBatayn",
+   "review": "The official Punjab government complaint app trending this week — Maryam ko Batayn, from the Punjab Information Technology Board, picked up 110,000 installs in the last 7 days (3 times the week before) and has 4.7 million total installs. It is the provincial government's own channel for citizens to lodge complaints about public services and send feedback directly to the Chief Minister's office, with tracking so you can follow your complaint after submitting it. Pros: a real, official channel instead of only posting on social media, free to use, and it covers many provincial departments. Cons: its 2.2-star rating is low, and many reviewers report slow responses and complaints that stay unresolved — so treat it as an official record of your complaint, not a quick fix. Best for Punjab residents who have a genuine service complaint — a hospital, school, office or utility issue — and want it on the official record.",
+   "slug": "maryam-ko-batayn"
   }
  ],
  "categories": [
@@ -3826,6 +3890,12 @@
    "excerpt": "Beat phone distraction and study smarter: the best focus timers, habit trackers and exam-prep apps for Pakistani students.",
    "slug": "best-focus-study-apps-pakistan",
    "title": "Best Focus & Study Apps in Pakistan 2026"
+  },
+  {
+   "content": "1. 1000+ Games in 1 — the #1 trending app this week: over a thousand instant mini-games in one light install, perfect for budget phones. Our review: /apps/zoxok-1000-games-in-1/.\n2. PUBG Mobile — still the battle royale standard in Pakistan, with ranked seasons, clans and regular new modes. Our review: /apps/pubg-mobile/.\n3. Free Fire — the lighter battle royale that runs smoothly on low-end phones and short matches that fit a tea break. Our review: /apps/free-fire/.\n4. The Bazaar — a fresh hero-building strategy game that hit 1.5 million installs in under two weeks. Our review: /apps/the-bazaar/.\n5. Monster Hunter Outlanders — the big open-world hunting game from Garena and TiMi, officially licensed from CAPCOM. Our review: /apps/monster-hunter-outlanders/.\n6. Arknights: Endfield — Google Play's Best Game of 2026: a deep 3D strategy RPG with base building on the planet Talos-II. Our review: /apps/arknights-endfield/.\n7. Ludo Star — the classic board game that still fills Pakistani family evenings, online with friends or against the computer. Our review: /apps/ludo-star/.\n8. Pick games that fit your phone — heavy 3D games need a mid-range phone and Wi-Fi for their big downloads, while light games like Free Fire and Ludo Star run fine on budget phones and mobile data.\n9. Watch the data, not just the download size — online games keep using mobile data while you play, so prefer Wi-Fi for long sessions and check the in-game data usage if you are on a small bundle.",
+   "excerpt": "From the week's #1 trending game collection to PUBG and Ludo Star: the best mobile games for Pakistani players, on any budget phone.",
+   "slug": "best-mobile-games-pakistan-2026",
+   "title": "Best Mobile Games to Play in Pakistan 2026"
   }
  ]
 }
