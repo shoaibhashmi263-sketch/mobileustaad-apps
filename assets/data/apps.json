@@ -3640,6 +3640,70 @@
    "package": "pk.pitb.gov.maryamKoBatayn",
    "review": "The official Punjab government complaint app trending this week — Maryam ko Batayn, from the Punjab Information Technology Board, picked up 110,000 installs in the last 7 days (3 times the week before) and has 4.7 million total installs. It is the provincial government's own channel for citizens to lodge complaints about public services and send feedback directly to the Chief Minister's office, with tracking so you can follow your complaint after submitting it. Pros: a real, official channel instead of only posting on social media, free to use, and it covers many provincial departments. Cons: its 2.2-star rating is low, and many reviewers report slow responses and complaints that stay unresolved — so treat it as an official record of your complaint, not a quick fix. Best for Punjab residents who have a genuine service complaint — a hospital, school, office or utility issue — and want it on the official record.",
    "slug": "maryam-ko-batayn"
+  },
+  {
+   "category": "gaming",
+   "developer": "Azra Games",
+   "features": [
+    "Real-time action combat — dodge, swap heroes mid-battle and chain ultimates",
+    "Collect Primals, each with a distinct combat role and elemental powers",
+    "Deep RPG progression: gear, skills, awakenings and team synergies",
+    "Dark fantasy story set in the shattered realm of Dunmiir",
+    "Brutal boss fights and live events, plus the Nethermaw Descent climb",
+    "Free to play with in-app purchases for extra heroes and gear"
+   ],
+   "name": "UnGodly",
+   "package": "com.azragames.ungodly",
+   "review": "The fastest-growing game on Google Play this week — UnGodly, from Azra Games, picked up 92,000 installs in the last 7 days (45 times the week before) with 290,000 total installs and a 4.7-star rating from over 5,500 reviews, just two weeks after launch. It is a dark fantasy action RPG where you control every strike yourself: dodge attacks, swap heroes mid-battle, chain ultimates and trigger elemental reactions in the shattered realm of Dunmiir. Pros: genuinely skill-based real-time combat rather than auto-battling, a mature story with cinematic missions, and deep hero-building with Primals, gear and awakenings. Cons: the combat is violent and bloody, so it is not for younger players; as a brand-new game it will need time to prove its long-term balance; and heavy 3D action means a mid-range phone and Wi-Fi for the big download. Best for Pakistani action-RPG fans who want a fresh hack-and-slash game with real combat depth instead of another auto-battler.",
+   "slug": "ungodly"
+  },
+  {
+   "category": "social",
+   "developer": "Hangzhou Mocha Network Technology Co., Ltd",
+   "features": [
+    "Live voice rooms with up to 36 mics — music lounges, talent shows, late-night chats",
+    "Create your own room in seconds and host friends from around the world",
+    "3D virtual gifts and effects to support favourite hosts",
+    "Instant match with people who share your music taste and interests",
+    "Prestige and Charm leaderboards for top hosts and listeners",
+    "No ads, with 24/7 moderation and a medium maturity rating"
+   ],
+   "name": "Livo Live: Voice Chat & Party",
+   "package": "com.livolive.chat",
+   "review": "The voice-chat app climbing fastest this week — Livo Live: Voice Chat & Party, from Hangzhou Mocha Network Technology, reached 140,000 installs in its first 30 days (all of them in the last month) with a 4.6-star rating and no ads, updated on Nov 18, 2026. It is a live audio community: join voice rooms with up to 36 mics for music lounges, talent shows and late-night chats, host your own room, and send 3D virtual gifts — all without turning on a camera. Pros: no ads at all, a genuinely global community across Asia, the Middle East and Africa, and voice-only rooms that work well on mobile data. Cons: it needs Android 12.1 or higher, so older phones cannot run it; face verification caused trouble for some reviewers; and at only two months old it is still a young app finding its audience. Best for Pakistani users who enjoy late-night voice chats, live music rooms and meeting new people without the pressure of video.",
+   "slug": "livo-live-voice-chat-party"
+  },
+  {
+   "category": "education",
+   "developer": "Codeway Technologies",
+   "features": [
+    "Guided lessons on investing, trading and chart analysis",
+    "Quizzes that test what you actually understood, not just read",
+    "Realistic market simulator for paper trading with no real money at risk",
+    "Learn how buying, selling, timing and strategy fit together",
+    "Free to start, rated for Everyone, runs on Android 7.0 and up",
+    "Updated regularly — latest version released Nov 20, 2026"
+   ],
+   "name": "Learn Stock Trading - Finrise",
+   "package": "com.codeway.financelearning",
+   "review": "The stock-market learning app worth a look — Learn Stock Trading - Finrise, from Codeway Technologies, holds a 4.8-star rating from over 3,300 reviews with 100,000+ installs since launching in June 2026, updated on Nov 20, 2026. Instead of long theory, it teaches investing through guided lessons, quizzes and a realistic market simulator where you practise paper trading — buying, selling and timing decisions with no real money at risk. Pros: learning by doing beats reading about the market, it is free to start and rated for Everyone, and the simulator means beginners make their mistakes with virtual money. Cons: a simulator is not the real PSX or a brokerage account, so it cannot teach real trading costs and emotions; some advanced features sit behind in-app purchases; and at 100,000 installs it is still a small app. Best for Pakistani students and young professionals curious about stocks who want to understand the basics before ever risking real rupees.",
+   "slug": "finrise-learn-stock-trading"
+  },
+  {
+   "category": "utilities",
+   "developer": "Rufayda LLC",
+   "features": [
+    "Scan to PDF — turn paper receipts, ID cards and notes into clean PDFs",
+    "Fast, lightweight PDF viewer that opens files in a second",
+    "Read and manage Office documents alongside PDFs in one app",
+    "Annotate, sign, scan and convert files without leaving the app",
+    "Only 30.7 MB, so it suits budget phones with little storage",
+    "Free to use with ads; rated for Everyone"
+   ],
+   "name": "PicoPDF",
+   "package": "com.aurafile.reader",
+   "review": "The PDF tool climbing the charts this week — PicoPDF, from Rufayda LLC, has 390,000 installs with 270,000 of them in the last 30 days and a 4.3-star rating from over 2,100 reviews, updated on Nov 20, 2026. It is a fast, lightweight document viewer and PDF scanner: point your camera at a receipt, ID card or paper note and it becomes a crisp PDF, while Office documents open in the same app, all in a 30.7 MB package. Pros: genuinely light and fast on budget phones, scan-to-PDF with automatic edge detection, and it handles PDFs and Office files in one place. Cons: it contains ads, some reviewers report nagging update prompts, and the free version is a reader and scanner rather than a full PDF editor. Best for Pakistani students and office workers who constantly photograph documents, receipts and notes and want them filed as proper PDFs instead of a messy camera roll.",
+   "slug": "picopdf"
   }
  ],
  "categories": [
