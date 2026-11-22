@@ -3704,6 +3704,70 @@
    "package": "com.aurafile.reader",
    "review": "The PDF tool climbing the charts this week — PicoPDF, from Rufayda LLC, has 390,000 installs with 270,000 of them in the last 30 days and a 4.3-star rating from over 2,100 reviews, updated on Nov 20, 2026. It is a fast, lightweight document viewer and PDF scanner: point your camera at a receipt, ID card or paper note and it becomes a crisp PDF, while Office documents open in the same app, all in a 30.7 MB package. Pros: genuinely light and fast on budget phones, scan-to-PDF with automatic edge detection, and it handles PDFs and Office files in one place. Cons: it contains ads, some reviewers report nagging update prompts, and the free version is a reader and scanner rather than a full PDF editor. Best for Pakistani students and office workers who constantly photograph documents, receipts and notes and want them filed as proper PDFs instead of a messy camera roll.",
    "slug": "picopdf"
+  },
+  {
+   "category": "gaming",
+   "developer": "Level Infinite",
+   "features": [
+    "The original PUBG Mobile battle royale in under 0.96 GB — no big secondary download",
+    "Erangel comes pre-installed, so your first match starts straight after install",
+    "Graphics optimised for entry-level and mid-range phones",
+    "Same PUBG Mobile world and account system as the full game",
+    "Ban Pan anti-cheat with real-time monitoring and an Investigator system",
+    "Free to play with in-app purchases for passes and cosmetics"
+   ],
+   "name": "PUBG MOBILE FLASH",
+   "package": "com.tencent.igfit",
+   "review": "The official lightweight PUBG has landed — PUBG MOBILE FLASH, from Level Infinite, picked up 18 million installs within nine days of launch with a 4.3-star rating, updated on Nov 6, 2026. It is the original PUBG Mobile battle royale squeezed into under 0.96 GB: Erangel comes pre-installed, there is no big secondary download before your first match, and the graphics are tuned for entry-level and mid-range phones. Pros: the real PUBG experience on phones that could never run the full game, a tiny download that saves mobile data and storage, and the same world and account system as PUBG Mobile. Cons: matches still need a stable internet connection, some reviewers report lag and extra downloads in practice, and it has fewer maps and modes than the full game. Best for Pakistani players on budget phones or limited data who want proper PUBG without the multi-gigabyte download.",
+   "slug": "pubg-mobile-flash"
+  },
+  {
+   "category": "gaming",
+   "developer": "Cesar Alvarez FL",
+   "features": [
+    "Free with no ads — the whole career mode costs nothing",
+    "Fully offline: play anywhere with no internet or mobile data",
+    "Live one footballer's entire career, from debut to the World Cup",
+    "Over 1,600 clubs from 30 countries, plus 212 national teams",
+    "16 kinds of play: volleys, free kicks, penalties, dribbles and more",
+    "Optional FRIENDS mode to challenge friends by code and climb the world ranking"
+   ],
+   "name": "Football Legacy",
+   "package": "football.legacy",
+   "review": "The football game climbing the charts this week — Football Legacy, from Cesar Alvarez FL, reached 100,000+ installs with a 4.7-star rating since launching in October 2026. It is a single-player soccer career sim with a difference: it is completely free, has no ads at all, and plays fully offline — only the optional FRIENDS mode needs internet. You aim every shot with a slingshot, then live one player's whole career across 1,600+ clubs in 30 countries and 212 national teams, from debut to lifting the World Cup. Pros: genuinely free and ad-free, works offline on the bus or during load-shedding, and a huge football world for a small indie game. Cons: it needs Android 12.1 or higher, so older phones cannot run it; slingshot aiming will not suit everyone; and as a one-developer game it is still growing its feature set. Best for Pakistani football fans who want a proper career mode on their phone without ads, data or a subscription.",
+   "slug": "football-legacy"
+  },
+  {
+   "category": "gaming",
+   "developer": "Corblix Games",
+   "features": [
+    "100% offline — the full campaign runs with no internet, Wi-Fi or mobile data",
+    "Commando missions, zombie waves and detailed 3D combat zones",
+    "Battle royale, 5v5 multiplayer, team deathmatch and zombie survival modes",
+    "50+ sci-fi weapons to collect and upgrade",
+    "Smooth performance on budget phones with low battery drain",
+    "Free to play with ads and in-app purchases for VIP guns"
+   ],
+   "name": "GunZone: Gun Games Offline 3D",
+   "package": "com.tnodes.coverme.gun.shooting.games",
+   "review": "The offline shooter surging this week — GunZone: Gun Games Offline 3D, from Corblix Games, has 5.5 million installs with a 4.3-star rating from over 8,700 reviews, updated on Sep 21, 2026. It is a 3D shooting game built for phones with no internet: the whole campaign runs offline, with commando missions, zombie waves, battle royale, 5v5 multiplayer and 50+ sci-fi weapons to collect and upgrade. Pros: every mode works with zero data, it runs smoothly on budget phones with low battery drain, and the weapon variety keeps missions fresh. Cons: at 621 MB it is a heavy download, it contains ads, and it is rated Mature 17+ for violent content, so it is not for younger players. Best for Pakistani gamers who want a proper 3D shooter on the go — on the bus, in a village with weak signal, or anywhere the data runs out.",
+   "slug": "gunzone-gun-games-offline-3d"
+  },
+  {
+   "category": "education",
+   "developer": "Dub Dev Technologies",
+   "features": [
+    "Full Quran with a clear, comfortable reading experience",
+    "Listen to recitation while you read, ayah by ayah",
+    "Tafsir and articles to help understand what you are reading",
+    "Educational resources for learning, not just reciting",
+    "Free to use, rated for Everyone, runs on Android phones",
+    "Updated regularly — latest version released Sep 14, 2026"
+   ],
+   "name": "Dalalat Al-quran",
+   "package": "com.dubdev.dallalat",
+   "review": "The Quran app climbing the charts this week — Dalalat Al-quran, from Dub Dev Technologies, reached 160,000 installs with a 4.8-star rating, updated on Sep 14, 2026. It is a companion for understanding the Quran, not just reading it: the full Quran with a clean reading view, audio recitation to listen along, plus tafsir and articles that explain the meaning of what you are reading. Pros: reading, listening and understanding in one free app, a high 4.8-star rating from real users, and educational articles alongside the text. Cons: at 106 MB it is a sizeable download, its tafsir takes a deliberately non-sectarian approach that some readers may want to compare with their own school, and the last update was two months ago. Best for Pakistani readers who want to study the Quran with meaning — reading the Arabic, listening to the recitation and checking the tafsir in the same app.",
+   "slug": "dalalat-al-quran"
   }
  ],
  "categories": [
@@ -3960,6 +4024,12 @@
    "excerpt": "From the week's #1 trending game collection to PUBG and Ludo Star: the best mobile games for Pakistani players, on any budget phone.",
    "slug": "best-mobile-games-pakistan-2026",
    "title": "Best Mobile Games to Play in Pakistan 2026"
+  },
+  {
+   "content": "1. Football Legacy \\u2014 a full soccer career that is free, ad-free and 100% offline: 1,600+ clubs and 212 national teams, perfect for load-shedding evenings. Our review: /apps/football-legacy/.\\n2. GunZone: Gun Games Offline 3D \\u2014 a proper 3D shooter with commando missions, zombies and battle royale, all with zero data. Our review: /apps/gunzone-gun-games-offline-3d/.\\n3. Subway Surfers \\u2014 the endless runner that still works offline: dodge trains, collect coins and chase high scores on any phone. Our review: /apps/subway-surfers/.\\n4. Temple Run 2 \\u2014 the classic endless runner, fully playable without internet and light enough for the oldest phones in the house. Our review: /apps/temple-run-2/.\\n5. Hill Climb Racing \\u2014 physics driving that needs no connection: climb hills, collect coins and upgrade your jeep. Our review: /apps/hill-climb-racing/.\\n6. Candy Crush Saga \\u2014 the match-3 puzzle that has filled Pakistani bus rides for a decade, with thousands of levels offline. Our review: /apps/candy-crush-saga/.\\n7. Prado Parking Game: Car Games \\u2014 park a Prado through tight spots with no data at all — a favourite with Pakistani car lovers. Our review: /apps/prado-parking-game/.\\n8. Unscrew Bolts: Screw Puzzle 3D \\u2014 a relaxing 3D puzzle that runs offline: unscrew bolts in the right order to clear each level. Our review: /apps/unscrew-bolts-screw-puzzle-3d/.\\n9. Tip: download offline games over Wi-Fi before you travel \\u2014 a 600 MB game on mobile data can eat a whole weekly bundle, and offline games keep working when the signal drops on the motorway or during load-shedding.",
+   "excerpt": "Eight free games that play with zero mobile data — for load-shedding, long bus rides and weak signals.",
+   "slug": "best-free-offline-games-pakistan-2026",
+   "title": "Best Free Offline Games in Pakistan 2026"
   }
  ]
 }
