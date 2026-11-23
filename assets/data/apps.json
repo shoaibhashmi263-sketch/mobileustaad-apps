@@ -3768,6 +3768,70 @@
    "package": "com.dubdev.dallalat",
    "review": "The Quran app climbing the charts this week — Dalalat Al-quran, from Dub Dev Technologies, reached 160,000 installs with a 4.8-star rating, updated on Sep 14, 2026. It is a companion for understanding the Quran, not just reading it: the full Quran with a clean reading view, audio recitation to listen along, plus tafsir and articles that explain the meaning of what you are reading. Pros: reading, listening and understanding in one free app, a high 4.8-star rating from real users, and educational articles alongside the text. Cons: at 106 MB it is a sizeable download, its tafsir takes a deliberately non-sectarian approach that some readers may want to compare with their own school, and the last update was two months ago. Best for Pakistani readers who want to study the Quran with meaning — reading the Arabic, listening to the recitation and checking the tafsir in the same app.",
    "slug": "dalalat-al-quran"
+  },
+  {
+   "category": "utilities",
+   "developer": "CLARYON DIGITAL TECH PTE. LTD.",
+   "features": [
+    "Scan paper documents with your camera and save them as clean PDFs",
+    "Turn photos (JPG, PNG) into structured PDF files in a tap",
+    "Edit PDFs: annotate, merge, split and organise your files",
+    "Convert between PDF and other formats without a computer",
+    "Print PDFs straight from your phone to a connected printer",
+    "A full document toolkit in one free app — no separate scanner needed"
+   ],
+   "name": "Vision PDF: Scan & View Pro",
+   "package": "com.great.pdfvision.core",
+   "review": "The fastest-growing app on Google Play this week — Vision PDF: Scan & View Pro, from CLARYON DIGITAL TECH, grew its installs 166 times in seven days to 120,000, with a 4.1-star rating, updated on Oct 30, 2026. It is an all-in-one PDF toolkit: scan paper documents with your camera, turn photos into PDFs, edit and annotate, convert formats, and even print straight from your phone. Pros: scanning, viewing, editing and printing in a single free app, a straightforward interface that does not need a computer, and a tool that keeps getting updated. Cons: the 4.1-star rating is lower than the best PDF apps, some advanced features sit behind in-app purchases, and heavy scanning works best with a steady hand and good light. Best for Pakistani students and job seekers who scan CNICs, certificates and assignments on their phone and want one free app to handle every PDF job.",
+   "slug": "vision-pdf-scan-view-pro"
+  },
+  {
+   "category": "entertainment",
+   "developer": "Navalco Commercial Private Limited",
+   "features": [
+    "Vertical short dramas built for phone screens — romance, revenge and mystery",
+    "New episodes in quick, bingeable bursts you can finish on a tea break",
+    "Free episodes to start watching, with more unlocked as you go",
+    "A growing library of series across several genres",
+    "Light 48.5 MB download that runs on Android 7.0 and up",
+    "Free to install with ads supporting the free episodes"
+   ],
+   "name": "TopDrama Pro",
+   "package": "com.top.movie.clip.drama",
+   "review": "The short-drama app surging this week — TopDrama Pro, from Navalco Commercial Private Limited, has passed 1.1 million installs with a 4.83-star rating from over 19,000 reviews, updated on Oct 15, 2026. It serves vertical mini-dramas made for phone screens: romance, second-chance love, revenge and mystery stories told in quick episodes you can finish in a tea break, starting free. Pros: a very high rating from a large audience, a light 48.5 MB download that runs on Android 7.0+, and a steady flow of new series across several genres. Cons: reviewers say the ads are frequent and sometimes longer than the episode itself, later episodes need watching ads or paying, and the Medium Maturity rating means it is not for younger viewers. Best for Pakistani drama fans who want quick, bingeable stories on their phone without committing to a full TV serial.",
+   "slug": "topdrama-pro"
+  },
+  {
+   "category": "gaming",
+   "developer": "NHN Corp.",
+   "features": [
+    "The official OSHI NO KO game, with the anime's original voice cast",
+    "Refreshing match-3 puzzles: connect three blocks to clear each stage",
+    "Collect character cards and Memory Boards of the anime's best scenes",
+    "Dress up Ai, Aqua, Ruby, Kana, Akane and MEMcho in the Styling Room",
+    "Daily modes: Time Attack, Bingo and Hot Trend rankings",
+    "No ads at all — the full game is free to play"
+   ],
+   "name": "Puzzle Star",
+   "package": "com.nhn.oshinoko",
+   "review": "The official OSHI NO KO game has arrived — Puzzle Star, from NHN Corp., picked up 140,000 installs in its first eleven days with a 4.8-star rating from nearly 4,000 players, updated on Nov 18, 2026. It is a match-3 puzzle game starring Ai, Aqua, Ruby, Kana Arima, Akane Kurokawa and MEMcho, with the anime's original voice cast, exclusive illustrations, collectible Memory Boards of famous scenes, and a Styling Room to dress the characters up. Pros: the real licensed game with the original voices, genuinely no ads, and daily modes like Time Attack and Bingo that keep it fresh. Cons: at 1.34 GB it is a very heavy download on mobile data, it is aimed squarely at fans of the anime, and in-app purchases power the collection side. Best for Pakistani anime fans who want the official OSHI NO KO game on their phone — download it over Wi-Fi first.",
+   "slug": "oshi-no-ko-puzzle-star"
+  },
+  {
+   "category": "gaming",
+   "developer": "ABF ALPENHOF",
+   "features": [
+    "Turn everyday clutter into a satisfying sorting puzzle",
+    "Explore themed rooms: living rooms, kitchens, pet corners and cafes",
+    "Read each box label and tap the matching objects to pack them away",
+    "Limited temporary slots — a little planning keeps the space open",
+    "Eight interface languages and no account registration needed",
+    "Progress saved on your device; earn stars and beat your best times"
+   ],
+   "name": "Amochiroom Puzzle: Room Sort",
+   "package": "com.gamefactory.roomsort",
+   "review": "The puzzle topping the charts worldwide — Amochiroom Puzzle: Room Sort, from ABF ALPENHOF, hit number one in Top Free Games in the US, UK, Canada, Germany, France and Australia, with 1.3 million installs in a month and a 4.77-star rating from over 5,400 reviews, updated on Nov 19, 2026. You tidy cluttered rooms by finding each item and tapping it into the matching box, watching out for your limited temporary slots as the rooms get busier. Pros: a genuinely relaxing sorting loop with charming themed rooms, no account needed and progress saved on your device, and eight interface languages. Cons: it contains ads between levels, later levels push you to watch ads for extra slots, and at 257 MB it is not a tiny download. Best for Pakistani players who love calm, tidy-up puzzle games to unwind with after a long day.",
+   "slug": "amochiroom-puzzle-room-sort"
   }
  ],
  "categories": [
