@@ -3832,6 +3832,70 @@
    "package": "com.gamefactory.roomsort",
    "review": "The puzzle topping the charts worldwide — Amochiroom Puzzle: Room Sort, from ABF ALPENHOF, hit number one in Top Free Games in the US, UK, Canada, Germany, France and Australia, with 1.3 million installs in a month and a 4.77-star rating from over 5,400 reviews, updated on Nov 19, 2026. You tidy cluttered rooms by finding each item and tapping it into the matching box, watching out for your limited temporary slots as the rooms get busier. Pros: a genuinely relaxing sorting loop with charming themed rooms, no account needed and progress saved on your device, and eight interface languages. Cons: it contains ads between levels, later levels push you to watch ads for extra slots, and at 257 MB it is not a tiny download. Best for Pakistani players who love calm, tidy-up puzzle games to unwind with after a long day.",
    "slug": "amochiroom-puzzle-room-sort"
+  },
+  {
+   "category": "entertainment",
+   "developer": "TikTok Pte. Ltd.",
+   "features": [
+    "Vertical short dramas in 1-3 minute episodes made for phone screens",
+    "Romance, revenge, billionaire and fantasy series with new episodes daily",
+    "Free episodes unlocked by watching ads — no coins needed to start",
+    "Sign in with your TikTok account to keep your watch progress and favourites",
+    "Personalised recommendations that learn what kind of stories you like",
+    "Plays smoothly on slow connections, built for budget phones and mobile data"
+   ],
+   "name": "PineDrama - Short Dramas",
+   "package": "com.ss.android.ttmd.video",
+   "review": "TikTok's official short-drama app — PineDrama, from TikTok Pte. Ltd., carries a 4.6-star rating from around 500,000 reviews and was updated on Nov 16, 2026. It serves vertical mini-dramas in 1-3 minute episodes: romance, revenge, billionaire and fantasy stories, with free episodes unlocked by watching ads and your progress saved through your TikTok account. Pros: an official app from a company Pakistanis already trust, genuinely free episodes without buying coins first, and a familiar TikTok-style feed that needs no learning. Cons: later episodes in a series can still need coins or a subscription, ads interrupt free viewing, and some series are not available in every region. Best for Pakistani drama fans who already live on TikTok and want quick, bingeable stories on their phone without paying upfront.",
+   "slug": "pinedrama"
+  },
+  {
+   "category": "entertainment",
+   "developer": "GoodNovel",
+   "features": [
+    "One of the largest short-drama libraries anywhere, with about 200 new series a month",
+    "Romance-first catalogue: billionaire, revenge, werewolf fantasy and family drama",
+    "Free episodes every day, with more unlocked by watching ads or daily check-ins",
+    "Clear coin prices published in the app, from 500 coins for $4.99 upwards",
+    "HD playback with subtitles, plus new episodes released daily",
+    "Works on Android 7.0 and up in a light 48 MB download"
+   ],
+   "name": "GoodShort - Short Dramas Hub",
+   "package": "com.newreading.goodreels",
+   "review": "The highest-rated big short-drama app — GoodShort, from GoodNovel, holds 4.7 stars from over 4.5 million ratings and 100 million-plus installs, updated on Nov 19, 2026. It has one of the largest short-drama libraries anywhere, adding about 200 new series a month across romance, revenge, werewolf fantasy and family drama, with free episodes every day and more unlocked through ads or daily check-ins. Pros: the best store rating in its category at this scale, a huge and constantly refreshed library, and clearly published coin prices so you know what a series costs before you start. Cons: finishing a whole series usually means paying — coins add up fast at 500 for $4.99 — ads run on the free tier, and the Medium Maturity rating means it is not for younger viewers. Best for Pakistani viewers who watch a little every day and want the widest choice of short dramas in one app.",
+   "slug": "goodshort"
+  },
+  {
+   "category": "entertainment",
+   "developer": "SKYWORK AI PTE.LTD.",
+   "features": [
+    "Short dramas plus short-form reels in one app, with new series added regularly",
+    "Ad-supported free viewing — most series start free with no subscription",
+    "One- to two-minute vertical episodes you can finish in a spare moment",
+    "Romance, revenge and fantasy series with subtitles",
+    "Free to install with ads; optional ad-free tier for heavy watchers",
+    "Runs on Android 8.0 and up"
+   ],
+   "name": "FreeReels - Dramas & Reels",
+   "package": "com.freereels.app",
+   "review": "The most downloaded short-drama app in the world — FreeReels, from SKYWORK AI PTE.LTD., holds 4.7 stars from over 2 million ratings and 100 million-plus installs on Google Play, updated on Nov 17, 2026, and Sensor Tower named it the most downloaded short-drama app worldwide in early 2026. It mixes vertical short dramas with short-form reels, and most series start free with ads instead of a paywall — the app sells your attention to advertisers rather than selling you coins. Pros: the largest verified review base in the category, a genuinely free route into most series, and a huge library that keeps growing. Cons: the free episode allowance runs out after about ten to twelve episodes in a series, the ad-free tier costs around $11.99 a month, and copycat apps use the same name — install only the one published by SKYWORK AI PTE.LTD. Best for Pakistani viewers who want to watch short dramas for free and do not mind ads between episodes.",
+   "slug": "freereels"
+  },
+  {
+   "category": "gaming",
+   "developer": "mobirix",
+   "features": [
+    "Unscrew bolts and drop the wooden sticks to clear each puzzle",
+    "Simple one-tap controls anyone can pick up in seconds",
+    "Hundreds of levels with new puzzles added regularly",
+    "Relaxing pace with no timer pressure on most levels",
+    "Quick sessions that fit a tea break or a bus ride",
+    "Light download that runs well on budget phones"
+   ],
+   "name": "Screw Out Quest",
+   "package": "com.mobirix.ldfscrw",
+   "review": "The fastest-growing puzzle game this week — Screw Out Quest, from mobirix, has a 4.8-star rating and 150,000 installs after growing 33 times in a single week, just eight weeks after launching on Google Play. The idea is simple: unscrew the bolts in the right order to drop the wooden sticks and clear the puzzle, with one-tap controls anyone can learn in seconds. Pros: a very high rating from early players, genuinely simple gameplay with no learning curve, and quick relaxing sessions that suit a tea break or a bus ride. Cons: ads appear between levels, the difficulty jumps sharply on later levels, and with only 150,000 installs so far there are few community tips when you get stuck. Best for Pakistani casual gamers who want a light, relaxing puzzle that runs well on any phone.",
+   "slug": "screw-out-quest"
   }
  ],
  "categories": [
@@ -4094,6 +4158,12 @@
    "excerpt": "Eight free games that play with zero mobile data — for load-shedding, long bus rides and weak signals.",
    "slug": "best-free-offline-games-pakistan-2026",
    "title": "Best Free Offline Games in Pakistan 2026"
+  },
+  {
+   "content": "1. Cricbuzz — the fastest live scores. Ball-by-ball commentary, squads, toss updates and points tables for PSL, Pakistan internationals, IPL and every major tournament; match alerts arrive in seconds, and the score page loads fast even on weak mobile data.\n2. ESPNcricinfo (Cricinfo app) — the deepest stats desk. Player profiles, records, head-to-heads and proper match reports for fans who ask 'what was his average in Asia since 2021?'; the best pre-match reading and post-match analysis.\n3. CREX — the cleanest scorecard. Quick scorecards without too much reading, covering international matches, leagues and domestic games; the app Pakistan's sports charts rank at the very top.\n4. myco — the Pakistani pick for live cricket. PSL and major ICC matches streamed free with ads, light on data with adjustable stream quality — a favourite when the match is on and the Wi-Fi is not. Our review: /apps/myco/.\n5. tapmad — live sports streaming. PSL, internationals and other live sports in one app, with free and paid tiers depending on the match. Our review: /apps/tapmad-live-sports/.\n6. ARY ZAP — live TV, sports and dramas. A Sports and other ARY channels live on your phone, so one app covers cricket nights and drama evenings alike. Our review: /apps/ary-zap/.\n7. Skip the 'Live Cricket TV HD' clones. Dozens of apps with that name top Pakistan's sports charts, but they stream matches without rights and are packed with aggressive ads — several get removed from the Play Store and some carry malware. Stick to the official apps above.\n8. Tip: scores cost almost no data, video costs a lot. A full T20 on mobile data can eat a weekly bundle, so follow the score on Cricbuzz or CREX and switch to video only for the last overs — or catch the match on Wi-Fi and use the score app for alerts.",
+   "excerpt": "Live scores, PSL streams and deep stats — the best legal cricket apps for Pakistani fans, plus the clones to avoid.",
+   "slug": "best-cricket-apps-pakistan-2026",
+   "title": "Best Cricket Apps in Pakistan 2026"
   }
  ]
 }
